@@ -16,13 +16,13 @@
 [Контейнеры в Python: списки, кортежи, множества, словари. Индексация и срезы. Методы строк и списков.Условный оператор.](https://github.com/k-vasiliev/DPO_Python_2022/tree/main/lect02_complex_types_if_else)
 
 3 занятие
-[Регулярные выражения](https://github.com/k-vasiliev/DPO_Python_2022/tree/main/lect03_regexp)
-
-4 занятие
 [Цикл for. Применение циклов к строкам, спискам, кортежам и словарям. Альтернатива коду с циклами: списковые включения.Итераторы, генераторы списков.](https://github.com/k-vasiliev/DPO_Python_2022/tree/main/lect04_for)
 
-5 занятие
+4 занятие
 [Устройство функций в Python. Написание простейших функций. Lambda-функции. Функция map(). Написание сложных функций. генераторы, Декораторы, Рекурсия.](https://github.com/k-vasiliev/DPO_Python_2022/tree/main/lect05_functions)
+
+5 занятие
+[Регулярные выражения](https://github.com/k-vasiliev/DPO_Python_2022/tree/main/lect03_regexp)
 
 6 занятие
 [O-нотация. Работа с файлами: чтение и запись.](https://github.com/k-vasiliev/DPO_Python_2022/tree/master/lect06_O_notation)
