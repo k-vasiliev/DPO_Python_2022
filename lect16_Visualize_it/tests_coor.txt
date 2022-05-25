@@ -1,0 +1,12 @@
+SitesName,Lat,Long
+Bikini Atoll,11.59084,165.50546
+Enewetak Atoll,11.55,162.31
+Johnston Atoll,16.07239,-169.60997
+Kiritimati,1.59,-157.32
+Nevada,37.02337,-116.18181000000001
+Amchitka,51.41572,179.17938999999998
+Semipalatinsk,49.97,78.086
+Novaya Zemlya,73.2,54.7
+Kiritimati,1.6693200000000001,-157.22742
+Fangataufa,-22.23,-138.73
+Lop Nur,41.375,88.32600000000001

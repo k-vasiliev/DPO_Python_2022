@@ -1,0 +1,1683 @@
+,Film,Year,Body_Count,MPAA_Rating,Genre,Director,Length_Minutes,IMDB_Rating,Film_Count,Body_Count_Min
+0,24 Hour Party People,2002,7.0,R,Biography,Michael Winterbottom,117,7.3,1,0.05982905982905983
+1,24 Hour Party People,2002,7.0,R,Comedy,Michael Winterbottom,117,7.3,1,0.05982905982905983
+2,24 Hour Party People,2002,7.0,R,Drama,Michael Winterbottom,117,7.3,1,0.05982905982905983
+3,24 Hour Party People,2002,7.0,R,Music,Michael Winterbottom,117,7.3,1,0.05982905982905983
+4,28 Days Later,2002,53.0,R,Horror,Danny Boyle,113,7.6,1,0.4690265486725664
+5,28 Days Later,2002,53.0,R,Sci-Fi,Danny Boyle,113,7.6,1,0.4690265486725664
+6,28 Days Later,2002,53.0,R,Thriller,Danny Boyle,113,7.6,1,0.4690265486725664
+7,28 Weeks Later,2007,212.0,R,Horror,Juan Carlos Fresnadillo,100,7.0,1,2.12
+8,28 Weeks Later,2007,212.0,R,Sci-Fi,Juan Carlos Fresnadillo,100,7.0,1,2.12
+9,28 Weeks Later,2007,212.0,R,Thriller,Juan Carlos Fresnadillo,100,7.0,1,2.12
+10,30 Days of Night,2007,67.0,R,Horror,David Slade,113,6.6,1,0.5929203539823009
+11,30 Days of Night,2007,67.0,R,Thriller,David Slade,113,6.6,1,0.5929203539823009
+12,300,2007,600.0,R,Action,Zack Snyder,117,7.7,1,5.128205128205129
+13,300,2007,600.0,R,Fantasy,Zack Snyder,117,7.7,1,5.128205128205129
+14,300,2007,600.0,R,History,Zack Snyder,117,7.7,1,5.128205128205129
+15,300,2007,600.0,R,War,Zack Snyder,117,7.7,1,5.128205128205129
+16,3:10 To Yuma,2007,45.0,R,Adventure,James Mangold,122,7.8,1,0.36885245901639346
+17,3:10 To Yuma,2007,45.0,R,Crime,James Mangold,122,7.8,1,0.36885245901639346
+18,3:10 To Yuma,2007,45.0,R,Drama,James Mangold,122,7.8,1,0.36885245901639346
+19,3:10 To Yuma,2007,45.0,R,Western,James Mangold,122,7.8,1,0.36885245901639346
+20,8MM,1999,1.0,R,Crime,Joel Schumacher,123,6.4,1,0.008130081300813009
+21,8MM,1999,1.0,R,Mystery,Joel Schumacher,123,6.4,1,0.008130081300813009
+22,8MM,1999,1.0,R,Thriller,Joel Schumacher,123,6.4,1,0.008130081300813009
+23,A Better Tomorrow,1986,65.0,R,Action,John Woo,95,7.5,1,0.6842105263157895
+24,A Better Tomorrow,1986,65.0,R,Crime,John Woo,95,7.5,1,0.6842105263157895
+25,A Better Tomorrow,1986,65.0,R,Drama,John Woo,95,7.5,1,0.6842105263157895
+26,A Better Tomorrow,1986,65.0,R,Thriller,John Woo,95,7.5,1,0.6842105263157895
+27,A Better Tomorrow II,1987,199.0,R,Action,John Woo,105,7.3,1,1.8952380952380952
+28,A Better Tomorrow II,1987,199.0,R,Crime,John Woo,105,7.3,1,1.8952380952380952
+29,A Better Tomorrow II,1987,199.0,R,Drama,John Woo,105,7.3,1,1.8952380952380952
+30,A Better Tomorrow II,1987,199.0,R,Thriller,John Woo,105,7.3,1,1.8952380952380952
+31,A Bridge Too Far,1977,243.0,PG,Drama,Richard Attenborough,175,7.4,1,1.3885714285714286
+32,A Bridge Too Far,1977,243.0,PG,History,Richard Attenborough,175,7.4,1,1.3885714285714286
+33,A Bridge Too Far,1977,243.0,PG,War,Richard Attenborough,175,7.4,1,1.3885714285714286
+34,A Christmas Story,1983,4.0,PG,Comedy,Bob Clark,94,8.1,1,0.0425531914893617
+35,A Christmas Story,1983,4.0,PG,Family,Bob Clark,94,8.1,1,0.0425531914893617
+36,A Clockwork Orange,1971,7.0,X,Crime,Stanley Kubrick,136,8.4,1,0.051470588235294115
+37,A Clockwork Orange,1971,7.0,X,Drama,Stanley Kubrick,136,8.4,1,0.051470588235294115
+38,A Clockwork Orange,1971,7.0,X,Sci-Fi,Stanley Kubrick,136,8.4,1,0.051470588235294115
+39,A Fistful of Dollars,1964,109.0,M,Western,Sergio Leone,99,8.0,1,1.101010101010101
+40,A Fistful of Dynamite,1971,471.0,PG,Adventure,Sergio Leone,138,7.7,1,3.4130434782608696
+41,A Fistful of Dynamite,1971,471.0,PG,Western,Sergio Leone,138,7.7,1,3.4130434782608696
+42,A History of Violence,2005,13.0,R,Crime,David Cronenberg,96,7.5,1,0.13541666666666666
+43,A History of Violence,2005,13.0,R,Drama,David Cronenberg,96,7.5,1,0.13541666666666666
+44,A History of Violence,2005,13.0,R,Thriller,David Cronenberg,96,7.5,1,0.13541666666666666
+45,A Man Apart,2003,39.0,R,Action,F. Gary Gray,109,6.0,1,0.3577981651376147
+46,A Man Apart,2003,39.0,R,Crime,F. Gary Gray,109,6.0,1,0.3577981651376147
+47,A Man Apart,2003,39.0,R,Drama,F. Gary Gray,109,6.0,1,0.3577981651376147
+48,A Man Apart,2003,39.0,R,Thriller,F. Gary Gray,109,6.0,1,0.3577981651376147
+49,A Nightmare on Elm Street,1984,4.0,R,Horror,Wes Craven,91,7.5,1,0.04395604395604396
+50,Above the Law,1988,18.0,R,Action,Andrew Davis,99,5.8,1,0.18181818181818182
+51,Above the Law,1988,18.0,R,Crime,Andrew Davis,99,5.8,1,0.18181818181818182
+52,Above the Law,1988,18.0,R,Drama,Andrew Davis,99,5.8,1,0.18181818181818182
+53,Above the Law,1988,18.0,R,Thriller,Andrew Davis,99,5.8,1,0.18181818181818182
+54,Action Jackson,1988,17.0,R,Action,Craig R. Baxley,96,4.9,1,0.17708333333333334
+55,Action Jackson,1988,17.0,R,Comedy,Craig R. Baxley,96,4.9,1,0.17708333333333334
+56,Action Jackson,1988,17.0,R,Crime,Craig R. Baxley,96,4.9,1,0.17708333333333334
+57,Action Jackson,1988,17.0,R,Thriller,Craig R. Baxley,96,4.9,1,0.17708333333333334
+58,Aeon Flux,2005,58.0,PG-13,Action,Karyn Kusama,93,5.4,1,0.6236559139784946
+59,Aeon Flux,2005,58.0,PG-13,Sci-Fi,Karyn Kusama,93,5.4,1,0.6236559139784946
+60,Air Force One,1997,54.0,R,Action,Wolfgang Petersen,124,6.4,1,0.43548387096774194
+61,Air Force One,1997,54.0,R,Adventure,Wolfgang Petersen,124,6.4,1,0.43548387096774194
+62,Air Force One,1997,54.0,R,Drama,Wolfgang Petersen,124,6.4,1,0.43548387096774194
+63,Akira,1988,119.0,R,Animation,Katsuhiro Ohtomo,124,8.0,1,0.9596774193548387
+64,Akira,1988,119.0,R,Horror,Katsuhiro Ohtomo,124,8.0,1,0.9596774193548387
+65,Akira,1988,119.0,R,Sci-Fi,Katsuhiro Ohtomo,124,8.0,1,0.9596774193548387
+66,Alexander,2005,119.0,R,Action,Oliver Stone,175,5.4,1,0.68
+67,Alexander,2005,119.0,R,Adventure,Oliver Stone,175,5.4,1,0.68
+68,Alexander,2005,119.0,R,Biography,Oliver Stone,175,5.4,1,0.68
+69,Ali G Indahouse,2002,11.0,R,Comedy,Mark Mylod,85,6.1,1,0.12941176470588237
+70,Alien,1979,1.0,R,Horror,Ridley Scott,117,8.5,1,0.008547008547008548
+71,Alien,1979,1.0,R,Sci-Fi,Ridley Scott,117,8.5,1,0.008547008547008548
+72,Aliens,1986,68.0,R,Action,James Cameron,137,8.5,1,0.49635036496350365
+73,Aliens,1986,68.0,R,Adventure,James Cameron,137,8.5,1,0.49635036496350365
+74,Aliens,1986,68.0,R,Sci-Fi,James Cameron,137,8.5,1,0.49635036496350365
+75,Aliens vs. Predator: Requiem,2007,5.0,R,Action,Colin Strause|Greg Strause,94,4.7,1,0.05319148936170213
+76,Aliens vs. Predator: Requiem,2007,5.0,R,Horror,Colin Strause|Greg Strause,94,4.7,1,0.05319148936170213
+77,Aliens vs. Predator: Requiem,2007,5.0,R,Sci-Fi,Colin Strause|Greg Strause,94,4.7,1,0.05319148936170213
+78,Aliens vs. Predator: Requiem,2007,5.0,R,Thriller,Colin Strause|Greg Strause,94,4.7,1,0.05319148936170213
+79,Alpha Dog,2007,3.0,R,Biography,Nick Cassavetes,122,6.9,1,0.02459016393442623
+80,Alpha Dog,2007,3.0,R,Crime,Nick Cassavetes,122,6.9,1,0.02459016393442623
+81,Alpha Dog,2007,3.0,R,Drama,Nick Cassavetes,122,6.9,1,0.02459016393442623
+82,Altered States,1980,5.0,R,Drama,Ken Russell,102,6.9,1,0.049019607843137254
+83,Altered States,1980,5.0,R,Fantasy,Ken Russell,102,6.9,1,0.049019607843137254
+84,Altered States,1980,5.0,R,Horror,Ken Russell,102,6.9,1,0.049019607843137254
+85,Altered States,1980,5.0,R,Sci-Fi,Ken Russell,102,6.9,1,0.049019607843137254
+86,Altered States,1980,5.0,R,Thriller,Ken Russell,102,6.9,1,0.049019607843137254
+87,American Gangster,2007,15.0,R,Biography,Ridley Scott,157,7.8,1,0.09554140127388536
+88,American Gangster,2007,15.0,R,Crime,Ridley Scott,157,7.8,1,0.09554140127388536
+89,American Gangster,2007,15.0,R,Drama,Ridley Scott,157,7.8,1,0.09554140127388536
+90,American Ninja,1985,114.0,R,Action,Sam Firstenberg,95,5.1,1,1.2
+91,American Ninja,1985,114.0,R,Adventure,Sam Firstenberg,95,5.1,1,1.2
+92,American Ninja,1985,114.0,R,Romance,Sam Firstenberg,95,5.1,1,1.2
+93,American Ninja,1985,114.0,R,Sport,Sam Firstenberg,95,5.1,1,1.2
+94,American Pop,1981,61.0,R,Animation,Ralph Bakshi,96,6.9,1,0.6354166666666666
+95,American Pop,1981,61.0,R,Drama,Ralph Bakshi,96,6.9,1,0.6354166666666666
+96,American Pop,1981,61.0,R,Music,Ralph Bakshi,96,6.9,1,0.6354166666666666
+97,American Psycho,2000,18.0,R,Crime,Mary Harron,102,7.6,1,0.17647058823529413
+98,American Psycho,2000,18.0,R,Drama,Mary Harron,102,7.6,1,0.17647058823529413
+99,American Yakuza,1993,53.0,R,Action,Frank A. Cappello,96,5.7,1,0.5520833333333334
+100,American Yakuza,1993,53.0,R,Crime,Frank A. Cappello,96,5.7,1,0.5520833333333334
+101,American Yakuza,1993,53.0,R,Drama,Frank A. Cappello,96,5.7,1,0.5520833333333334
+102,American Yakuza,1993,53.0,R,Thriller,Frank A. Cappello,96,5.7,1,0.5520833333333334
+103,Another Day In Paradise,1997,9.0,R,Crime,Larry Clark,101,6.5,1,0.0891089108910891
+104,Another Day In Paradise,1997,9.0,R,Drama,Larry Clark,101,6.5,1,0.0891089108910891
+105,Another Day In Paradise,1997,9.0,R,Thriller,Larry Clark,101,6.5,1,0.0891089108910891
+106,Apocalypse Now,1979,62.0,R,Drama,Francis Ford Coppola,153,8.5,1,0.40522875816993464
+107,Apocalypse Now,1979,62.0,R,War,Francis Ford Coppola,153,8.5,1,0.40522875816993464
+108,Apocalypto,2006,114.0,R,Action,Mel Gibson,139,7.8,1,0.8201438848920863
+109,Apocalypto,2006,114.0,R,Adventure,Mel Gibson,139,7.8,1,0.8201438848920863
+110,Apocalypto,2006,114.0,R,Drama,Mel Gibson,139,7.8,1,0.8201438848920863
+111,Apocalypto,2006,114.0,R,Thriller,Mel Gibson,139,7.8,1,0.8201438848920863
+112,Appaloosa,2008,10.0,R,Crime,Ed Harris,115,6.8,1,0.08695652173913043
+113,Appaloosa,2008,10.0,R,Drama,Ed Harris,115,6.8,1,0.08695652173913043
+114,Appaloosa,2008,10.0,R,Western,Ed Harris,115,6.8,1,0.08695652173913043
+115,Aqua Teen Hunger Force Colon Movie Film for Theaters,2007,67.0,R,Animation,Matt Maiellaro|Dave Willis,86,6.8,1,0.7790697674418605
+116,Aqua Teen Hunger Force Colon Movie Film for Theaters,2007,67.0,R,Action,Matt Maiellaro|Dave Willis,86,6.8,1,0.7790697674418605
+117,Aqua Teen Hunger Force Colon Movie Film for Theaters,2007,67.0,R,Adventure,Matt Maiellaro|Dave Willis,86,6.8,1,0.7790697674418605
+118,Armageddon,1998,16.0,PG-13,Action,Michael Bay,151,6.5,1,0.10596026490066225
+119,Armageddon,1998,16.0,PG-13,Adventure,Michael Bay,151,6.5,1,0.10596026490066225
+120,Armageddon,1998,16.0,PG-13,Sci-Fi,Michael Bay,151,6.5,1,0.10596026490066225
+121,Armageddon,1998,16.0,PG-13,Thriller,Michael Bay,151,6.5,1,0.10596026490066225
+122,Assault On Precinct 13,1976,39.0,R,Action,John Carpenter,91,7.4,1,0.42857142857142855
+123,Assault On Precinct 13,1976,39.0,R,Crime,John Carpenter,91,7.4,1,0.42857142857142855
+124,Assault On Precinct 13,1976,39.0,R,Thriller,John Carpenter,91,7.4,1,0.42857142857142855
+125,Assault On Precinct 13,2005,21.0,R,Action,Jean-Francois Richet,109,6.3,1,0.1926605504587156
+126,Assault On Precinct 13,2005,21.0,R,Drama,Jean-Francois Richet,109,6.3,1,0.1926605504587156
+127,Assault On Precinct 13,2005,21.0,R,Crime,Jean-Francois Richet,109,6.3,1,0.1926605504587156
+128,Assault On Precinct 13,2005,21.0,R,Thriller,Jean-Francois Richet,109,6.3,1,0.1926605504587156
+129,Atonement,2007,34.0,R,Drama,Joe Wright,123,7.8,1,0.2764227642276423
+130,Atonement,2007,34.0,R,Mystery,Joe Wright,123,7.8,1,0.2764227642276423
+131,Atonement,2007,34.0,R,Romance,Joe Wright,123,7.8,1,0.2764227642276423
+132,Atonement,2007,34.0,R,War,Joe Wright,123,7.8,1,0.2764227642276423
+133,Austin Powers in Goldmember,2002,6.0,PG-13,Action,Jay Roach,94,6.1,1,0.06382978723404255
+134,Austin Powers in Goldmember,2002,6.0,PG-13,Comedy,Jay Roach,94,6.1,1,0.06382978723404255
+135,Austin Powers in Goldmember,2002,6.0,PG-13,Crime,Jay Roach,94,6.1,1,0.06382978723404255
+136,Bad Boys,1995,30.0,R,Action,Michael Bay,118,6.7,1,0.2542372881355932
+137,Bad Boys,1995,30.0,R,Comedy,Michael Bay,118,6.7,1,0.2542372881355932
+138,Bad Boys,1995,30.0,R,Crime,Michael Bay,118,6.7,1,0.2542372881355932
+139,Bad Boys,1995,30.0,R,Drama,Michael Bay,118,6.7,1,0.2542372881355932
+140,Bad Boys,1995,30.0,R,Thriller,Michael Bay,118,6.7,1,0.2542372881355932
+141,Bad Boys II,2003,63.0,R,Action,Michael Bay,147,6.4,1,0.42857142857142855
+142,Bad Boys II,2003,63.0,R,Comedy,Michael Bay,147,6.4,1,0.42857142857142855
+143,Bad Boys II,2003,63.0,R,Crime,Michael Bay,147,6.4,1,0.42857142857142855
+144,Bad Boys II,2003,63.0,R,Thriller,Michael Bay,147,6.4,1,0.42857142857142855
+145,Bangkok Dangerous,2008,38.0,R,Action,Oxide Pang Chun|Danny Pang,99,5.4,1,0.3838383838383838
+146,Bangkok Dangerous,2008,38.0,R,Crime,Oxide Pang Chun|Danny Pang,99,5.4,1,0.3838383838383838
+147,Bangkok Dangerous,2008,38.0,R,Thriller,Oxide Pang Chun|Danny Pang,99,5.4,1,0.3838383838383838
+148,Barton Fink,1991,3.0,R,Drama,Joel Coen|Ethan Coen,116,7.7,1,0.02586206896551724
+149,Barton Fink,1991,3.0,R,Mystery,Joel Coen|Ethan Coen,116,7.7,1,0.02586206896551724
+150,Batman,1989,56.0,PG-13,Action,Tim Burton,126,7.6,1,0.4444444444444444
+151,Batman,1989,56.0,PG-13,Thriller,Tim Burton,126,7.6,1,0.4444444444444444
+152,Batman Begins,2005,18.0,PG-13,Action,Christopher Nolan,140,8.3,1,0.12857142857142856
+153,Batman Begins,2005,18.0,PG-13,Adventure,Christopher Nolan,140,8.3,1,0.12857142857142856
+154,Batman Begins,2005,18.0,PG-13,Crime,Christopher Nolan,140,8.3,1,0.12857142857142856
+155,Batman Begins,2005,18.0,PG-13,Drama,Christopher Nolan,140,8.3,1,0.12857142857142856
+156,Batman Returns,1992,18.0,PG-13,Action,Tim Burton,126,6.9,1,0.14285714285714285
+157,Batman Returns,1992,18.0,PG-13,Fantasy,Tim Burton,126,6.9,1,0.14285714285714285
+158,Battlefield Earth,2000,51.0,PG-13,Action,Roger Christian,118,2.4,1,0.4322033898305085
+159,Battlefield Earth,2000,51.0,PG-13,Sci-Fi,Roger Christian,118,2.4,1,0.4322033898305085
+160,Behind Enemy Lines,2001,96.0,PG-13,Action,John Moore,106,6.3,1,0.9056603773584906
+161,Behind Enemy Lines,2001,96.0,PG-13,War,John Moore,106,6.3,1,0.9056603773584906
+162,Behind Enemy Lines,2001,96.0,PG-13,Drama,John Moore,106,6.3,1,0.9056603773584906
+163,Beowulf,2007,51.0,PG-13,Animation,Robert Zemeckis,115,6.3,1,0.4434782608695652
+164,Beowulf,2007,51.0,PG-13,Action,Robert Zemeckis,115,6.3,1,0.4434782608695652
+165,Beowulf,2007,51.0,PG-13,Adventure,Robert Zemeckis,115,6.3,1,0.4434782608695652
+166,Big Trouble In Little China,1986,46.0,PG-13,Action,John Carpenter,99,7.2,1,0.46464646464646464
+167,Big Trouble In Little China,1986,46.0,PG-13,Adventure,John Carpenter,99,7.2,1,0.46464646464646464
+168,Big Trouble In Little China,1986,46.0,PG-13,Comedy,John Carpenter,99,7.2,1,0.46464646464646464
+169,Big Trouble In Little China,1986,46.0,PG-13,Fantasy,John Carpenter,99,7.2,1,0.46464646464646464
+170,Black Dynamite,2009,66.0,R,Action,Scott Sanders,84,7.3,1,0.7857142857142857
+171,Black Dynamite,2009,66.0,R,Comedy,Scott Sanders,84,7.3,1,0.7857142857142857
+172,Black Hawk Down,2001,135.0,R,Drama,Ridley Scott,144,7.7,1,0.9375
+173,Black Hawk Down,2001,135.0,R,History,Ridley Scott,144,7.7,1,0.9375
+174,Black Hawk Down,2001,135.0,R,War,Ridley Scott,144,7.7,1,0.9375
+175,Blade,1998,111.0,R,Action,Stephen Norrington,120,7.1,1,0.925
+176,Blade,1998,111.0,R,Fantasy,Stephen Norrington,120,7.1,1,0.925
+177,Blade,1998,111.0,R,Horror,Stephen Norrington,120,7.1,1,0.925
+178,Blade II,2002,98.0,R,Action,Guillermo del Toro,117,6.6,1,0.8376068376068376
+179,Blade II,2002,98.0,R,Horror,Guillermo del Toro,117,6.6,1,0.8376068376068376
+180,Blade II,2002,98.0,R,Sci-Fi,Guillermo del Toro,117,6.6,1,0.8376068376068376
+181,Blade II,2002,98.0,R,Thriller,Guillermo del Toro,117,6.6,1,0.8376068376068376
+182,Blade Runner,1982,5.0,R,Drama,Ridley Scott,117,8.2,1,0.042735042735042736
+183,Blade Runner,1982,5.0,R,Sci-Fi,Ridley Scott,117,8.2,1,0.042735042735042736
+184,Blade Runner,1982,5.0,R,Thriller,Ridley Scott,117,8.2,1,0.042735042735042736
+185,Blade: Trinity,2004,140.0,R,Action,David S. Goyer,113,5.8,1,1.238938053097345
+186,Blade: Trinity,2004,140.0,R,Adventure,David S. Goyer,113,5.8,1,1.238938053097345
+187,Blade: Trinity,2004,140.0,R,Fantasy,David S. Goyer,113,5.8,1,1.238938053097345
+188,Blade: Trinity,2004,140.0,R,Horror,David S. Goyer,113,5.8,1,1.238938053097345
+189,Blade: Trinity,2004,140.0,R,Sci-Fi,David S. Goyer,113,5.8,1,1.238938053097345
+190,Blade: Trinity,2004,140.0,R,Thriller,David S. Goyer,113,5.8,1,1.238938053097345
+191,Blood Diamond,2006,187.0,R,Adventure,Edward Zwick,143,8.0,1,1.3076923076923077
+192,Blood Diamond,2006,187.0,R,Drama,Edward Zwick,143,8.0,1,1.3076923076923077
+193,Blood Diamond,2006,187.0,R,Thriller,Edward Zwick,143,8.0,1,1.3076923076923077
+194,Blood and Chocolate,2007,256.0,PG-13,Drama,Katja von Garnier,98,5.3,1,2.6122448979591835
+195,Blood and Chocolate,2007,256.0,PG-13,Fantasy,Katja von Garnier,98,5.3,1,2.6122448979591835
+196,Blood and Chocolate,2007,256.0,PG-13,Horror,Katja von Garnier,98,5.3,1,2.6122448979591835
+197,BloodRayne,2006,102.0,R,Action,Uwe Boll,95,2.8,1,1.0736842105263158
+198,BloodRayne,2006,102.0,R,Adventure,Uwe Boll,95,2.8,1,1.0736842105263158
+199,BloodRayne,2006,102.0,R,Fantasy,Uwe Boll,95,2.8,1,1.0736842105263158
+200,BloodRayne,2006,102.0,R,Horror,Uwe Boll,95,2.8,1,1.0736842105263158
+201,Braindead,1992,72.0,R,Comedy,Peter Jackson,104,7.6,1,0.6923076923076923
+202,Braindead,1992,72.0,R,Horror,Peter Jackson,104,7.6,1,0.6923076923076923
+203,Braveheart,1995,184.0,R,Action,Mel Gibson,177,8.4,1,1.03954802259887
+204,Braveheart,1995,184.0,R,Biography,Mel Gibson,177,8.4,1,1.03954802259887
+205,Braveheart,1995,184.0,R,Drama,Mel Gibson,177,8.4,1,1.03954802259887
+206,Braveheart,1995,184.0,R,History,Mel Gibson,177,8.4,1,1.03954802259887
+207,Braveheart,1995,184.0,R,War,Mel Gibson,177,8.4,1,1.03954802259887
+208,Brazil,1985,25.0,R,Drama,Terry Gilliam,132,8.0,1,0.1893939393939394
+209,Brazil,1985,25.0,R,Fantasy,Terry Gilliam,132,8.0,1,0.1893939393939394
+210,Brazil,1985,25.0,R,Sci-Fi,Terry Gilliam,132,8.0,1,0.1893939393939394
+211,Bridge of Dragons,1999,109.0,R,Action,Isaac Florentine,92,4.4,1,1.184782608695652
+212,Bridge of Dragons,1999,109.0,R,Romance,Isaac Florentine,92,4.4,1,1.184782608695652
+213,Bridge of Dragons,1999,109.0,R,Sci-Fi,Isaac Florentine,92,4.4,1,1.184782608695652
+214,Bridge of Dragons,1999,109.0,R,Thriller,Isaac Florentine,92,4.4,1,1.184782608695652
+215,Broken Arrow,1996,25.0,R,Action,John Woo,108,5.9,1,0.23148148148148148
+216,Broken Arrow,1996,25.0,R,Adventure,John Woo,108,5.9,1,0.23148148148148148
+217,Broken Arrow,1996,25.0,R,Thriller,John Woo,108,5.9,1,0.23148148148148148
+218,Brotherhood of the Wolf,2001,40.0,R,Action,Christophe Gans,142,7.0,1,0.28169014084507044
+219,Brotherhood of the Wolf,2001,40.0,R,Adventure,Christophe Gans,142,7.0,1,0.28169014084507044
+220,Brotherhood of the Wolf,2001,40.0,R,History,Christophe Gans,142,7.0,1,0.28169014084507044
+221,Buffalo Soldiers,2001,16.0,R,Comedy,Gregor Jordan,98,6.8,1,0.16326530612244897
+222,Buffalo Soldiers,2001,16.0,R,Crime,Gregor Jordan,98,6.8,1,0.16326530612244897
+223,Buffalo Soldiers,2001,16.0,R,Drama,Gregor Jordan,98,6.8,1,0.16326530612244897
+224,Buffalo Soldiers,2001,16.0,R,Thriller,Gregor Jordan,98,6.8,1,0.16326530612244897
+225,Buffalo Soldiers,2001,16.0,R,War,Gregor Jordan,98,6.8,1,0.16326530612244897
+226,Bullet in the Head,1990,214.0,Unrated,Crime,John Woo,136,7.6,1,1.5735294117647058
+227,Bullet in the Head,1990,214.0,Unrated,Drama,John Woo,136,7.6,1,1.5735294117647058
+228,Bullet in the Head,1990,214.0,Unrated,Thriller,John Woo,136,7.6,1,1.5735294117647058
+229,Bulletproof Monk,2003,37.0,PG-13,Action,Paul Hunter,104,5.4,1,0.3557692307692308
+230,Bulletproof Monk,2003,37.0,PG-13,Comedy,Paul Hunter,104,5.4,1,0.3557692307692308
+231,Bulletproof Monk,2003,37.0,PG-13,Fantasy,Paul Hunter,104,5.4,1,0.3557692307692308
+232,Cabin Fever,2002,19.0,R,Horror,Eli Roth,93,5.5,1,0.20430107526881722
+233,Cabin Fever,2002,19.0,R,Sci-Fi,Eli Roth,93,5.5,1,0.20430107526881722
+234,Casino,1995,25.0,R,Biography,Martin Scorsese,178,8.2,1,0.1404494382022472
+235,Casino,1995,25.0,R,Crime,Martin Scorsese,178,8.2,1,0.1404494382022472
+236,Casino,1995,25.0,R,Drama,Martin Scorsese,178,8.2,1,0.1404494382022472
+237,Casino Royale,2006,54.0,PG-13,Action,Martin Campbell,144,7.9,1,0.375
+238,Casino Royale,2006,54.0,PG-13,Crime,Martin Campbell,144,7.9,1,0.375
+239,Casino Royale,2006,54.0,PG-13,Thriller,Martin Campbell,144,7.9,1,0.375
+240,Charlie Wilson's War,2007,22.0,R,Biography,Mike Nichols,102,7.1,1,0.21568627450980393
+241,Charlie Wilson's War,2007,22.0,R,Comedy,Mike Nichols,102,7.1,1,0.21568627450980393
+242,Charlie Wilson's War,2007,22.0,R,Drama,Mike Nichols,102,7.1,1,0.21568627450980393
+243,Charlie Wilson's War,2007,22.0,R,History,Mike Nichols,102,7.1,1,0.21568627450980393
+244,Charlie's Angels: Full Throttle,2003,39.0,PG-13,Action,McG,106,4.7,1,0.36792452830188677
+245,Charlie's Angels: Full Throttle,2003,39.0,PG-13,Adventure,McG,106,4.7,1,0.36792452830188677
+246,Charlie's Angels: Full Throttle,2003,39.0,PG-13,Comedy,McG,106,4.7,1,0.36792452830188677
+247,Charlie's Angels: Full Throttle,2003,39.0,PG-13,Crime,McG,106,4.7,1,0.36792452830188677
+248,Children of Men,2006,77.0,R,Adventure,Alfonso Cuaron,109,7.9,1,0.7064220183486238
+249,Children of Men,2006,77.0,R,Drama,Alfonso Cuaron,109,7.9,1,0.7064220183486238
+250,Children of Men,2006,77.0,R,Sci-Fi,Alfonso Cuaron,109,7.9,1,0.7064220183486238
+251,Children of Men,2006,77.0,R,Thriller,Alfonso Cuaron,109,7.9,1,0.7064220183486238
+252,Chimes at Midnight,1965,148.0,Unrated,Comedy,Orson Welles,115,7.9,1,1.2869565217391303
+253,Chimes at Midnight,1965,148.0,Unrated,Drama,Orson Welles,115,7.9,1,1.2869565217391303
+254,Chimes at Midnight,1965,148.0,Unrated,War,Orson Welles,115,7.9,1,1.2869565217391303
+255,Christine,1983,6.0,R,Drama,John Carpenter,110,6.5,1,0.05454545454545454
+256,Christine,1983,6.0,R,Horror,John Carpenter,110,6.5,1,0.05454545454545454
+257,Christine,1983,6.0,R,Mystery,John Carpenter,110,6.5,1,0.05454545454545454
+258,Christine,1983,6.0,R,Thriller,John Carpenter,110,6.5,1,0.05454545454545454
+259,"Chronicles of Narnia: The Lion, the Witch & the Wardrobe",2005,86.0,PG,Adventure,Andrew Adamson,143,6.8,1,0.6013986013986014
+260,"Chronicles of Narnia: The Lion, the Witch & the Wardrobe",2005,86.0,PG,Family,Andrew Adamson,143,6.8,1,0.6013986013986014
+261,"Chronicles of Narnia: The Lion, the Witch & the Wardrobe",2005,86.0,PG,Fantasy,Andrew Adamson,143,6.8,1,0.6013986013986014
+262,Circus,2000,8.0,R,Crime,Rob Walker,95,5.7,1,0.08421052631578947
+263,Circus,2000,8.0,R,Thriller,Rob Walker,95,5.7,1,0.08421052631578947
+264,Circus,2000,8.0,R,Drama,Rob Walker,95,5.7,1,0.08421052631578947
+265,City of God,2002,60.0,R,Crime,Fernando Meirelles|Katia Lund,130,8.7,1,0.46153846153846156
+266,City of God,2002,60.0,R,Drama,Fernando Meirelles|Katia Lund,130,8.7,1,0.46153846153846156
+267,Class of 1999,1990,43.0,R,Action,Mark L. Lester,99,5.5,1,0.43434343434343436
+268,Class of 1999,1990,43.0,R,Horror,Mark L. Lester,99,5.5,1,0.43434343434343436
+269,Class of 1999,1990,43.0,R,Sci-Fi,Mark L. Lester,99,5.5,1,0.43434343434343436
+270,Clear & Present Danger,1994,41.0,PG-13,Action,Phillip Noyce,141,6.9,1,0.2907801418439716
+271,Clear & Present Danger,1994,41.0,PG-13,Drama,Phillip Noyce,141,6.9,1,0.2907801418439716
+272,Clear & Present Danger,1994,41.0,PG-13,Thriller,Phillip Noyce,141,6.9,1,0.2907801418439716
+273,Cloverfield,2008,27.0,PG-13,Action,Matt Reeves,85,7.1,1,0.3176470588235294
+274,Cloverfield,2008,27.0,PG-13,Sci-Fi,Matt Reeves,85,7.1,1,0.3176470588235294
+275,Cloverfield,2008,27.0,PG-13,Thriller,Matt Reeves,85,7.1,1,0.3176470588235294
+276,Collateral,2004,17.0,R,Crime,Michael Mann,120,7.6,1,0.14166666666666666
+277,Collateral,2004,17.0,R,Drama,Michael Mann,120,7.6,1,0.14166666666666666
+278,Collateral,2004,17.0,R,Thriller,Michael Mann,120,7.6,1,0.14166666666666666
+279,Collateral Damage,2002,90.0,R,Action,Andrew Davis,108,5.4,1,0.8333333333333334
+280,Collateral Damage,2002,90.0,R,Drama,Andrew Davis,108,5.4,1,0.8333333333333334
+281,Collateral Damage,2002,90.0,R,Thriller,Andrew Davis,108,5.4,1,0.8333333333333334
+282,Come Drink With Me,1966,213.0,Unrated,Crime,King Hu,95,7.1,1,2.2421052631578946
+283,Come and See,1985,75.0,Unrated,Drama,Elem Klimov,140,8.2,1,0.5357142857142857
+284,Come and See,1985,75.0,Unrated,History,Elem Klimov,140,8.2,1,0.5357142857142857
+285,Come and See,1985,75.0,Unrated,War,Elem Klimov,140,8.2,1,0.5357142857142857
+286,Commando,1985,88.0,R,Action,Mark L. Lester,90,6.5,1,0.9777777777777777
+287,Commando,1985,88.0,R,Thriller,Mark L. Lester,90,6.5,1,0.9777777777777777
+288,Companeros,1970,133.0,R,Western,Sergio Corbucci,118,7.5,1,1.1271186440677967
+289,Companeros,1970,133.0,R,Comedy,Sergio Corbucci,118,7.5,1,1.1271186440677967
+290,Con Air,1997,30.0,R,Action,Simon West,115,6.8,1,0.2608695652173913
+291,Con Air,1997,30.0,R,Crime,Simon West,115,6.8,1,0.2608695652173913
+292,Con Air,1997,30.0,R,Thriller,Simon West,115,6.8,1,0.2608695652173913
+293,Conan the Barbarian,1982,114.0,R,Action,John Milius,129,6.8,1,0.8837209302325582
+294,Conan the Barbarian,1982,114.0,R,Fantasy,John Milius,129,6.8,1,0.8837209302325582
+295,Conan the Barbarian,1982,114.0,R,Adventure,John Milius,129,6.8,1,0.8837209302325582
+296,Confessions of a,2002,50.0,R,Biography,George Clooney,113,7.1,1,0.4424778761061947
+297,Confessions of a,2002,50.0,R,Comedy,George Clooney,113,7.1,1,0.4424778761061947
+298,Confessions of a,2002,50.0,R,Crime,George Clooney,113,7.1,1,0.4424778761061947
+299,Confessions of a,2002,50.0,R,Drama,George Clooney,113,7.1,1,0.4424778761061947
+300,Confessions of a,2002,50.0,R,Thriller,George Clooney,113,7.1,1,0.4424778761061947
+301,Congo,1995,92.0,PG-13,Action,Frank Marshall,109,4.9,1,0.8440366972477065
+302,Congo,1995,92.0,PG-13,Adventure,Frank Marshall,109,4.9,1,0.8440366972477065
+303,Congo,1995,92.0,PG-13,Mystery,Frank Marshall,109,4.9,1,0.8440366972477065
+304,Conspiracy Theory,1997,7.0,R,Action,Richard Donner,135,6.6,1,0.05185185185185185
+305,Conspiracy Theory,1997,7.0,R,Crime,Richard Donner,135,6.6,1,0.05185185185185185
+306,Conspiracy Theory,1997,7.0,R,Mystery,Richard Donner,135,6.6,1,0.05185185185185185
+307,Conspiracy Theory,1997,7.0,R,Romance,Richard Donner,135,6.6,1,0.05185185185185185
+308,Conspiracy Theory,1997,7.0,R,Thriller,Richard Donner,135,6.6,1,0.05185185185185185
+309,Constantine,2005,7.0,R,Fantasy,Francis Lawrence,121,6.8,1,0.05785123966942149
+310,Constantine,2005,7.0,R,Horror,Francis Lawrence,121,6.8,1,0.05785123966942149
+311,Contract Killer,1998,25.0,R,Action,Wei Tung,103,6.2,1,0.24271844660194175
+312,Contract Killer,1998,25.0,R,Comedy,Wei Tung,103,6.2,1,0.24271844660194175
+313,Cradle 2 the Grave,2003,13.0,R,Action,Andrzej Bartkowiak,101,5.6,1,0.12871287128712872
+314,Cradle 2 the Grave,2003,13.0,R,Crime,Andrzej Bartkowiak,101,5.6,1,0.12871287128712872
+315,Cradle 2 the Grave,2003,13.0,R,Drama,Andrzej Bartkowiak,101,5.6,1,0.12871287128712872
+316,Cradle 2 the Grave,2003,13.0,R,Thriller,Andrzej Bartkowiak,101,5.6,1,0.12871287128712872
+317,Crank,2006,29.0,R,Action,Mark Neveldine|Brian Taylor,88,7.0,1,0.32954545454545453
+318,Crank,2006,29.0,R,Crime,Mark Neveldine|Brian Taylor,88,7.0,1,0.32954545454545453
+319,Crank,2006,29.0,R,Thriller,Mark Neveldine|Brian Taylor,88,7.0,1,0.32954545454545453
+320,Creepshow,1982,15.0,R,Comedy,George A. Romero,120,6.7,1,0.125
+321,Creepshow,1982,15.0,R,Horror,George A. Romero,120,6.7,1,0.125
+322,Crime Spree,2003,20.0,R,Action,Brad Mirman,98,6.4,1,0.20408163265306123
+323,Crime Spree,2003,20.0,R,Comedy,Brad Mirman,98,6.4,1,0.20408163265306123
+324,Crime Spree,2003,20.0,R,Crime,Brad Mirman,98,6.4,1,0.20408163265306123
+325,Cross of Iron,1977,147.0,R,Action,Sam Peckinpah,119,7.5,1,1.2352941176470589
+326,Cross of Iron,1977,147.0,R,Drama,Sam Peckinpah,119,7.5,1,1.2352941176470589
+327,Cross of Iron,1977,147.0,R,War,Sam Peckinpah,119,7.5,1,1.2352941176470589
+328,"Crouching Tiger, Hidden Dragon",2000,14.0,PG-13,Action,Ang Lee,120,7.9,1,0.11666666666666667
+329,"Crouching Tiger, Hidden Dragon",2000,14.0,PG-13,Drama,Ang Lee,120,7.9,1,0.11666666666666667
+330,"Crouching Tiger, Hidden Dragon",2000,14.0,PG-13,Romance,Ang Lee,120,7.9,1,0.11666666666666667
+331,Crying Freeman,1995,82.0,Unrated,Action,Christophe Gans,102,6.5,1,0.803921568627451
+332,Crying Freeman,1995,82.0,Unrated,Crime,Christophe Gans,102,6.5,1,0.803921568627451
+333,Crying Freeman,1995,82.0,Unrated,Thriller,Christophe Gans,102,6.5,1,0.803921568627451
+334,Dark Blue,2002,8.0,R,Crime,Ron Shelton,118,6.6,1,0.06779661016949153
+335,Dark Blue,2002,8.0,R,Drama,Ron Shelton,118,6.6,1,0.06779661016949153
+336,Dark Blue,2002,8.0,R,Thriller,Ron Shelton,118,6.6,1,0.06779661016949153
+337,Das Boot,1981,49.0,R,Action,Wolfgang Petersen,149,8.4,1,0.3288590604026846
+338,Das Boot,1981,49.0,R,Adventure,Wolfgang Petersen,149,8.4,1,0.3288590604026846
+339,Das Boot,1981,49.0,R,Drama,Wolfgang Petersen,149,8.4,1,0.3288590604026846
+340,Dawn of the Dead,1978,175.0,R,Action,George A. Romero,127,8.0,1,1.3779527559055118
+341,Dawn of the Dead,1978,175.0,R,Horror,George A. Romero,127,8.0,1,1.3779527559055118
+342,Dawn of the Dead,2004,131.0,R,Action,Zack Snyder,101,7.4,1,1.297029702970297
+343,Dawn of the Dead,2004,131.0,R,Horror,Zack Snyder,101,7.4,1,1.297029702970297
+344,Dawn of the Dead,2004,131.0,R,Sci-Fi,Zack Snyder,101,7.4,1,1.297029702970297
+345,Dawn of the Dead,2004,131.0,R,Thriller,Zack Snyder,101,7.4,1,1.297029702970297
+346,Day of the Dead,1985,40.0,Unrated,Horror,George A. Romero,96,7.1,1,0.4166666666666667
+347,Death Rides a Horse,1967,54.0,R,Western,Giulio Petroni,114,7.1,1,0.47368421052631576
+348,Death Sentence,2007,15.0,R,Action,James Wan,105,6.8,1,0.14285714285714285
+349,Death Sentence,2007,15.0,R,Crime,James Wan,105,6.8,1,0.14285714285714285
+350,Death Sentence,2007,15.0,R,Drama,James Wan,105,6.8,1,0.14285714285714285
+351,Death Sentence,2007,15.0,R,Thriller,James Wan,105,6.8,1,0.14285714285714285
+352,Death Wish 3,1985,80.0,X,Action,Michael Winner,92,5.7,1,0.8695652173913043
+353,Death Wish 3,1985,80.0,X,Crime,Michael Winner,92,5.7,1,0.8695652173913043
+354,Death Wish 3,1985,80.0,X,Drama,Michael Winner,92,5.7,1,0.8695652173913043
+355,Death Wish 4: The Crackdown,1987,57.0,R,Action,J. Lee Thompson,99,5.0,1,0.5757575757575758
+356,Death Wish 4: The Crackdown,1987,57.0,R,Crime,J. Lee Thompson,99,5.0,1,0.5757575757575758
+357,Death Wish 4: The Crackdown,1987,57.0,R,Drama,J. Lee Thompson,99,5.0,1,0.5757575757575758
+358,Death to Smoochy,2002,3.0,R,Comedy,Danny DeVito,109,6.3,1,0.027522935779816515
+359,Death to Smoochy,2002,3.0,R,Crime,Danny DeVito,109,6.3,1,0.027522935779816515
+360,Death to Smoochy,2002,3.0,R,Drama,Danny DeVito,109,6.3,1,0.027522935779816515
+361,Death to Smoochy,2002,3.0,R,Thriller,Danny DeVito,109,6.3,1,0.027522935779816515
+362,Delta Force 2,1990,92.0,R,Action,Aaron Norris,111,4.4,1,0.8288288288288288
+363,Delta Force 2,1990,92.0,R,Adventure,Aaron Norris,111,4.4,1,0.8288288288288288
+364,Delta Force 2,1990,92.0,R,Thriller,Aaron Norris,111,4.4,1,0.8288288288288288
+365,Delta Force 2,1990,92.0,R,War,Aaron Norris,111,4.4,1,0.8288288288288288
+366,Demolition Man,1993,25.0,R,Action,Marco Brambilla,115,6.5,1,0.21739130434782608
+367,Demolition Man,1993,25.0,R,Crime,Marco Brambilla,115,6.5,1,0.21739130434782608
+368,Demolition Man,1993,25.0,R,Sci-Fi,Marco Brambilla,115,6.5,1,0.21739130434782608
+369,Demolition Man,1993,25.0,R,Thriller,Marco Brambilla,115,6.5,1,0.21739130434782608
+370,Desperado,1995,80.0,R,Action,Robert Rodriguez,104,7.1,1,0.7692307692307693
+371,Desperado,1995,80.0,R,Crime,Robert Rodriguez,104,7.1,1,0.7692307692307693
+372,Desperado,1995,80.0,R,Thriller,Robert Rodriguez,104,7.1,1,0.7692307692307693
+373,Diamonds are Forever,1971,29.0,GP,Action,Guy Hamilton,120,6.7,1,0.24166666666666667
+374,Diamonds are Forever,1971,29.0,GP,Adventure,Guy Hamilton,120,6.7,1,0.24166666666666667
+375,Diamonds are Forever,1971,29.0,GP,Crime,Guy Hamilton,120,6.7,1,0.24166666666666667
+376,Diamonds are Forever,1971,29.0,GP,Thriller,Guy Hamilton,120,6.7,1,0.24166666666666667
+377,Die Hard,1988,20.0,R,Action,John McTiernan,131,8.3,1,0.15267175572519084
+378,Die Hard,1988,20.0,R,Thriller,John McTiernan,131,8.3,1,0.15267175572519084
+379,Die Hard 2,1990,37.0,R,Action,Renny Harlin,124,7.1,1,0.29838709677419356
+380,Die Hard 2,1990,37.0,R,Thriller,Renny Harlin,124,7.1,1,0.29838709677419356
+381,Die Hard: With a Vengeance,1995,26.0,R,Action,John McTiernan,131,7.6,1,0.1984732824427481
+382,Die Hard: With a Vengeance,1995,26.0,R,Crime,John McTiernan,131,7.6,1,0.1984732824427481
+383,Die Hard: With a Vengeance,1995,26.0,R,Thriller,John McTiernan,131,7.6,1,0.1984732824427481
+384,District 9,2009,71.0,R,Action,Neill Blomkamp,112,8.0,1,0.6339285714285714
+385,District 9,2009,71.0,R,Sci-Fi,Neill Blomkamp,112,8.0,1,0.6339285714285714
+386,District 9,2009,71.0,R,Thriller,Neill Blomkamp,112,8.0,1,0.6339285714285714
+387,District B13,2004,34.0,R,Action,Pierre Morel,84,7.1,1,0.40476190476190477
+388,District B13,2004,34.0,R,Sci-Fi,Pierre Morel,84,7.1,1,0.40476190476190477
+389,District B13,2004,34.0,R,Thriller,Pierre Morel,84,7.1,1,0.40476190476190477
+390,Disturbia,2007,10.0,PG-13,Drama,D.J. Caruso,105,6.9,1,0.09523809523809523
+391,Disturbia,2007,10.0,PG-13,Mystery,D.J. Caruso,105,6.9,1,0.09523809523809523
+392,Disturbia,2007,10.0,PG-13,Thriller,D.J. Caruso,105,6.9,1,0.09523809523809523
+393,Domino,2005,51.0,R,Action,Tony Scott,127,5.9,1,0.4015748031496063
+394,Domino,2005,51.0,R,Biography,Tony Scott,127,5.9,1,0.4015748031496063
+395,Domino,2005,51.0,R,Crime,Tony Scott,127,5.9,1,0.4015748031496063
+396,Domino,2005,51.0,R,Drama,Tony Scott,127,5.9,1,0.4015748031496063
+397,Domino,2005,51.0,R,Thriller,Tony Scott,127,5.9,1,0.4015748031496063
+398,Donnie Darko,2001,3.0,R,Drama,Richard Kelly,113,8.1,1,0.02654867256637168
+399,Donnie Darko,2001,3.0,R,Mystery,Richard Kelly,113,8.1,1,0.02654867256637168
+400,Donnie Darko,2001,3.0,R,Sci-Fi,Richard Kelly,113,8.1,1,0.02654867256637168
+401,Doom,2005,89.0,R,Action,Andrzej Bartkowiak,100,5.2,1,0.89
+402,Doom,2005,89.0,R,Adventure,Andrzej Bartkowiak,100,5.2,1,0.89
+403,Doom,2005,89.0,R,Horror,Andrzej Bartkowiak,100,5.2,1,0.89
+404,Doomsday,2008,188.0,R,Action,Neil Marshall,105,6.0,1,1.7904761904761906
+405,Doomsday,2008,188.0,R,Sci-Fi,Neil Marshall,105,6.0,1,1.7904761904761906
+406,Dr. No,1962,8.0,Approved,Action,Terence Young,110,7.3,1,0.07272727272727272
+407,Dr. No,1962,8.0,Approved,Adventure,Terence Young,110,7.3,1,0.07272727272727272
+408,Dr. No,1962,8.0,Approved,Crime,Terence Young,110,7.3,1,0.07272727272727272
+409,Dr. No,1962,8.0,Approved,Thriller,Terence Young,110,7.3,1,0.07272727272727272
+410,Dr. Strangelove,1964,33.0,PG,Comedy,Stanley Kubrick,95,8.5,1,0.3473684210526316
+411,Dr. Strangelove,1964,33.0,PG,Sci-Fi,Stanley Kubrick,95,8.5,1,0.3473684210526316
+412,Dr. Strangelove,1964,33.0,PG,War,Stanley Kubrick,95,8.5,1,0.3473684210526316
+413,Dracula,1992,94.0,R,Drama,Francis Ford Coppola,128,7.4,1,0.734375
+414,Dracula,1992,94.0,R,Fantasy,Francis Ford Coppola,128,7.4,1,0.734375
+415,Dracula,1992,94.0,R,Horror,Francis Ford Coppola,128,7.4,1,0.734375
+416,Dracula 2000,2000,18.0,R,Horror,Patrick Lussier,99,4.8,1,0.18181818181818182
+417,Dracula 2000,2000,18.0,R,Thriller,Patrick Lussier,99,4.8,1,0.18181818181818182
+418,Dune,1984,186.0,PG-13,Action,David Lynch,137,6.6,1,1.3576642335766422
+419,Dune,1984,186.0,PG-13,Adventure,David Lynch,137,6.6,1,1.3576642335766422
+420,Dune,1984,186.0,PG-13,Sci-Fi,David Lynch,137,6.6,1,1.3576642335766422
+421,El Cid,1961,160.0,Unrated,Adventure,Anthony Mann,182,7.2,1,0.8791208791208791
+422,El Cid,1961,160.0,Unrated,Biography,Anthony Mann,182,7.2,1,0.8791208791208791
+423,El Cid,1961,160.0,Unrated,Drama,Anthony Mann,182,7.2,1,0.8791208791208791
+424,El Topo,1970,202.0,Unrated,Western,Alejandro Jodorowsky,125,7.5,1,1.616
+425,Enemy at the Gates,2001,174.0,R,Drama,Jean-Jacques Annaud,131,7.5,1,1.3282442748091603
+426,Enemy at the Gates,2001,174.0,R,History,Jean-Jacques Annaud,131,7.5,1,1.3282442748091603
+427,Enemy at the Gates,2001,174.0,R,Thriller,Jean-Jacques Annaud,131,7.5,1,1.3282442748091603
+428,Equilibrium,2002,236.0,R,Action,Kurt Wimmer,107,7.6,1,2.205607476635514
+429,Equilibrium,2002,236.0,R,Drama,Kurt Wimmer,107,7.6,1,2.205607476635514
+430,Equilibrium,2002,236.0,R,Sci-Fi,Kurt Wimmer,107,7.6,1,2.205607476635514
+431,Equilibrium,2002,236.0,R,Thriller,Kurt Wimmer,107,7.6,1,2.205607476635514
+432,Eraser,1996,52.0,R,Action,Chuck Russell,115,6.0,1,0.45217391304347826
+433,Eraser,1996,52.0,R,Drama,Chuck Russell,115,6.0,1,0.45217391304347826
+434,Eraser,1996,52.0,R,Mystery,Chuck Russell,115,6.0,1,0.45217391304347826
+435,Eraser,1996,52.0,R,Thriller,Chuck Russell,115,6.0,1,0.45217391304347826
+436,Escape From New York,1981,28.0,R,Action,John Carpenter,99,7.2,1,0.2828282828282828
+437,Escape From New York,1981,28.0,R,Sci-Fi,John Carpenter,99,7.2,1,0.2828282828282828
+438,Evil Dead II: Dead by Dawn,1987,8.0,X,Comedy,Sam Raimi,84,7.8,1,0.09523809523809523
+439,Evil Dead II: Dead by Dawn,1987,8.0,X,Horror,Sam Raimi,84,7.8,1,0.09523809523809523
+440,Excalibur,1981,168.0,R,Action,John Boorman,140,7.4,1,1.2
+441,Excalibur,1981,168.0,R,Drama,John Boorman,140,7.4,1,1.2
+442,Excalibur,1981,168.0,R,Fantasy,John Boorman,140,7.4,1,1.2
+443,eXistenZ,1999,11.0,R,Sci-Fi,David Cronenberg,97,6.8,1,0.1134020618556701
+444,Exit Wounds,2001,38.0,R,Action,Andrzej Bartkowiak,101,5.4,1,0.37623762376237624
+445,Exit Wounds,2001,38.0,R,Comedy,Andrzej Bartkowiak,101,5.4,1,0.37623762376237624
+446,Exit Wounds,2001,38.0,R,Crime,Andrzej Bartkowiak,101,5.4,1,0.37623762376237624
+447,Exit Wounds,2001,38.0,R,Drama,Andrzej Bartkowiak,101,5.4,1,0.37623762376237624
+448,Exit Wounds,2001,38.0,R,Thriller,Andrzej Bartkowiak,101,5.4,1,0.37623762376237624
+449,Face/Off,1997,56.0,R,Action,John Woo,138,7.3,1,0.4057971014492754
+450,Face/Off,1997,56.0,R,Crime,John Woo,138,7.3,1,0.4057971014492754
+451,Face/Off,1997,56.0,R,Sci-Fi,John Woo,138,7.3,1,0.4057971014492754
+452,Face/Off,1997,56.0,R,Thriller,John Woo,138,7.3,1,0.4057971014492754
+453,Fair Game,1995,21.0,R,Action,Andrew Sipes,91,4.0,1,0.23076923076923078
+454,Fair Game,1995,21.0,R,Thriller,Andrew Sipes,91,4.0,1,0.23076923076923078
+455,Fantastic Four: Rise of the Silver Surfer,2007,6.0,PG,Action,Tim Story,92,5.6,1,0.06521739130434782
+456,Fantastic Four: Rise of the Silver Surfer,2007,6.0,PG,Fantasy,Tim Story,92,5.6,1,0.06521739130434782
+457,Fantastic Four: Rise of the Silver Surfer,2007,6.0,PG,Sci-Fi,Tim Story,92,5.6,1,0.06521739130434782
+458,Fantastic Four: Rise of the Silver Surfer,2007,6.0,PG,Thriller,Tim Story,92,5.6,1,0.06521739130434782
+459,Fear and Loathing in Las Vegas,1998,10.0,R,Adventure,Terry Gilliam,118,7.7,1,0.0847457627118644
+460,Fear and Loathing in Las Vegas,1998,10.0,R,Comedy,Terry Gilliam,118,7.7,1,0.0847457627118644
+461,Fearless,2006,5.0,PG-13,Action,Ronny Yu,104,7.6,1,0.04807692307692308
+462,Fearless,2006,5.0,PG-13,Biography,Ronny Yu,104,7.6,1,0.04807692307692308
+463,Fearless,2006,5.0,PG-13,Drama,Ronny Yu,104,7.6,1,0.04807692307692308
+464,Fearless,2006,5.0,PG-13,Sport,Ronny Yu,104,7.6,1,0.04807692307692308
+465,Fight Club,1999,14.0,R,Drama,David Fincher,139,8.9,1,0.10071942446043165
+466,Firewall,2006,5.0,PG-13,Crime,Richard Loncraine,105,5.8,1,0.047619047619047616
+467,Firewall,2006,5.0,PG-13,Thriller,Richard Loncraine,105,5.8,1,0.047619047619047616
+468,Flags of Our Fathers,2006,93.0,R,Drama,Clint Eastwood,132,7.1,1,0.7045454545454546
+469,Flags of Our Fathers,2006,93.0,R,History,Clint Eastwood,132,7.1,1,0.7045454545454546
+470,Flags of Our Fathers,2006,93.0,R,War,Clint Eastwood,132,7.1,1,0.7045454545454546
+471,Fool's Gold,2008,3.0,PG-13,Adventure,Andy Tennant,112,5.5,1,0.026785714285714284
+472,Fool's Gold,2008,3.0,PG-13,Comedy,Andy Tennant,112,5.5,1,0.026785714285714284
+473,Fool's Gold,2008,3.0,PG-13,Romance,Andy Tennant,112,5.5,1,0.026785714285714284
+474,Fool's Gold,2008,3.0,PG-13,Thriller,Andy Tennant,112,5.5,1,0.026785714285714284
+475,For Your Eyes Only,1981,42.0,PG,Action,John Glen,127,6.8,1,0.33070866141732286
+476,For Your Eyes Only,1981,42.0,PG,Adventure,John Glen,127,6.8,1,0.33070866141732286
+477,For Your Eyes Only,1981,42.0,PG,Crime,John Glen,127,6.8,1,0.33070866141732286
+478,For Your Eyes Only,1981,42.0,PG,Thriller,John Glen,127,6.8,1,0.33070866141732286
+479,For a Few Dollars More,1965,42.0,M,Western,Sergio Leone,132,8.3,1,0.3181818181818182
+480,Formula 51,2001,22.0,R,Action,Ronny Yu,93,6.2,1,0.23655913978494625
+481,Formula 51,2001,22.0,R,Comedy,Ronny Yu,93,6.2,1,0.23655913978494625
+482,Formula 51,2001,22.0,R,Crime,Ronny Yu,93,6.2,1,0.23655913978494625
+483,Formula 51,2001,22.0,R,Thriller,Ronny Yu,93,6.2,1,0.23655913978494625
+484,Four Brothers,2005,16.0,R,Action,John Singleton,109,6.8,1,0.14678899082568808
+485,Four Brothers,2005,16.0,R,Crime,John Singleton,109,6.8,1,0.14678899082568808
+486,Four Brothers,2005,16.0,R,Drama,John Singleton,109,6.8,1,0.14678899082568808
+487,Four Brothers,2005,16.0,R,Mystery,John Singleton,109,6.8,1,0.14678899082568808
+488,Four Brothers,2005,16.0,R,Thriller,John Singleton,109,6.8,1,0.14678899082568808
+489,Friday the 13th,2009,14.0,R,Horror,Marcus Nispel,97,5.5,1,0.14432989690721648
+490,From Dusk Till Dawn,1996,122.0,R,Action,Robert Rodriguez,108,7.2,1,1.1296296296296295
+491,From Dusk Till Dawn,1996,122.0,R,Crime,Robert Rodriguez,108,7.2,1,1.1296296296296295
+492,From Dusk Till Dawn,1996,122.0,R,Horror,Robert Rodriguez,108,7.2,1,1.1296296296296295
+493,From Dusk Till Dawn 2: Texas Blood Money,1999,63.0,R,Comedy,Scott Spiegel,88,3.9,1,0.7159090909090909
+494,From Dusk Till Dawn 2: Texas Blood Money,1999,63.0,R,Crime,Scott Spiegel,88,3.9,1,0.7159090909090909
+495,From Dusk Till Dawn 2: Texas Blood Money,1999,63.0,R,Horror,Scott Spiegel,88,3.9,1,0.7159090909090909
+496,From Russia With Love,1963,21.0,Approved,Action,Terence Young,115,7.5,1,0.1826086956521739
+497,From Russia With Love,1963,21.0,Approved,Adventure,Terence Young,115,7.5,1,0.1826086956521739
+498,From Russia With Love,1963,21.0,Approved,Crime,Terence Young,115,7.5,1,0.1826086956521739
+499,From Russia With Love,1963,21.0,Approved,Thriller,Terence Young,115,7.5,1,0.1826086956521739
+500,Galaxy Quest,1999,32.0,PG,Adventure,Dean Parisot,102,7.2,1,0.3137254901960784
+501,Galaxy Quest,1999,32.0,PG,Comedy,Dean Parisot,102,7.2,1,0.3137254901960784
+502,Galaxy Quest,1999,32.0,PG,Sci-Fi,Dean Parisot,102,7.2,1,0.3137254901960784
+503,Gallipoli,1981,85.0,PG,Action,Peter Weir,110,7.5,1,0.7727272727272727
+504,Gallipoli,1981,85.0,PG,Drama,Peter Weir,110,7.5,1,0.7727272727272727
+505,Gallipoli,1981,85.0,PG,History,Peter Weir,110,7.5,1,0.7727272727272727
+506,Gangs of New York,2002,109.0,R,Crime,Martin Scorsese,167,7.5,1,0.6526946107784432
+507,Gangs of New York,2002,109.0,R,Drama,Martin Scorsese,167,7.5,1,0.6526946107784432
+508,Gangs of New York,2002,109.0,R,History,Martin Scorsese,167,7.5,1,0.6526946107784432
+509,Gangster No. 1,2000,7.0,R,Crime,Paul McGuigan,103,6.8,1,0.06796116504854369
+510,Gangster No. 1,2000,7.0,R,Drama,Paul McGuigan,103,6.8,1,0.06796116504854369
+511,Gangster No. 1,2000,7.0,R,Thriller,Paul McGuigan,103,6.8,1,0.06796116504854369
+512,Get Carter,2000,5.0,R,Action,Stephen Kay,102,4.9,1,0.049019607843137254
+513,Get Carter,2000,5.0,R,Crime,Stephen Kay,102,4.9,1,0.049019607843137254
+514,Get Carter,2000,5.0,R,Drama,Stephen Kay,102,4.9,1,0.049019607843137254
+515,Get Carter,2000,5.0,R,Thriller,Stephen Kay,102,4.9,1,0.049019607843137254
+516,Ghost Rider,2007,52.0,PG-13,Action,Mark Steven Johnson,114,5.2,1,0.45614035087719296
+517,Ghost Rider,2007,52.0,PG-13,Fantasy,Mark Steven Johnson,114,5.2,1,0.45614035087719296
+518,Ghost Rider,2007,52.0,PG-13,Thriller,Mark Steven Johnson,114,5.2,1,0.45614035087719296
+519,Glory,1989,258.0,R,Drama,Edward Zwick,122,7.9,1,2.1147540983606556
+520,Glory,1989,258.0,R,History,Edward Zwick,122,7.9,1,2.1147540983606556
+521,Glory,1989,258.0,R,War,Edward Zwick,122,7.9,1,2.1147540983606556
+522,GoldenEye,1995,57.0,PG-13,Action,Martin Campbell,130,7.2,1,0.43846153846153846
+523,GoldenEye,1995,57.0,PG-13,Crime,Martin Campbell,130,7.2,1,0.43846153846153846
+524,GoldenEye,1995,57.0,PG-13,Thriller,Martin Campbell,130,7.2,1,0.43846153846153846
+525,Grindhouse: Death Proof,2007,8.0,Unrated,Action,Quentin Tarantino,113,7.1,1,0.07079646017699115
+526,Grindhouse: Death Proof,2007,8.0,Unrated,Thriller,Quentin Tarantino,113,7.1,1,0.07079646017699115
+527,Grindhouse: Double Feature,2007,310.0,Unrated,Action,Robert Rodriguez|Eli Roth|Quentin Tarantino|Edgar Wright|Rob Zombie,191,7.7,1,1.6230366492146597
+528,Grindhouse: Double Feature,2007,310.0,Unrated,Horror,Robert Rodriguez|Eli Roth|Quentin Tarantino|Edgar Wright|Rob Zombie,191,7.7,1,1.6230366492146597
+529,Grindhouse: Double Feature,2007,310.0,Unrated,Thriller,Robert Rodriguez|Eli Roth|Quentin Tarantino|Edgar Wright|Rob Zombie,191,7.7,1,1.6230366492146597
+530,Grindhouse: Planet Terror,2007,281.0,Unrated,Action,Robert Rodriguez,105,7.2,1,2.676190476190476
+531,Grindhouse: Planet Terror,2007,281.0,Unrated,Horror,Robert Rodriguez,105,7.2,1,2.676190476190476
+532,Hamburger Hill,1987,106.0,R,Drama,John Irvin,110,6.6,1,0.9636363636363636
+533,Hamburger Hill,1987,106.0,R,War,John Irvin,110,6.6,1,0.9636363636363636
+534,Hamburger Hill,1987,106.0,R,Action,John Irvin,110,6.6,1,0.9636363636363636
+535,Hamlet,1990,9.0,PG,Drama,Franco Zeffirelli,130,6.8,1,0.06923076923076923
+536,Hamlet,1990,9.0,PG,Romance,Franco Zeffirelli,130,6.8,1,0.06923076923076923
+537,Hannibal,2001,15.0,R,Crime,Ridley Scott,131,6.6,1,0.11450381679389313
+538,Hannibal,2001,15.0,R,Drama,Ridley Scott,131,6.6,1,0.11450381679389313
+539,Hannibal,2001,15.0,R,Thriller,Ridley Scott,131,6.6,1,0.11450381679389313
+540,Hard Boiled,1992,307.0,R,Action,John Woo,128,7.9,1,2.3984375
+541,Hard Boiled,1992,307.0,R,Crime,John Woo,128,7.9,1,2.3984375
+542,Hard Boiled,1992,307.0,R,Drama,John Woo,128,7.9,1,2.3984375
+543,Hard Boiled,1992,307.0,R,Thriller,John Woo,128,7.9,1,2.3984375
+544,Hard to Kill,1990,19.0,R,Action,Bruce Malmuth,96,5.5,1,0.19791666666666666
+545,Hard to Kill,1990,19.0,R,Drama,Bruce Malmuth,96,5.5,1,0.19791666666666666
+546,Hard to Kill,1990,19.0,R,Crime,Bruce Malmuth,96,5.5,1,0.19791666666666666
+547,Hard to Kill,1990,19.0,R,Thriller,Bruce Malmuth,96,5.5,1,0.19791666666666666
+548,Harry Potter & the Goblet of Fire,2005,3.0,PG-13,Adventure,Mike Newell,157,7.6,1,0.01910828025477707
+549,Harry Potter & the Goblet of Fire,2005,3.0,PG-13,Family,Mike Newell,157,7.6,1,0.01910828025477707
+550,Harry Potter & the Goblet of Fire,2005,3.0,PG-13,Fantasy,Mike Newell,157,7.6,1,0.01910828025477707
+551,Harry Potter & the Goblet of Fire,2005,3.0,PG-13,Mystery,Mike Newell,157,7.6,1,0.01910828025477707
+552,Heat,1995,18.0,R,Action,Michael Mann,170,8.3,1,0.10588235294117647
+553,Heat,1995,18.0,R,Crime,Michael Mann,170,8.3,1,0.10588235294117647
+554,Heat,1995,18.0,R,Drama,Michael Mann,170,8.3,1,0.10588235294117647
+555,Heat,1995,18.0,R,Thriller,Michael Mann,170,8.3,1,0.10588235294117647
+556,Hellboy,2004,42.0,PG-13,Action,Guillermo del Toro,122,6.8,1,0.3442622950819672
+557,Hellboy,2004,42.0,PG-13,Adventure,Guillermo del Toro,122,6.8,1,0.3442622950819672
+558,Hellboy,2004,42.0,PG-13,Fantasy,Guillermo del Toro,122,6.8,1,0.3442622950819672
+559,Hellboy,2004,42.0,PG-13,Sci-Fi,Guillermo del Toro,122,6.8,1,0.3442622950819672
+560,Hero,2002,152.0,PG-13,Action,Yimou Zhang,99,7.9,1,1.5353535353535352
+561,Hero,2002,152.0,PG-13,Drama,Yimou Zhang,99,7.9,1,1.5353535353535352
+562,Hero,2002,152.0,PG-13,History,Yimou Zhang,99,7.9,1,1.5353535353535352
+563,Hitman,2007,55.0,R,Action,Xavier Gens,89,6.2,1,0.6179775280898876
+564,Hitman,2007,55.0,R,Crime,Xavier Gens,89,6.2,1,0.6179775280898876
+565,Hitman,2007,55.0,R,Drama,Xavier Gens,89,6.2,1,0.6179775280898876
+566,Hitman,2007,55.0,R,Thriller,Xavier Gens,89,6.2,1,0.6179775280898876
+567,Hollow Point,1996,17.0,R,Thriller,Sidney J. Furie,90,5.6,1,0.18888888888888888
+568,Hollow Point,1996,17.0,R,Comedy,Sidney J. Furie,90,5.6,1,0.18888888888888888
+569,Hollow Point,1996,17.0,R,Action,Sidney J. Furie,90,5.6,1,0.18888888888888888
+570,Hostage,2005,16.0,R,Crime,Florent-Emilio Siri,113,6.6,1,0.1415929203539823
+571,Hostage,2005,16.0,R,Drama,Florent-Emilio Siri,113,6.6,1,0.1415929203539823
+572,Hostage,2005,16.0,R,Mystery,Florent-Emilio Siri,113,6.6,1,0.1415929203539823
+573,Hostage,2005,16.0,R,Thriller,Florent-Emilio Siri,113,6.6,1,0.1415929203539823
+574,Hot Fuzz,2007,29.0,R,Action,Edgar Wright,121,7.9,1,0.2396694214876033
+575,Hot Fuzz,2007,29.0,R,Comedy,Edgar Wright,121,7.9,1,0.2396694214876033
+576,Hot Shots!,1991,11.0,PG-13,Action,Jim Abrahams,84,6.6,1,0.13095238095238096
+577,Hot Shots!,1991,11.0,PG-13,Comedy,Jim Abrahams,84,6.6,1,0.13095238095238096
+578,Hot Shots!,1991,11.0,PG-13,War,Jim Abrahams,84,6.6,1,0.13095238095238096
+579,Hot Shots! Part Deux,1993,114.0,PG-13,Action,Jim Abrahams,86,6.4,1,1.3255813953488371
+580,Hot Shots! Part Deux,1993,114.0,PG-13,Comedy,Jim Abrahams,86,6.4,1,1.3255813953488371
+581,Hot Shots! Part Deux,1993,114.0,PG-13,War,Jim Abrahams,86,6.4,1,1.3255813953488371
+582,House of the Dead,2003,141.0,R,Action,Uwe Boll,90,2.0,1,1.5666666666666667
+583,House of the Dead,2003,141.0,R,Horror,Uwe Boll,90,2.0,1,1.5666666666666667
+584,House of the Dead,2003,141.0,R,Thriller,Uwe Boll,90,2.0,1,1.5666666666666667
+585,House on Haunted Hill,1999,30.0,R,Horror,William Malone,93,5.5,1,0.3225806451612903
+586,House on Haunted Hill,1999,30.0,R,Mystery,William Malone,93,5.5,1,0.3225806451612903
+587,House on Haunted Hill,1999,30.0,R,Thriller,William Malone,93,5.5,1,0.3225806451612903
+588,I Am Legend,2007,71.0,PG-13,Drama,Francis Lawrence,101,7.1,1,0.7029702970297029
+589,I Am Legend,2007,71.0,PG-13,Sci-Fi,Francis Lawrence,101,7.1,1,0.7029702970297029
+590,I Am Legend,2007,71.0,PG-13,Thriller,Francis Lawrence,101,7.1,1,0.7029702970297029
+591,"I, Robot",2004,176.0,PG-13,Action,Alex Proyas,115,7.1,1,1.5304347826086957
+592,"I, Robot",2004,176.0,PG-13,Mystery,Alex Proyas,115,7.1,1,1.5304347826086957
+593,"I, Robot",2004,176.0,PG-13,Sci-Fi,Alex Proyas,115,7.1,1,1.5304347826086957
+594,In Bruges,2008,5.0,R,Comedy,Martin McDonagh,107,7.9,1,0.04672897196261682
+595,In Bruges,2008,5.0,R,Crime,Martin McDonagh,107,7.9,1,0.04672897196261682
+596,In Bruges,2008,5.0,R,Drama,Martin McDonagh,107,7.9,1,0.04672897196261682
+597,In Bruges,2008,5.0,R,Thriller,Martin McDonagh,107,7.9,1,0.04672897196261682
+598,In the Name of the King: A Dungeon Siege Tale,2007,329.0,PG-13,Action,Uwe Boll,127,3.8,1,2.590551181102362
+599,In the Name of the King: A Dungeon Siege Tale,2007,329.0,PG-13,Adventure,Uwe Boll,127,3.8,1,2.590551181102362
+600,In the Name of the King: A Dungeon Siege Tale,2007,329.0,PG-13,Drama,Uwe Boll,127,3.8,1,2.590551181102362
+601,Independence Day,1996,48.0,PG-13,Action,Roland Emmerich,145,6.8,1,0.3310344827586207
+602,Independence Day,1996,48.0,PG-13,Sci-Fi,Roland Emmerich,145,6.8,1,0.3310344827586207
+603,Indiana Jones & the Kingdom of the Crystal Skull,2008,76.0,PG-13,Action,Steven Spielberg,122,6.3,1,0.6229508196721312
+604,Indiana Jones & the Kingdom of the Crystal Skull,2008,76.0,PG-13,Adventure,Steven Spielberg,122,6.3,1,0.6229508196721312
+605,Indiana Jones and the Last Crusade,1989,48.0,PG-13,Action,Steven Spielberg,127,8.3,1,0.3779527559055118
+606,Indiana Jones and the Last Crusade,1989,48.0,PG-13,Adventure,Steven Spielberg,127,8.3,1,0.3779527559055118
+607,Indiana Jones and the Temple of Doom,1984,41.0,PG,Action,Steven Spielberg,118,7.6,1,0.3474576271186441
+608,Indiana Jones and the Temple of Doom,1984,41.0,PG,Adventure,Steven Spielberg,118,7.6,1,0.3474576271186441
+609,Inglourious Basterds,2009,59.0,R,Adventure,Quentin Tarantino,153,8.3,1,0.38562091503267976
+610,Inglourious Basterds,2009,59.0,R,Drama,Quentin Tarantino,153,8.3,1,0.38562091503267976
+611,Inglourious Basterds,2009,59.0,R,War,Quentin Tarantino,153,8.3,1,0.38562091503267976
+612,Inside Man,2006,13.0,R,Crime,Spike Lee,129,7.6,1,0.10077519379844961
+613,Inside Man,2006,13.0,R,Drama,Spike Lee,129,7.6,1,0.10077519379844961
+614,Inside Man,2006,13.0,R,Thriller,Spike Lee,129,7.6,1,0.10077519379844961
+615,Invasion U.S.A.,1985,146.0,R,Action,Joseph Zito,107,5.0,1,1.3644859813084111
+616,Invasion U.S.A.,1985,146.0,R,Thriller,Joseph Zito,107,5.0,1,1.3644859813084111
+617,Iron Man,2008,57.0,PG-13,Action,Jon Favreau,126,7.9,1,0.4523809523809524
+618,Iron Man,2008,57.0,PG-13,Adventure,Jon Favreau,126,7.9,1,0.4523809523809524
+619,Iron Man,2008,57.0,PG-13,Sci-Fi,Jon Favreau,126,7.9,1,0.4523809523809524
+620,Jack Brooks: Monster Slayer,2007,15.0,R,Action,Jon Knautz,85,6.0,1,0.17647058823529413
+621,Jack Brooks: Monster Slayer,2007,15.0,R,Comedy,Jon Knautz,85,6.0,1,0.17647058823529413
+622,Jack Brooks: Monster Slayer,2007,15.0,R,Horror,Jon Knautz,85,6.0,1,0.17647058823529413
+623,Jackie Brown,1997,4.0,R,Crime,Quentin Tarantino,154,7.5,1,0.025974025974025976
+624,Jackie Brown,1997,4.0,R,Drama,Quentin Tarantino,154,7.5,1,0.025974025974025976
+625,Jackie Brown,1997,4.0,R,Thriller,Quentin Tarantino,154,7.5,1,0.025974025974025976
+626,Jason X,2001,27.0,R,Horror,James Isaac,91,4.3,1,0.2967032967032967
+627,Jason X,2001,27.0,R,Sci-Fi,James Isaac,91,4.3,1,0.2967032967032967
+628,Jason X,2001,27.0,R,Thriller,James Isaac,91,4.3,1,0.2967032967032967
+629,Jumper,2008,7.0,PG-13,Action,Doug Liman,88,6.0,1,0.07954545454545454
+630,Jumper,2008,7.0,PG-13,Adventure,Doug Liman,88,6.0,1,0.07954545454545454
+631,Jumper,2008,7.0,PG-13,Sci-Fi,Doug Liman,88,6.0,1,0.07954545454545454
+632,Jumper,2008,7.0,PG-13,Thriller,Doug Liman,88,6.0,1,0.07954545454545454
+633,Jurassic Park III,2001,6.0,PG-13,Action,Joe Johnston,92,5.8,1,0.06521739130434782
+634,Jurassic Park III,2001,6.0,PG-13,Adventure,Joe Johnston,92,5.8,1,0.06521739130434782
+635,Jurassic Park III,2001,6.0,PG-13,Fantasy,Joe Johnston,92,5.8,1,0.06521739130434782
+636,Jurassic Park III,2001,6.0,PG-13,Sci-Fi,Joe Johnston,92,5.8,1,0.06521739130434782
+637,Jurassic Park III,2001,6.0,PG-13,Thriller,Joe Johnston,92,5.8,1,0.06521739130434782
+638,K-19: The Widowmaker,2002,10.0,PG-13,Drama,Kathryn Bigelow,138,6.6,1,0.07246376811594203
+639,K-19: The Widowmaker,2002,10.0,PG-13,History,Kathryn Bigelow,138,6.6,1,0.07246376811594203
+640,K-19: The Widowmaker,2002,10.0,PG-13,Thriller,Kathryn Bigelow,138,6.6,1,0.07246376811594203
+641,K-19: The Widowmaker,2002,10.0,PG-13,War,Kathryn Bigelow,138,6.6,1,0.07246376811594203
+642,Kelly's Heroes,1970,139.0,GP,Action,Brian G. Hutton,144,7.6,1,0.9652777777777778
+643,Kelly's Heroes,1970,139.0,GP,Adventure,Brian G. Hutton,144,7.6,1,0.9652777777777778
+644,Kelly's Heroes,1970,139.0,GP,Comedy,Brian G. Hutton,144,7.6,1,0.9652777777777778
+645,Kelly's Heroes,1970,139.0,GP,War,Brian G. Hutton,144,7.6,1,0.9652777777777778
+646,Keoma,1976,76.0,Unrated,Action,Enzo G. Castellari,105,7.2,1,0.7238095238095238
+647,Keoma,1976,76.0,Unrated,Drama,Enzo G. Castellari,105,7.2,1,0.7238095238095238
+648,Keoma,1976,76.0,Unrated,Western,Enzo G. Castellari,105,7.2,1,0.7238095238095238
+649,Kick-Ass,2010,64.0,R,Action,Matthew Vaughn,117,7.8,1,0.5470085470085471
+650,Kick-Ass,2010,64.0,R,Comedy,Matthew Vaughn,117,7.8,1,0.5470085470085471
+651,Kill Bill: Vol. 1,2003,95.0,R,Action,Quentin Tarantino,111,8.1,1,0.8558558558558559
+652,Kill Bill: Vol. 1,2003,95.0,R,Crime,Quentin Tarantino,111,8.1,1,0.8558558558558559
+653,Kill Bill: Vol. 2,2004,3.0,R,Action,Quentin Tarantino,137,8.0,1,0.021897810218978103
+654,Kill Bill: Vol. 2,2004,3.0,R,Crime,Quentin Tarantino,137,8.0,1,0.021897810218978103
+655,Kill Bill: Vol. 2,2004,3.0,R,Thriller,Quentin Tarantino,137,8.0,1,0.021897810218978103
+656,King Arthur,2004,378.0,R,Action,Antoine Fuqua,126,6.2,1,3.0
+657,King Arthur,2004,378.0,R,Adventure,Antoine Fuqua,126,6.2,1,3.0
+658,King Arthur,2004,378.0,R,Drama,Antoine Fuqua,126,6.2,1,3.0
+659,King Kong,2005,23.0,PG-13,Action,Peter Jackson,187,7.3,1,0.12299465240641712
+660,King Kong,2005,23.0,PG-13,Adventure,Peter Jackson,187,7.3,1,0.12299465240641712
+661,King Kong,2005,23.0,PG-13,Drama,Peter Jackson,187,7.3,1,0.12299465240641712
+662,King Kong,2005,23.0,PG-13,Romance,Peter Jackson,187,7.3,1,0.12299465240641712
+663,King of New York,1990,38.0,X,Crime,Abel Ferrara,103,6.9,1,0.36893203883495146
+664,King of New York,1990,38.0,X,Thriller,Abel Ferrara,103,6.9,1,0.36893203883495146
+665,Kingdom of Heaven,2005,610.0,R,Action,Ridley Scott,144,7.1,1,4.236111111111111
+666,Kingdom of Heaven,2005,610.0,R,Adventure,Ridley Scott,144,7.1,1,4.236111111111111
+667,Kingdom of Heaven,2005,610.0,R,Drama,Ridley Scott,144,7.1,1,4.236111111111111
+668,Kingdom of Heaven,2005,610.0,R,History,Ridley Scott,144,7.1,1,4.236111111111111
+669,Kingdom of Heaven,2005,610.0,R,War,Ridley Scott,144,7.1,1,4.236111111111111
+670,Kiss Kiss Bang Bang,2005,15.0,R,Action,Shane Black,103,7.7,1,0.14563106796116504
+671,Kiss Kiss Bang Bang,2005,15.0,R,Comedy,Shane Black,103,7.7,1,0.14563106796116504
+672,Kiss Kiss Bang Bang,2005,15.0,R,Crime,Shane Black,103,7.7,1,0.14563106796116504
+673,Kiss Kiss Bang Bang,2005,15.0,R,Mystery,Shane Black,103,7.7,1,0.14563106796116504
+674,Kung Fu Hustle,2004,20.0,R,Action,Stephen Chow,99,7.7,1,0.20202020202020202
+675,Kung Fu Hustle,2004,20.0,R,Comedy,Stephen Chow,99,7.7,1,0.20202020202020202
+676,Kung Fu Hustle,2004,20.0,R,Crime,Stephen Chow,99,7.7,1,0.20202020202020202
+677,Kung Fu Hustle,2004,20.0,R,Fantasy,Stephen Chow,99,7.7,1,0.20202020202020202
+678,Land of the Dead,2005,217.0,R,Horror,George A. Romero,93,6.3,1,2.3333333333333335
+679,Land of the Dead,2005,217.0,R,Sci-Fi,George A. Romero,93,6.3,1,2.3333333333333335
+680,Last Action Hero,1993,45.0,PG-13,Action,John McTiernan,130,6.1,1,0.34615384615384615
+681,Last Action Hero,1993,45.0,PG-13,Adventure,John McTiernan,130,6.1,1,0.34615384615384615
+682,Last Action Hero,1993,45.0,PG-13,Comedy,John McTiernan,130,6.1,1,0.34615384615384615
+683,Last Action Hero,1993,45.0,PG-13,Family,John McTiernan,130,6.1,1,0.34615384615384615
+684,Last Action Hero,1993,45.0,PG-13,Fantasy,John McTiernan,130,6.1,1,0.34615384615384615
+685,Last Man Standing,1996,57.0,R,Action,Walter Hill,101,6.3,1,0.5643564356435643
+686,Last Man Standing,1996,57.0,R,Crime,Walter Hill,101,6.3,1,0.5643564356435643
+687,Last Man Standing,1996,57.0,R,Drama,Walter Hill,101,6.3,1,0.5643564356435643
+688,Lawrence of Arabia,1962,180.0,PG,Adventure,David Lean,216,8.4,1,0.8333333333333334
+689,Lawrence of Arabia,1962,180.0,PG,Biography,David Lean,216,8.4,1,0.8333333333333334
+690,Lawrence of Arabia,1962,180.0,PG,Drama,David Lean,216,8.4,1,0.8333333333333334
+691,Layer Cake,2004,8.0,R,Crime,Matthew Vaughn,105,7.4,1,0.0761904761904762
+692,Layer Cake,2004,8.0,R,Drama,Matthew Vaughn,105,7.4,1,0.0761904761904762
+693,Layer Cake,2004,8.0,R,Thriller,Matthew Vaughn,105,7.4,1,0.0761904761904762
+694,League of Extraordinary Gentlemen,2003,55.0,PG-13,Action,Stephen Norrington,110,5.7,1,0.5
+695,League of Extraordinary Gentlemen,2003,55.0,PG-13,Adventure,Stephen Norrington,110,5.7,1,0.5
+696,League of Extraordinary Gentlemen,2003,55.0,PG-13,Fantasy,Stephen Norrington,110,5.7,1,0.5
+697,Leon,1994,33.0,R,Crime,Luc Besson,110,8.6,1,0.3
+698,Leon,1994,33.0,R,Drama,Luc Besson,110,8.6,1,0.3
+699,Leon,1994,33.0,R,Thriller,Luc Besson,110,8.6,1,0.3
+700,Leon,1994,33.0,R,Crime,Luc Besson,110,8.6,1,0.3
+701,Leon,1994,33.0,R,Drama,Luc Besson,110,8.6,1,0.3
+702,Leon,1994,33.0,R,Thriller,Luc Besson,110,8.6,1,0.3
+703,Lethal Weapon,1987,26.0,R,Action,Richard Donner,110,7.6,1,0.23636363636363636
+704,Lethal Weapon,1987,26.0,R,Crime,Richard Donner,110,7.6,1,0.23636363636363636
+705,Lethal Weapon,1987,26.0,R,Thriller,Richard Donner,110,7.6,1,0.23636363636363636
+706,Lethal Weapon 2,1989,33.0,Unrated,Action,Richard Donner,114,7.1,1,0.2894736842105263
+707,Lethal Weapon 2,1989,33.0,Unrated,Thriller,Richard Donner,114,7.1,1,0.2894736842105263
+708,Lethal Weapon 3,1992,17.0,Unrated,Action,Richard Donner,118,6.6,1,0.1440677966101695
+709,Lethal Weapon 3,1992,17.0,Unrated,Crime,Richard Donner,118,6.6,1,0.1440677966101695
+710,Lethal Weapon 3,1992,17.0,Unrated,Thriller,Richard Donner,118,6.6,1,0.1440677966101695
+711,Lethal Weapon 4,1998,30.0,R,Action,Richard Donner,127,6.6,1,0.23622047244094488
+712,Lethal Weapon 4,1998,30.0,R,Crime,Richard Donner,127,6.6,1,0.23622047244094488
+713,Lethal Weapon 4,1998,30.0,R,Thriller,Richard Donner,127,6.6,1,0.23622047244094488
+714,Letters from Iwo Jima,2006,84.0,R,Drama,Clint Eastwood,141,7.9,1,0.5957446808510638
+715,Letters from Iwo Jima,2006,84.0,R,History,Clint Eastwood,141,7.9,1,0.5957446808510638
+716,Letters from Iwo Jima,2006,84.0,R,War,Clint Eastwood,141,7.9,1,0.5957446808510638
+717,Live and Let Die,1973,11.0,PG,Action,Guy Hamilton,121,6.8,1,0.09090909090909091
+718,Live and Let Die,1973,11.0,PG,Adventure,Guy Hamilton,121,6.8,1,0.09090909090909091
+719,Live and Let Die,1973,11.0,PG,Crime,Guy Hamilton,121,6.8,1,0.09090909090909091
+720,Live and Let Die,1973,11.0,PG,Thriller,Guy Hamilton,121,6.8,1,0.09090909090909091
+721,"Lock, Stock and Two Smoking Barrels",1998,16.0,R,Crime,Guy Ritchie,107,8.2,1,0.14953271028037382
+722,"Lock, Stock and Two Smoking Barrels",1998,16.0,R,Thriller,Guy Ritchie,107,8.2,1,0.14953271028037382
+723,Lone Wolf McQuade,1983,61.0,PG,Action,Steve Carver,107,6.1,1,0.5700934579439252
+724,Lone Wolf McQuade,1983,61.0,PG,Crime,Steve Carver,107,6.1,1,0.5700934579439252
+725,Lone Wolf McQuade,1983,61.0,PG,Drama,Steve Carver,107,6.1,1,0.5700934579439252
+726,Lone Wolf and Cub: Baby Cart in the Land of Demons,1973,90.0,Unrated,Action,Kenji Misumi,89,7.8,1,1.0112359550561798
+727,Lone Wolf and Cub: Baby Cart in the Land of Demons,1973,90.0,Unrated,Drama,Kenji Misumi,89,7.8,1,1.0112359550561798
+728,Lone Wolf and Cub: Baby Cart in the Land of Demons,1973,90.0,Unrated,Thriller,Kenji Misumi,89,7.8,1,1.0112359550561798
+729,Lone Wolf and Cub: Baby Cart to Hades,1972,102.0,R,Action,Kenji Misumi,89,7.8,1,1.146067415730337
+730,Lone Wolf and Cub: Baby Cart to Hades,1972,102.0,R,Drama,Kenji Misumi,89,7.8,1,1.146067415730337
+731,Lone Wolf and Cub: Sword of Vengeance,1972,71.0,Unrated,Action,Kenji Misumi,83,7.9,1,0.8554216867469879
+732,Lone Wolf and Cub: Sword of Vengeance,1972,71.0,Unrated,Drama,Kenji Misumi,83,7.9,1,0.8554216867469879
+733,Lone Wolf and Cub: White Heaven in Hell,1974,169.0,Unrated,Action,Yoshiyuki Kuroda,83,7.5,1,2.036144578313253
+734,Lone Wolf and Cub: White Heaven in Hell,1974,169.0,Unrated,Drama,Yoshiyuki Kuroda,83,7.5,1,2.036144578313253
+735,Lone Wolf and Cub: White Heaven in Hell,1974,169.0,Unrated,Fantasy,Yoshiyuki Kuroda,83,7.5,1,2.036144578313253
+736,Lone Wolf and Cub: White Heaven in Hell,1974,169.0,Unrated,History,Yoshiyuki Kuroda,83,7.5,1,2.036144578313253
+737,Lord of the Rings: Fellowship of the Ring,2001,118.0,PG-13,Action,Peter Jackson,178,8.8,1,0.6629213483146067
+738,Lord of the Rings: Fellowship of the Ring,2001,118.0,PG-13,Adventure,Peter Jackson,178,8.8,1,0.6629213483146067
+739,Lord of the Rings: Fellowship of the Ring,2001,118.0,PG-13,Fantasy,Peter Jackson,178,8.8,1,0.6629213483146067
+740,Lord of the Rings: Return of the King,2003,836.0,PG-13,Action,Peter Jackson,201,8.9,1,4.159203980099503
+741,Lord of the Rings: Return of the King,2003,836.0,PG-13,Adventure,Peter Jackson,201,8.9,1,4.159203980099503
+742,Lord of the Rings: Return of the King,2003,836.0,PG-13,Fantasy,Peter Jackson,201,8.9,1,4.159203980099503
+743,Lord of the Rings: Two Towers,2002,468.0,PG-13,Action,Peter Jackson,179,8.7,1,2.6145251396648046
+744,Lord of the Rings: Two Towers,2002,468.0,PG-13,Adventure,Peter Jackson,179,8.7,1,2.6145251396648046
+745,Lord of the Rings: Two Towers,2002,468.0,PG-13,Fantasy,Peter Jackson,179,8.7,1,2.6145251396648046
+746,Lucky Number Slevin,2006,19.0,R,Crime,Paul McGuigan,110,7.7,1,0.17272727272727273
+747,Lucky Number Slevin,2006,19.0,R,Drama,Paul McGuigan,110,7.7,1,0.17272727272727273
+748,Lucky Number Slevin,2006,19.0,R,Mystery,Paul McGuigan,110,7.7,1,0.17272727272727273
+749,Machete,2010,81.0,R,Action,Ethan Maniquis|Robert Rodriguez,105,6.7,1,0.7714285714285715
+750,Machete,2010,81.0,R,Crime,Ethan Maniquis|Robert Rodriguez,105,6.7,1,0.7714285714285715
+751,Machete,2010,81.0,R,Thriller,Ethan Maniquis|Robert Rodriguez,105,6.7,1,0.7714285714285715
+752,Mad Max,1979,9.0,R,Action,George Miller,88,7.0,1,0.10227272727272728
+753,Mad Max,1979,9.0,R,Adventure,George Miller,88,7.0,1,0.10227272727272728
+754,Mad Max,1979,9.0,R,Thriller,George Miller,88,7.0,1,0.10227272727272728
+755,Mad Max 2: Road Warrior,1981,44.0,R,Action,George Miller,95,7.6,1,0.4631578947368421
+756,Mad Max 2: Road Warrior,1981,44.0,R,Adventure,George Miller,95,7.6,1,0.4631578947368421
+757,Mad Max 2: Road Warrior,1981,44.0,R,Thriller,George Miller,95,7.6,1,0.4631578947368421
+758,Mad Max Beyond Thunderdome,1985,12.0,PG-13,Action,George Miller|George Ogilvie,107,6.1,1,0.11214953271028037
+759,Mad Max Beyond Thunderdome,1985,12.0,PG-13,Adventure,George Miller|George Ogilvie,107,6.1,1,0.11214953271028037
+760,Mad Max Beyond Thunderdome,1985,12.0,PG-13,Thriller,George Miller|George Ogilvie,107,6.1,1,0.11214953271028037
+761,Major Dundee,1965,147.0,Approved,Adventure,Sam Peckinpah,123,6.8,1,1.1951219512195121
+762,Major Dundee,1965,147.0,Approved,War,Sam Peckinpah,123,6.8,1,1.1951219512195121
+763,Major Dundee,1965,147.0,Approved,Western,Sam Peckinpah,123,6.8,1,1.1951219512195121
+764,Marked for Death,1990,34.0,R,Action,Dwight H. Little,93,5.7,1,0.3655913978494624
+765,Marked for Death,1990,34.0,R,Crime,Dwight H. Little,93,5.7,1,0.3655913978494624
+766,Marked for Death,1990,34.0,R,Drama,Dwight H. Little,93,5.7,1,0.3655913978494624
+767,Marked for Death,1990,34.0,R,Thriller,Dwight H. Little,93,5.7,1,0.3655913978494624
+768,Master and Commander: The Far Side of the World,2003,122.0,PG-13,Action,Peter Weir,138,7.4,1,0.8840579710144928
+769,Master and Commander: The Far Side of the World,2003,122.0,PG-13,Adventure,Peter Weir,138,7.4,1,0.8840579710144928
+770,Master and Commander: The Far Side of the World,2003,122.0,PG-13,Drama,Peter Weir,138,7.4,1,0.8840579710144928
+771,Maverick,1994,4.0,PG,Action,Richard Donner,127,6.9,1,0.031496062992125984
+772,Maverick,1994,4.0,PG,Adventure,Richard Donner,127,6.9,1,0.031496062992125984
+773,Maverick,1994,4.0,PG,Comedy,Richard Donner,127,6.9,1,0.031496062992125984
+774,Maverick,1994,4.0,PG,Thriller,Richard Donner,127,6.9,1,0.031496062992125984
+775,Maverick,1994,4.0,PG,Western,Richard Donner,127,6.9,1,0.031496062992125984
+776,Max Payne,2008,38.0,PG-13,Action,John Moore,100,5.3,1,0.38
+777,Max Payne,2008,38.0,PG-13,Crime,John Moore,100,5.3,1,0.38
+778,Max Payne,2008,38.0,PG-13,Drama,John Moore,100,5.3,1,0.38
+779,Max Payne,2008,38.0,PG-13,Mystery,John Moore,100,5.3,1,0.38
+780,Max Payne,2008,38.0,PG-13,Thriller,John Moore,100,5.3,1,0.38
+781,Maximum Risk,1996,18.0,R,Action,Ringo Lam,101,5.2,1,0.1782178217821782
+782,Maximum Risk,1996,18.0,R,Adventure,Ringo Lam,101,5.2,1,0.1782178217821782
+783,Maximum Risk,1996,18.0,R,Crime,Ringo Lam,101,5.2,1,0.1782178217821782
+784,Maximum Risk,1996,18.0,R,Thriller,Ringo Lam,101,5.2,1,0.1782178217821782
+785,McBain,1991,181.0,R,Action,James Glickenhaus,107,4.6,1,1.691588785046729
+786,McBain,1991,181.0,R,Drama,James Glickenhaus,107,4.6,1,1.691588785046729
+787,Mean Machine,2001,3.0,R,Comedy,Barry Skolnick,99,6.4,1,0.030303030303030304
+788,Mean Machine,2001,3.0,R,Drama,Barry Skolnick,99,6.4,1,0.030303030303030304
+789,Mean Machine,2001,3.0,R,Sport,Barry Skolnick,99,6.4,1,0.030303030303030304
+790,Memento,2000,4.0,R,Mystery,Christopher Nolan,113,8.6,1,0.035398230088495575
+791,Memento,2000,4.0,R,Thriller,Christopher Nolan,113,8.6,1,0.035398230088495575
+792,Milk,2008,4.0,R,Biography,Gus Van Sant,128,7.6,1,0.03125
+793,Milk,2008,4.0,R,Drama,Gus Van Sant,128,7.6,1,0.03125
+794,Milk,2008,4.0,R,History,Gus Van Sant,128,7.6,1,0.03125
+795,Minority Report,2002,4.0,PG-13,Action,Steven Spielberg,145,7.7,1,0.027586206896551724
+796,Minority Report,2002,4.0,PG-13,Mystery,Steven Spielberg,145,7.7,1,0.027586206896551724
+797,Minority Report,2002,4.0,PG-13,Sci-Fi,Steven Spielberg,145,7.7,1,0.027586206896551724
+798,Minority Report,2002,4.0,PG-13,Thriller,Steven Spielberg,145,7.7,1,0.027586206896551724
+799,Missing in Action,1984,100.0,R,Action,Joseph Zito,101,5.1,1,0.9900990099009901
+800,Missing in Action,1984,100.0,R,Adventure,Joseph Zito,101,5.1,1,0.9900990099009901
+801,Missing in Action,1984,100.0,R,Drama,Joseph Zito,101,5.1,1,0.9900990099009901
+802,Missing in Action,1984,100.0,R,Thriller,Joseph Zito,101,5.1,1,0.9900990099009901
+803,Missing in Action,1984,100.0,R,War,Joseph Zito,101,5.1,1,0.9900990099009901
+804,Mission: Impossible,1996,9.0,PG-13,Action,Brian De Palma,110,7.0,1,0.08181818181818182
+805,Mission: Impossible,1996,9.0,PG-13,Adventure,Brian De Palma,110,7.0,1,0.08181818181818182
+806,Mission: Impossible,1996,9.0,PG-13,Thriller,Brian De Palma,110,7.0,1,0.08181818181818182
+807,Mission: Impossible II,2000,37.0,PG-13,Action,John Woo,123,5.9,1,0.3008130081300813
+808,Mission: Impossible II,2000,37.0,PG-13,Adventure,John Woo,123,5.9,1,0.3008130081300813
+809,Mission: Impossible II,2000,37.0,PG-13,Thriller,John Woo,123,5.9,1,0.3008130081300813
+810,Mission: Impossible III,2006,23.0,PG-13,Action,J.J. Abrams,126,6.8,1,0.18253968253968253
+811,Mission: Impossible III,2006,23.0,PG-13,Adventure,J.J. Abrams,126,6.8,1,0.18253968253968253
+812,Mission: Impossible III,2006,23.0,PG-13,Thriller,J.J. Abrams,126,6.8,1,0.18253968253968253
+813,Mongol: The Rise of Genghis Khan,2007,200.0,R,Biography,Sergey Bodrov,126,7.3,1,1.5873015873015872
+814,Mongol: The Rise of Genghis Khan,2007,200.0,R,Drama,Sergey Bodrov,126,7.3,1,1.5873015873015872
+815,Mongol: The Rise of Genghis Khan,2007,200.0,R,History,Sergey Bodrov,126,7.3,1,1.5873015873015872
+816,Monty Python and the Holy Grail,1975,48.0,PG,Adventure,Terry Gilliam|Terry Jones,91,8.4,1,0.5274725274725275
+817,Monty Python and the Holy Grail,1975,48.0,PG,Comedy,Terry Gilliam|Terry Jones,91,8.4,1,0.5274725274725275
+818,Monty Python and the Holy Grail,1975,48.0,PG,Fantasy,Terry Gilliam|Terry Jones,91,8.4,1,0.5274725274725275
+819,Mortal Kombat,1995,11.0,PG-13,Action,Paul W.S. Anderson,101,5.6,1,0.10891089108910891
+820,Mortal Kombat,1995,11.0,PG-13,Adventure,Paul W.S. Anderson,101,5.6,1,0.10891089108910891
+821,Mortal Kombat,1995,11.0,PG-13,Fantasy,Paul W.S. Anderson,101,5.6,1,0.10891089108910891
+822,Mortal Kombat,1995,11.0,PG-13,Sci-Fi,Paul W.S. Anderson,101,5.6,1,0.10891089108910891
+823,Mortal Kombat,1995,11.0,PG-13,Thriller,Paul W.S. Anderson,101,5.6,1,0.10891089108910891
+824,Mr. & Mrs. Smith,2005,43.0,PG-13,Action,Doug Liman,120,6.4,1,0.35833333333333334
+825,Mr. & Mrs. Smith,2005,43.0,PG-13,Comedy,Doug Liman,120,6.4,1,0.35833333333333334
+826,Mr. & Mrs. Smith,2005,43.0,PG-13,Romance,Doug Liman,120,6.4,1,0.35833333333333334
+827,Mr. Brooks,2007,9.0,R,Crime,Bruce A. Evans,120,7.4,1,0.075
+828,Mr. Brooks,2007,9.0,R,Drama,Bruce A. Evans,120,7.4,1,0.075
+829,Mr. Brooks,2007,9.0,R,Mystery,Bruce A. Evans,120,7.4,1,0.075
+830,Mr. Brooks,2007,9.0,R,Thriller,Bruce A. Evans,120,7.4,1,0.075
+831,Mulan,1998,43.0,G,Animation,Tony Bancroft|Barry Cook,88,7.4,1,0.48863636363636365
+832,Mulan,1998,43.0,G,Adventure,Tony Bancroft|Barry Cook,88,7.4,1,0.48863636363636365
+833,Mulan,1998,43.0,G,Family,Tony Bancroft|Barry Cook,88,7.4,1,0.48863636363636365
+834,Munich,2005,49.0,R,Drama,Steven Spielberg,164,7.6,1,0.29878048780487804
+835,Munich,2005,49.0,R,History,Steven Spielberg,164,7.6,1,0.29878048780487804
+836,Munich,2005,49.0,R,Thriller,Steven Spielberg,164,7.6,1,0.29878048780487804
+837,Mutant Chronicles,2008,310.0,R,Action,Simon Hunter,111,5.2,1,2.7927927927927927
+838,Mutant Chronicles,2008,310.0,R,Adventure,Simon Hunter,111,5.2,1,2.7927927927927927
+839,Mutant Chronicles,2008,310.0,R,Horror,Simon Hunter,111,5.2,1,2.7927927927927927
+840,My Bloody Valentine 3D,2009,24.0,R,Horror,Patrick Lussier,101,5.4,1,0.2376237623762376
+841,My Bloody Valentine 3D,2009,24.0,R,Thriller,Patrick Lussier,101,5.4,1,0.2376237623762376
+842,Natural Born Killers,1994,98.0,R,Crime,Oliver Stone,118,7.2,1,0.8305084745762712
+843,Natural Born Killers,1994,98.0,R,Drama,Oliver Stone,118,7.2,1,0.8305084745762712
+844,Navajo Joe,1966,82.0,NR,Western,Sergio Corbucci,93,6.3,1,0.8817204301075269
+845,Next,2007,53.0,PG-13,Action,Lee Tamahori,96,6.2,1,0.5520833333333334
+846,Next,2007,53.0,PG-13,Sci-Fi,Lee Tamahori,96,6.2,1,0.5520833333333334
+847,Next,2007,53.0,PG-13,Thriller,Lee Tamahori,96,6.2,1,0.5520833333333334
+848,Ninja Assassin,2009,137.0,R,Action,James McTeigue,99,6.3,1,1.3838383838383839
+849,Ninja Assassin,2009,137.0,R,Crime,James McTeigue,99,6.3,1,1.3838383838383839
+850,Ninja Assassin,2009,137.0,R,Thriller,James McTeigue,99,6.3,1,1.3838383838383839
+851,No Country for Old Men,2007,22.0,R,Crime,Ethan Coen|Joel Coen,122,8.1,1,0.18032786885245902
+852,No Country for Old Men,2007,22.0,R,Drama,Ethan Coen|Joel Coen,122,8.1,1,0.18032786885245902
+853,No Country for Old Men,2007,22.0,R,Thriller,Ethan Coen|Joel Coen,122,8.1,1,0.18032786885245902
+854,Octopussy,1983,46.0,PG,Action,John Glen,131,6.5,1,0.3511450381679389
+855,Octopussy,1983,46.0,PG,Adventure,John Glen,131,6.5,1,0.3511450381679389
+856,Octopussy,1983,46.0,PG,Crime,John Glen,131,6.5,1,0.3511450381679389
+857,Octopussy,1983,46.0,PG,Thriller,John Glen,131,6.5,1,0.3511450381679389
+858,Olympus Has Fallen,2013,156.0,R,Action,Antoine Fuqua,119,6.5,1,1.3109243697478992
+859,Olympus Has Fallen,2013,156.0,R,Thriller,Antoine Fuqua,119,6.5,1,1.3109243697478992
+860,On Deadly Ground,1994,25.0,R,Action,Steven Seagal,101,4.1,1,0.24752475247524752
+861,On Deadly Ground,1994,25.0,R,Adventure,Steven Seagal,101,4.1,1,0.24752475247524752
+862,On Deadly Ground,1994,25.0,R,Thriller,Steven Seagal,101,4.1,1,0.24752475247524752
+863,On Her Majesty's Secret Service,1969,26.0,M,Action,Peter R. Hunt,142,6.8,1,0.18309859154929578
+864,On Her Majesty's Secret Service,1969,26.0,M,Adventure,Peter R. Hunt,142,6.8,1,0.18309859154929578
+865,On Her Majesty's Secret Service,1969,26.0,M,Crime,Peter R. Hunt,142,6.8,1,0.18309859154929578
+866,On Her Majesty's Secret Service,1969,26.0,M,Romance,Peter R. Hunt,142,6.8,1,0.18309859154929578
+867,On Her Majesty's Secret Service,1969,26.0,M,Thriller,Peter R. Hunt,142,6.8,1,0.18309859154929578
+868,Once Upon A Time In Mexico,2003,99.0,R,Action,Robert Rodriguez,102,6.3,1,0.9705882352941176
+869,Once Upon A Time In Mexico,2003,99.0,R,Thriller,Robert Rodriguez,102,6.3,1,0.9705882352941176
+870,Once a Thief,1991,59.0,R,Action,John Woo,103,6.7,1,0.5728155339805825
+871,Once a Thief,1991,59.0,R,Comedy,John Woo,103,6.7,1,0.5728155339805825
+872,Once a Thief,1991,59.0,R,Crime,John Woo,103,6.7,1,0.5728155339805825
+873,Operation Delta Force,1997,120.0,R,Action,Sam Firstenberg,93,3.2,1,1.2903225806451613
+874,Operation Delta Force,1997,120.0,R,Thriller,Sam Firstenberg,93,3.2,1,1.2903225806451613
+875,Out For Justice,1991,20.0,R,Action,John Flynn,91,5.8,1,0.21978021978021978
+876,Out For Justice,1991,20.0,R,Thriller,John Flynn,91,5.8,1,0.21978021978021978
+877,Out For Justice,1991,20.0,R,Crime,John Flynn,91,5.8,1,0.21978021978021978
+878,Out For Justice,1991,20.0,R,Drama,John Flynn,91,5.8,1,0.21978021978021978
+879,Out of Sight,1998,9.0,R,Comedy,Steven Soderbergh,123,7.0,1,0.07317073170731707
+880,Out of Sight,1998,9.0,R,Crime,Steven Soderbergh,123,7.0,1,0.07317073170731707
+881,Out of Sight,1998,9.0,R,Romance,Steven Soderbergh,123,7.0,1,0.07317073170731707
+882,Out of Sight,1998,9.0,R,Thriller,Steven Soderbergh,123,7.0,1,0.07317073170731707
+883,Pan's Labyrinth,2006,30.0,R,Drama,Guillermo del Toro,118,8.3,1,0.2542372881355932
+884,Pan's Labyrinth,2006,30.0,R,Fantasy,Guillermo del Toro,118,8.3,1,0.2542372881355932
+885,Pan's Labyrinth,2006,30.0,R,War,Guillermo del Toro,118,8.3,1,0.2542372881355932
+886,Paths of Glory,1957,67.0,Approved,Drama,Stanley Kubrick,88,8.5,1,0.7613636363636364
+887,Paths of Glory,1957,67.0,Approved,War,Stanley Kubrick,88,8.5,1,0.7613636363636364
+888,Patriot Games,1992,35.0,R,Action,Phillip Noyce,117,6.9,1,0.29914529914529914
+889,Patriot Games,1992,35.0,R,Crime,Phillip Noyce,117,6.9,1,0.29914529914529914
+890,Patriot Games,1992,35.0,R,Drama,Phillip Noyce,117,6.9,1,0.29914529914529914
+891,Patriot Games,1992,35.0,R,Thriller,Phillip Noyce,117,6.9,1,0.29914529914529914
+892,Patton,1970,199.0,GP,Biography,Franklin J. Schaffner,172,8.0,1,1.1569767441860466
+893,Patton,1970,199.0,GP,Drama,Franklin J. Schaffner,172,8.0,1,1.1569767441860466
+894,Patton,1970,199.0,GP,History,Franklin J. Schaffner,172,8.0,1,1.1569767441860466
+895,Payback,1999,18.0,R,Action,Brian Helgeland,100,7.0,1,0.18
+896,Payback,1999,18.0,R,Crime,Brian Helgeland,100,7.0,1,0.18
+897,Payback,1999,18.0,R,Drama,Brian Helgeland,100,7.0,1,0.18
+898,Payback,1999,18.0,R,Thriller,Brian Helgeland,100,7.0,1,0.18
+899,Pearl Harbor,2001,153.0,PG-13,Action,Michael Bay,183,5.8,1,0.8360655737704918
+900,Pearl Harbor,2001,153.0,PG-13,Drama,Michael Bay,183,5.8,1,0.8360655737704918
+901,Pearl Harbor,2001,153.0,PG-13,Romance,Michael Bay,183,5.8,1,0.8360655737704918
+902,Pearl Harbor,2001,153.0,PG-13,War,Michael Bay,183,5.8,1,0.8360655737704918
+903,Pirates of the Caribbean: At World's End,2007,252.0,PG-13,Action,Gore Verbinski,169,7.0,1,1.4911242603550297
+904,Pirates of the Caribbean: At World's End,2007,252.0,PG-13,Adventure,Gore Verbinski,169,7.0,1,1.4911242603550297
+905,Pirates of the Caribbean: At World's End,2007,252.0,PG-13,Fantasy,Gore Verbinski,169,7.0,1,1.4911242603550297
+906,Pirates of the Caribbean: Curse of the Black Pearl,2003,42.0,PG-13,Action,Gore Verbinski,143,8.1,1,0.2937062937062937
+907,Pirates of the Caribbean: Curse of the Black Pearl,2003,42.0,PG-13,Adventure,Gore Verbinski,143,8.1,1,0.2937062937062937
+908,Pirates of the Caribbean: Curse of the Black Pearl,2003,42.0,PG-13,Fantasy,Gore Verbinski,143,8.1,1,0.2937062937062937
+909,Pirates of the Caribbean: Dead Man's Chest,2006,90.0,PG-13,Action,Gore Verbinski,151,7.3,1,0.5960264900662252
+910,Pirates of the Caribbean: Dead Man's Chest,2006,90.0,PG-13,Adventure,Gore Verbinski,151,7.3,1,0.5960264900662252
+911,Pirates of the Caribbean: Dead Man's Chest,2006,90.0,PG-13,Fantasy,Gore Verbinski,151,7.3,1,0.5960264900662252
+912,Plan 9 from Outer Space,1959,7.0,Unrated,Action,Edward D. Wood Jr.,79,3.9,1,0.08860759493670886
+913,Plan 9 from Outer Space,1959,7.0,Unrated,Adventure,Edward D. Wood Jr.,79,3.9,1,0.08860759493670886
+914,Plan 9 from Outer Space,1959,7.0,Unrated,Horror,Edward D. Wood Jr.,79,3.9,1,0.08860759493670886
+915,Plan 9 from Outer Space,1959,7.0,Unrated,Sci-Fi,Edward D. Wood Jr.,79,3.9,1,0.08860759493670886
+916,Planet of the Apes,2001,99.0,PG-13,Action,Tim Burton,119,5.7,1,0.8319327731092437
+917,Planet of the Apes,2001,99.0,PG-13,Adventure,Tim Burton,119,5.7,1,0.8319327731092437
+918,Planet of the Apes,2001,99.0,PG-13,Sci-Fi,Tim Burton,119,5.7,1,0.8319327731092437
+919,Platoon,1986,160.0,R,Action,Oliver Stone,120,8.2,1,1.3333333333333333
+920,Platoon,1986,160.0,R,Drama,Oliver Stone,120,8.2,1,1.3333333333333333
+921,Platoon,1986,160.0,R,War,Oliver Stone,120,8.2,1,1.3333333333333333
+922,Platoon Leader,1988,106.0,R,War,Aaron Norris,97,5.1,1,1.092783505154639
+923,Platoon Leader,1988,106.0,R,Drama,Aaron Norris,97,5.1,1,1.092783505154639
+924,Point of No Return,1993,35.0,R,Action,John Badham,109,5.8,1,0.3211009174311927
+925,Point of No Return,1993,35.0,R,Crime,John Badham,109,5.8,1,0.3211009174311927
+926,Point of No Return,1993,35.0,R,Thriller,John Badham,109,5.8,1,0.3211009174311927
+927,Poseidon,2006,214.0,PG-13,Action,Wolfgang Petersen,98,5.6,1,2.183673469387755
+928,Poseidon,2006,214.0,PG-13,Adventure,Wolfgang Petersen,98,5.6,1,2.183673469387755
+929,Poseidon,2006,214.0,PG-13,Drama,Wolfgang Petersen,98,5.6,1,2.183673469387755
+930,Predator,1987,64.0,R,Action,John McTiernan,107,7.8,1,0.5981308411214953
+931,Predator,1987,64.0,R,Adventure,John McTiernan,107,7.8,1,0.5981308411214953
+932,Predator,1987,64.0,R,Sci-Fi,John McTiernan,107,7.8,1,0.5981308411214953
+933,Predator,1987,64.0,R,Thriller,John McTiernan,107,7.8,1,0.5981308411214953
+934,Prince of Jutland,1994,38.0,R,Adventure,Gabriel Axel,103,5.8,1,0.36893203883495146
+935,Prince of Jutland,1994,38.0,R,Drama,Gabriel Axel,103,5.8,1,0.36893203883495146
+936,Prince of Jutland,1994,38.0,R,Adventure,Gabriel Axel,103,5.8,1,0.36893203883495146
+937,Prince of Jutland,1994,38.0,R,Drama,Gabriel Axel,103,5.8,1,0.36893203883495146
+938,Pulp,1972,6.0,PG,Comedy,Mike Hodges,95,6.0,1,0.06315789473684211
+939,Pulp,1972,6.0,PG,Crime,Mike Hodges,95,6.0,1,0.06315789473684211
+940,Pulp,1972,6.0,PG,Drama,Mike Hodges,95,6.0,1,0.06315789473684211
+941,Pulp,1972,6.0,PG,Mystery,Mike Hodges,95,6.0,1,0.06315789473684211
+942,Pulp,1972,6.0,PG,Thriller,Mike Hodges,95,6.0,1,0.06315789473684211
+943,Pulp Fiction,1994,10.0,R,Crime,Quentin Tarantino,154,9.0,1,0.06493506493506493
+944,Pulp Fiction,1994,10.0,R,Drama,Quentin Tarantino,154,9.0,1,0.06493506493506493
+945,Pulp Fiction,1994,10.0,R,Thriller,Quentin Tarantino,154,9.0,1,0.06493506493506493
+946,Punisher: War Zone,2008,129.0,R,Action,Lexi Alexander,103,6.0,1,1.2524271844660195
+947,Punisher: War Zone,2008,129.0,R,Crime,Lexi Alexander,103,6.0,1,1.2524271844660195
+948,Punisher: War Zone,2008,129.0,R,Drama,Lexi Alexander,103,6.0,1,1.2524271844660195
+949,Push,2009,24.0,PG-13,Action,Paul McGuigan,111,6.1,1,0.21621621621621623
+950,Push,2009,24.0,PG-13,Sci-Fi,Paul McGuigan,111,6.1,1,0.21621621621621623
+951,Push,2009,24.0,PG-13,Thriller,Paul McGuigan,111,6.1,1,0.21621621621621623
+952,Raiders of the Lost Ark,1981,84.0,PG,Action,Steven Spielberg,115,8.6,1,0.7304347826086957
+953,Raiders of the Lost Ark,1981,84.0,PG,Adventure,Steven Spielberg,115,8.6,1,0.7304347826086957
+954,Rambo,2008,247.0,R,Action,Sylvester Stallone,92,7.1,1,2.6847826086956523
+955,Rambo,2008,247.0,R,Thriller,Sylvester Stallone,92,7.1,1,2.6847826086956523
+956,Rambo,2008,247.0,R,War,Sylvester Stallone,92,7.1,1,2.6847826086956523
+957,Rambo III,1988,127.0,R,Action,Peter MacDonald,102,5.5,1,1.2450980392156863
+958,Rambo III,1988,127.0,R,Adventure,Peter MacDonald,102,5.5,1,1.2450980392156863
+959,Rambo III,1988,127.0,R,Thriller,Peter MacDonald,102,5.5,1,1.2450980392156863
+960,Rambo: First,1985,67.0,R,Action,George P. Cosmatos,96,6.2,1,0.6979166666666666
+961,Rambo: First,1985,67.0,R,War,George P. Cosmatos,96,6.2,1,0.6979166666666666
+962,Ran,1985,182.0,R,Action,Akira Kurosawa,162,8.3,1,1.123456790123457
+963,Ran,1985,182.0,R,Drama,Akira Kurosawa,162,8.3,1,1.123456790123457
+964,Ran,1985,182.0,R,War,Akira Kurosawa,162,8.3,1,1.123456790123457
+965,Raw Deal,1986,38.0,R,Action,John Irvin,106,5.3,1,0.3584905660377358
+966,Raw Deal,1986,38.0,R,Crime,John Irvin,106,5.3,1,0.3584905660377358
+967,Raw Deal,1986,38.0,R,Thriller,John Irvin,106,5.3,1,0.3584905660377358
+968,Red Dawn,1984,118.0,PG-13,Action,John Milius,114,6.2,1,1.0350877192982457
+969,Red Dawn,1984,118.0,PG-13,Adventure,John Milius,114,6.2,1,1.0350877192982457
+970,Red Dawn,1984,118.0,PG-13,Drama,John Milius,114,6.2,1,1.0350877192982457
+971,Red Planet,2000,4.0,PG-13,Sci-Fi,Antony Hoffman,106,5.6,1,0.03773584905660377
+972,Red Planet,2000,4.0,PG-13,Action,Antony Hoffman,106,5.6,1,0.03773584905660377
+973,Red Planet,2000,4.0,PG-13,Thriller,Antony Hoffman,106,5.6,1,0.03773584905660377
+974,Red Scorpion,1989,104.0,R,Action,Joseph Zito,105,4.7,1,0.9904761904761905
+975,Red Scorpion,1989,104.0,R,Adventure,Joseph Zito,105,4.7,1,0.9904761904761905
+976,Red Sonja,1985,96.0,PG-13,Action,Richard Fleischer,89,4.8,1,1.0786516853932584
+977,Red Sonja,1985,96.0,PG-13,Adventure,Richard Fleischer,89,4.8,1,1.0786516853932584
+978,Red Sonja,1985,96.0,PG-13,Fantasy,Richard Fleischer,89,4.8,1,1.0786516853932584
+979,Red Sun,1971,92.0,PG,Thriller,Terence Young,112,6.9,1,0.8214285714285714
+980,Red Sun,1971,92.0,PG,Western,Terence Young,112,6.9,1,0.8214285714285714
+981,Reign of Fire,2002,32.0,PG-13,Action,Rob Bowman,101,6.1,1,0.31683168316831684
+982,Reign of Fire,2002,32.0,PG-13,Adventure,Rob Bowman,101,6.1,1,0.31683168316831684
+983,Reign of Fire,2002,32.0,PG-13,Fantasy,Rob Bowman,101,6.1,1,0.31683168316831684
+984,Reign of Fire,2002,32.0,PG-13,Sci-Fi,Rob Bowman,101,6.1,1,0.31683168316831684
+985,Reign of Fire,2002,32.0,PG-13,Thriller,Rob Bowman,101,6.1,1,0.31683168316831684
+986,Reservoir Dogs,1992,12.0,R,Crime,Quentin Tarantino,99,8.4,1,0.12121212121212122
+987,Reservoir Dogs,1992,12.0,R,Thriller,Quentin Tarantino,99,8.4,1,0.12121212121212122
+988,Resident Evil: Apocalypse,2004,123.0,R,Action,Alexander Witt,94,6.0,1,1.3085106382978724
+989,Resident Evil: Apocalypse,2004,123.0,R,Horror,Alexander Witt,94,6.0,1,1.3085106382978724
+990,Resident Evil: Apocalypse,2004,123.0,R,Sci-Fi,Alexander Witt,94,6.0,1,1.3085106382978724
+991,Resident Evil: Apocalypse,2004,123.0,R,Thriller,Alexander Witt,94,6.0,1,1.3085106382978724
+992,Resident Evil: Extinction,2007,124.0,R,Action,Russell Mulcahy,94,6.2,1,1.3191489361702127
+993,Resident Evil: Extinction,2007,124.0,R,Horror,Russell Mulcahy,94,6.2,1,1.3191489361702127
+994,Resident Evil: Extinction,2007,124.0,R,Sci-Fi,Russell Mulcahy,94,6.2,1,1.3191489361702127
+995,Resident Evil: Extinction,2007,124.0,R,Thriller,Russell Mulcahy,94,6.2,1,1.3191489361702127
+996,Riders,2002,6.0,R,Action,Gerard Pires,83,5.4,1,0.07228915662650602
+997,Riders,2002,6.0,R,Crime,Gerard Pires,83,5.4,1,0.07228915662650602
+998,Riders,2002,6.0,R,Thriller,Gerard Pires,83,5.4,1,0.07228915662650602
+999,Riders,2002,6.0,R,Action,Gerard Pires,83,5.4,1,0.07228915662650602
+1000,Riders,2002,6.0,R,Crime,Gerard Pires,83,5.4,1,0.07228915662650602
+1001,Riders,2002,6.0,R,Thriller,Gerard Pires,83,5.4,1,0.07228915662650602
+1002,Ripley's Game,2002,11.0,R,Crime,Liliana Cavani,110,6.6,1,0.1
+1003,Ripley's Game,2002,11.0,R,Drama,Liliana Cavani,110,6.6,1,0.1
+1004,Ripley's Game,2002,11.0,R,Mystery,Liliana Cavani,110,6.6,1,0.1
+1005,Ripley's Game,2002,11.0,R,Thriller,Liliana Cavani,110,6.6,1,0.1
+1006,Ritana,2002,91.0,R,Action,Takashi Yamazaki,116,6.5,1,0.7844827586206896
+1007,Ritana,2002,91.0,R,Adventure,Takashi Yamazaki,116,6.5,1,0.7844827586206896
+1008,Ritana,2002,91.0,R,Sci-Fi,Takashi Yamazaki,116,6.5,1,0.7844827586206896
+1009,Road House,1989,7.0,R,Action,Rowdy Herrington,114,6.2,1,0.06140350877192982
+1010,Road House,1989,7.0,R,Thriller,Rowdy Herrington,114,6.2,1,0.06140350877192982
+1011,RoboCop,1987,34.0,R,Action,Paul Verhoeven,102,7.5,1,0.3333333333333333
+1012,RoboCop,1987,34.0,R,Crime,Paul Verhoeven,102,7.5,1,0.3333333333333333
+1013,RoboCop,1987,34.0,R,Sci-Fi,Paul Verhoeven,102,7.5,1,0.3333333333333333
+1014,RocknRolla,2008,11.0,R,Action,Guy Ritchie,114,7.3,1,0.09649122807017543
+1015,RocknRolla,2008,11.0,R,Crime,Guy Ritchie,114,7.3,1,0.09649122807017543
+1016,RocknRolla,2008,11.0,R,Thriller,Guy Ritchie,114,7.3,1,0.09649122807017543
+1017,Romeo is Bleeding,1993,15.0,R,Crime,Peter Medak,100,6.5,1,0.15
+1018,Romeo is Bleeding,1993,15.0,R,Drama,Peter Medak,100,6.5,1,0.15
+1019,Romeo is Bleeding,1993,15.0,R,Thriller,Peter Medak,100,6.5,1,0.15
+1020,Ronin,1998,34.0,R,Action,John Frankenheimer,122,7.2,1,0.2786885245901639
+1021,Ronin,1998,34.0,R,Adventure,John Frankenheimer,122,7.2,1,0.2786885245901639
+1022,Ronin,1998,34.0,R,Crime,John Frankenheimer,122,7.2,1,0.2786885245901639
+1023,Ronin,1998,34.0,R,Thriller,John Frankenheimer,122,7.2,1,0.2786885245901639
+1024,Running Scared,2006,22.0,R,Action,Wayne Kramer,122,7.4,1,0.18032786885245902
+1025,Running Scared,2006,22.0,R,Crime,Wayne Kramer,122,7.4,1,0.18032786885245902
+1026,Running Scared,2006,22.0,R,Drama,Wayne Kramer,122,7.4,1,0.18032786885245902
+1027,Running Scared,2006,22.0,R,Thriller,Wayne Kramer,122,7.4,1,0.18032786885245902
+1028,Sabata,1969,90.0,PG-13,Western,Gianfranco Parolini,111,6.8,1,0.8108108108108109
+1029,Sahara,2005,68.0,PG-13,Action,Breck Eisner,124,5.9,1,0.5483870967741935
+1030,Sahara,2005,68.0,PG-13,Adventure,Breck Eisner,124,5.9,1,0.5483870967741935
+1031,Sahara,2005,68.0,PG-13,Comedy,Breck Eisner,124,5.9,1,0.5483870967741935
+1032,Sahara,2005,68.0,PG-13,Thriller,Breck Eisner,124,5.9,1,0.5483870967741935
+1033,Sahara,2005,68.0,PG-13,War,Breck Eisner,124,5.9,1,0.5483870967741935
+1034,Samurai Assassin,1965,94.0,Unrated,Action,Kihachi Okamoto,122,7.6,1,0.7704918032786885
+1035,Samurai Assassin,1965,94.0,Unrated,Adventure,Kihachi Okamoto,122,7.6,1,0.7704918032786885
+1036,Samurai Assassin,1965,94.0,Unrated,Drama,Kihachi Okamoto,122,7.6,1,0.7704918032786885
+1037,Samurai I: Musashi Miyamoto,1954,50.0,Unrated,Action,Hiroshi Inagaki,93,7.6,1,0.5376344086021505
+1038,Samurai I: Musashi Miyamoto,1954,50.0,Unrated,Adventure,Hiroshi Inagaki,93,7.6,1,0.5376344086021505
+1039,Samurai I: Musashi Miyamoto,1954,50.0,Unrated,Biography,Hiroshi Inagaki,93,7.6,1,0.5376344086021505
+1040,Saving Private Ryan,1998,255.0,R,Action,Steven Spielberg,169,8.6,1,1.5088757396449703
+1041,Saving Private Ryan,1998,255.0,R,Drama,Steven Spielberg,169,8.6,1,1.5088757396449703
+1042,Saving Private Ryan,1998,255.0,R,War,Steven Spielberg,169,8.6,1,1.5088757396449703
+1043,Scarface,1983,44.0,R,Crime,Brian De Palma,170,8.3,1,0.25882352941176473
+1044,Scarface,1983,44.0,R,Drama,Brian De Palma,170,8.3,1,0.25882352941176473
+1045,Schindler's List,1993,98.0,R,Biography,Steven Spielberg,195,8.9,1,0.5025641025641026
+1046,Schindler's List,1993,98.0,R,Drama,Steven Spielberg,195,8.9,1,0.5025641025641026
+1047,Schindler's List,1993,98.0,R,History,Steven Spielberg,195,8.9,1,0.5025641025641026
+1048,Screamers,1995,62.0,R,Action,Christian Duguay,108,6.3,1,0.5740740740740741
+1049,Screamers,1995,62.0,R,Adventure,Christian Duguay,108,6.3,1,0.5740740740740741
+1050,Screamers,1995,62.0,R,Horror,Christian Duguay,108,6.3,1,0.5740740740740741
+1051,Secret Window,2004,4.0,PG-13,Mystery,David Koepp,96,6.5,1,0.041666666666666664
+1052,Secret Window,2004,4.0,PG-13,Thriller,David Koepp,96,6.5,1,0.041666666666666664
+1053,Secret of NIMH,1982,12.0,G,Animation,Don Bluth,82,7.5,1,0.14634146341463414
+1054,Secret of NIMH,1982,12.0,G,Drama,Don Bluth,82,7.5,1,0.14634146341463414
+1055,Secret of NIMH,1982,12.0,G,Family,Don Bluth,82,7.5,1,0.14634146341463414
+1056,Secret of NIMH,1982,12.0,G,Fantasy,Don Bluth,82,7.5,1,0.14634146341463414
+1057,Secret of NIMH,1982,12.0,G,Sci-Fi,Don Bluth,82,7.5,1,0.14634146341463414
+1058,Serenity,2005,74.0,PG-13,Action,Joss Whedon,119,7.9,1,0.6218487394957983
+1059,Serenity,2005,74.0,PG-13,Adventure,Joss Whedon,119,7.9,1,0.6218487394957983
+1060,Serenity,2005,74.0,PG-13,Sci-Fi,Joss Whedon,119,7.9,1,0.6218487394957983
+1061,Serenity,2005,74.0,PG-13,Thriller,Joss Whedon,119,7.9,1,0.6218487394957983
+1062,Seven Samurai,1954,65.0,Unrated,Action,Akira Kurosawa,207,8.8,1,0.3140096618357488
+1063,Seven Samurai,1954,65.0,Unrated,Drama,Akira Kurosawa,207,8.8,1,0.3140096618357488
+1064,Severance,2006,28.0,R,Comedy,Christopher Smith,96,6.5,1,0.2916666666666667
+1065,Severance,2006,28.0,R,Horror,Christopher Smith,96,6.5,1,0.2916666666666667
+1066,Severance,2006,28.0,R,Thriller,Christopher Smith,96,6.5,1,0.2916666666666667
+1067,Shaft,2000,22.0,R,Action,John Singleton,99,5.9,1,0.2222222222222222
+1068,Shaft,2000,22.0,R,Crime,John Singleton,99,5.9,1,0.2222222222222222
+1069,Shaft,2000,22.0,R,Thriller,John Singleton,99,5.9,1,0.2222222222222222
+1070,Shaun of the Dead,2004,60.0,R,Comedy,Edgar Wright,99,8.0,1,0.6060606060606061
+1071,Shaun of the Dead,2004,60.0,R,Horror,Edgar Wright,99,8.0,1,0.6060606060606061
+1072,Shoot 'Em Up,2007,151.0,R,Action,Michael Davis,86,6.7,1,1.755813953488372
+1073,Shoot 'Em Up,2007,151.0,R,Comedy,Michael Davis,86,6.7,1,1.755813953488372
+1074,Shoot 'Em Up,2007,151.0,R,Crime,Michael Davis,86,6.7,1,1.755813953488372
+1075,Shoot 'Em Up,2007,151.0,R,Thriller,Michael Davis,86,6.7,1,1.755813953488372
+1076,Shooter,2007,56.0,R,Action,Antoine Fuqua,124,7.1,1,0.45161290322580644
+1077,Shooter,2007,56.0,R,Crime,Antoine Fuqua,124,7.1,1,0.45161290322580644
+1078,Shooter,2007,56.0,R,Drama,Antoine Fuqua,124,7.1,1,0.45161290322580644
+1079,Showdown in,1991,48.0,R,Action,Mark L. Lester,79,5.8,1,0.6075949367088608
+1080,Showdown in,1991,48.0,R,Comedy,Mark L. Lester,79,5.8,1,0.6075949367088608
+1081,Showdown in,1991,48.0,R,Crime,Mark L. Lester,79,5.8,1,0.6075949367088608
+1082,Showdown in,1991,48.0,R,Thriller,Mark L. Lester,79,5.8,1,0.6075949367088608
+1083,Shutter Island,2010,171.0,R,Drama,Martin Scorsese,138,8.0,1,1.2391304347826086
+1084,Shutter Island,2010,171.0,R,Mystery,Martin Scorsese,138,8.0,1,1.2391304347826086
+1085,Shutter Island,2010,171.0,R,Thriller,Martin Scorsese,138,8.0,1,1.2391304347826086
+1086,Signs,2002,3.0,PG-13,Drama,M. Night Shyamalan,106,6.7,1,0.02830188679245283
+1087,Signs,2002,3.0,PG-13,Sci-Fi,M. Night Shyamalan,106,6.7,1,0.02830188679245283
+1088,Signs,2002,3.0,PG-13,Thriller,M. Night Shyamalan,106,6.7,1,0.02830188679245283
+1089,Silent Trigger,1996,35.0,R,Action,Russell Mulcahy,93,5.4,1,0.3763440860215054
+1090,Silent Trigger,1996,35.0,R,Drama,Russell Mulcahy,93,5.4,1,0.3763440860215054
+1091,Silent Trigger,1996,35.0,R,Thriller,Russell Mulcahy,93,5.4,1,0.3763440860215054
+1092,Sin City,2005,53.0,R,Crime,Frank Miller|Robert Rodriguez|Quentin Tarantino,124,8.2,1,0.4274193548387097
+1093,Sin City,2005,53.0,R,Thriller,Frank Miller|Robert Rodriguez|Quentin Tarantino,124,8.2,1,0.4274193548387097
+1094,Sleepy Hollow,1999,25.0,R,Adventure,Tim Burton,105,7.4,1,0.23809523809523808
+1095,Sleepy Hollow,1999,25.0,R,Mystery,Tim Burton,105,7.4,1,0.23809523809523808
+1096,Slither,2006,102.0,R,Horror,James Gunn,95,6.5,1,1.0736842105263158
+1097,Slither,2006,102.0,R,Sci-Fi,James Gunn,95,6.5,1,1.0736842105263158
+1098,Slumdog Millionaire,2008,8.0,R,Drama,Danny Boyle|Loveleen Tandan,120,8.0,1,0.06666666666666667
+1099,Slumdog Millionaire,2008,8.0,R,Romance,Danny Boyle|Loveleen Tandan,120,8.0,1,0.06666666666666667
+1100,Slumdog Millionaire,2008,8.0,R,Thriller,Danny Boyle|Loveleen Tandan,120,8.0,1,0.06666666666666667
+1101,Smokin' Aces,2007,47.0,R,Action,Joe Carnahan,109,6.6,1,0.43119266055045874
+1102,Smokin' Aces,2007,47.0,R,Crime,Joe Carnahan,109,6.6,1,0.43119266055045874
+1103,Smokin' Aces,2007,47.0,R,Drama,Joe Carnahan,109,6.6,1,0.43119266055045874
+1104,Smokin' Aces,2007,47.0,R,Thriller,Joe Carnahan,109,6.6,1,0.43119266055045874
+1105,Snakes on a Plane,2006,60.0,R,Action,David R. Ellis,105,5.6,1,0.5714285714285714
+1106,Snakes on a Plane,2006,60.0,R,Thriller,David R. Ellis,105,5.6,1,0.5714285714285714
+1107,Snatch,2000,26.0,R,Crime,Guy Ritchie,104,8.3,1,0.25
+1108,Snatch,2000,26.0,R,Thriller,Guy Ritchie,104,8.3,1,0.25
+1109,Soldier,1998,77.0,R,Action,Paul W.S. Anderson,99,5.8,1,0.7777777777777778
+1110,Soldier,1998,77.0,R,Drama,Paul W.S. Anderson,99,5.8,1,0.7777777777777778
+1111,Soldier,1998,77.0,R,Sci-Fi,Paul W.S. Anderson,99,5.8,1,0.7777777777777778
+1112,Spartan,2004,15.0,R,Action,David Mamet,106,6.6,1,0.14150943396226415
+1113,Spartan,2004,15.0,R,Crime,David Mamet,106,6.6,1,0.14150943396226415
+1114,Spartan,2004,15.0,R,Drama,David Mamet,106,6.6,1,0.14150943396226415
+1115,Spartan,2004,15.0,R,Mystery,David Mamet,106,6.6,1,0.14150943396226415
+1116,Spartan,2004,15.0,R,Thriller,David Mamet,106,6.6,1,0.14150943396226415
+1117,Speed,1994,7.0,R,Action,Jan de Bont,116,7.2,1,0.0603448275862069
+1118,Speed,1994,7.0,R,Crime,Jan de Bont,116,7.2,1,0.0603448275862069
+1119,Speed,1994,7.0,R,Thriller,Jan de Bont,116,7.2,1,0.0603448275862069
+1120,Star Trek: First Contact,1996,63.0,PG-13,Action,Jonathan Frakes,111,7.5,1,0.5675675675675675
+1121,Star Trek: First Contact,1996,63.0,PG-13,Adventure,Jonathan Frakes,111,7.5,1,0.5675675675675675
+1122,Star Trek: First Contact,1996,63.0,PG-13,Sci-Fi,Jonathan Frakes,111,7.5,1,0.5675675675675675
+1123,Star Trek: Nemesis,2002,54.0,PG-13,Action,Stuart Baird,116,6.4,1,0.46551724137931033
+1124,Star Trek: Nemesis,2002,54.0,PG-13,Adventure,Stuart Baird,116,6.4,1,0.46551724137931033
+1125,Star Trek: Nemesis,2002,54.0,PG-13,Sci-Fi,Stuart Baird,116,6.4,1,0.46551724137931033
+1126,Star Trek: Nemesis,2002,54.0,PG-13,Thriller,Stuart Baird,116,6.4,1,0.46551724137931033
+1127,Star Wars I: Phantom Menace,1999,34.0,PG,Action,George Lucas,136,6.5,1,0.25
+1128,Star Wars I: Phantom Menace,1999,34.0,PG,Adventure,George Lucas,136,6.5,1,0.25
+1129,Star Wars I: Phantom Menace,1999,34.0,PG,Fantasy,George Lucas,136,6.5,1,0.25
+1130,Star Wars I: Phantom Menace,1999,34.0,PG,Sci-Fi,George Lucas,136,6.5,1,0.25
+1131,Star Wars II: Attack of the Clones,2002,55.0,PG,Action,George Lucas,142,6.7,1,0.3873239436619718
+1132,Star Wars II: Attack of the Clones,2002,55.0,PG,Adventure,George Lucas,142,6.7,1,0.3873239436619718
+1133,Star Wars II: Attack of the Clones,2002,55.0,PG,Fantasy,George Lucas,142,6.7,1,0.3873239436619718
+1134,Star Wars II: Attack of the Clones,2002,55.0,PG,Sci-Fi,George Lucas,142,6.7,1,0.3873239436619718
+1135,Star Wars III: Revenge of the Sith,2005,115.0,PG-13,Action,George Lucas,140,7.7,1,0.8214285714285714
+1136,Star Wars III: Revenge of the Sith,2005,115.0,PG-13,Adventure,George Lucas,140,7.7,1,0.8214285714285714
+1137,Star Wars III: Revenge of the Sith,2005,115.0,PG-13,Fantasy,George Lucas,140,7.7,1,0.8214285714285714
+1138,Star Wars III: Revenge of the Sith,2005,115.0,PG-13,Sci-Fi,George Lucas,140,7.7,1,0.8214285714285714
+1139,Star Wars IV: A New Hope,1977,75.0,PG,Action,George Lucas,121,8.7,1,0.6198347107438017
+1140,Star Wars IV: A New Hope,1977,75.0,PG,Adventure,George Lucas,121,8.7,1,0.6198347107438017
+1141,Star Wars IV: A New Hope,1977,75.0,PG,Fantasy,George Lucas,121,8.7,1,0.6198347107438017
+1142,Star Wars IV: A New Hope,1977,75.0,PG,Sci-Fi,George Lucas,121,8.7,1,0.6198347107438017
+1143,Star Wars V: Empire Strikes Back,1980,30.0,PG,Action,Irvin Kershner,124,8.8,1,0.24193548387096775
+1144,Star Wars V: Empire Strikes Back,1980,30.0,PG,Adventure,Irvin Kershner,124,8.8,1,0.24193548387096775
+1145,Star Wars V: Empire Strikes Back,1980,30.0,PG,Sci-Fi,Irvin Kershner,124,8.8,1,0.24193548387096775
+1146,Star Wars VI: Return of the Jedi,1983,69.0,PG,Action,Richard Marquand,134,8.4,1,0.5149253731343284
+1147,Star Wars VI: Return of the Jedi,1983,69.0,PG,Adventure,Richard Marquand,134,8.4,1,0.5149253731343284
+1148,Star Wars VI: Return of the Jedi,1983,69.0,PG,Fantasy,Richard Marquand,134,8.4,1,0.5149253731343284
+1149,Star Wars VI: Return of the Jedi,1983,69.0,PG,Sci-Fi,Richard Marquand,134,8.4,1,0.5149253731343284
+1150,Stardust,2007,22.0,PG-13,Adventure,Matthew Vaughn,127,7.7,1,0.1732283464566929
+1151,Stardust,2007,22.0,PG-13,Family,Matthew Vaughn,127,7.7,1,0.1732283464566929
+1152,Stardust,2007,22.0,PG-13,Fantasy,Matthew Vaughn,127,7.7,1,0.1732283464566929
+1153,Stardust,2007,22.0,PG-13,Romance,Matthew Vaughn,127,7.7,1,0.1732283464566929
+1154,Stargate,1994,51.0,PG-13,Action,Roland Emmerich,121,6.9,1,0.4214876033057851
+1155,Stargate,1994,51.0,PG-13,Adventure,Roland Emmerich,121,6.9,1,0.4214876033057851
+1156,Stargate,1994,51.0,PG-13,Sci-Fi,Roland Emmerich,121,6.9,1,0.4214876033057851
+1157,Starship Troopers,1997,256.0,R,Action,Paul Verhoeven,129,7.1,1,1.9844961240310077
+1158,Starship Troopers,1997,256.0,R,Sci-Fi,Paul Verhoeven,129,7.1,1,1.9844961240310077
+1159,Starship Troopers 3: Marauder,2008,171.0,R,Action,Edward Neumeier,105,4.4,1,1.6285714285714286
+1160,Starship Troopers 3: Marauder,2008,171.0,R,Adventure,Edward Neumeier,105,4.4,1,1.6285714285714286
+1161,Starship Troopers 3: Marauder,2008,171.0,R,Sci-Fi,Edward Neumeier,105,4.4,1,1.6285714285714286
+1162,Stone Cold,1991,45.0,R,Action,Craig R. Baxley,92,5.6,1,0.4891304347826087
+1163,Stone Cold,1991,45.0,R,Crime,Craig R. Baxley,92,5.6,1,0.4891304347826087
+1164,Stone Cold,1991,45.0,R,Drama,Craig R. Baxley,92,5.6,1,0.4891304347826087
+1165,Strange Days,1995,12.0,R,Crime,Kathryn Bigelow,145,7.1,1,0.08275862068965517
+1166,Strange Days,1995,12.0,R,Drama,Kathryn Bigelow,145,7.1,1,0.08275862068965517
+1167,Strange Days,1995,12.0,R,Mystery,Kathryn Bigelow,145,7.1,1,0.08275862068965517
+1168,Strange Days,1995,12.0,R,Sci-Fi,Kathryn Bigelow,145,7.1,1,0.08275862068965517
+1169,Strange Days,1995,12.0,R,Thriller,Kathryn Bigelow,145,7.1,1,0.08275862068965517
+1170,Strange Wilderness,2008,15.0,R,Comedy,Fred Wolf,87,5.2,1,0.1724137931034483
+1171,Summer of Sam,1999,10.0,R,Crime,Spike Lee,142,6.6,1,0.07042253521126761
+1172,Summer of Sam,1999,10.0,R,Drama,Spike Lee,142,6.6,1,0.07042253521126761
+1173,Summer of Sam,1999,10.0,R,Romance,Spike Lee,142,6.6,1,0.07042253521126761
+1174,Summer of Sam,1999,10.0,R,Thriller,Spike Lee,142,6.6,1,0.07042253521126761
+1175,Sunshine,2007,15.0,R,Adventure,Danny Boyle,107,7.3,1,0.14018691588785046
+1176,Sunshine,2007,15.0,R,Sci-Fi,Danny Boyle,107,7.3,1,0.14018691588785046
+1177,Sunshine,2007,15.0,R,Thriller,Danny Boyle,107,7.3,1,0.14018691588785046
+1178,Super Mario Bros.,1993,8.0,PG,Adventure,Annabel Jankel|Rocky Morton,104,3.9,1,0.07692307692307693
+1179,Super Mario Bros.,1993,8.0,PG,Comedy,Annabel Jankel|Rocky Morton,104,3.9,1,0.07692307692307693
+1180,Super Mario Bros.,1993,8.0,PG,Family,Annabel Jankel|Rocky Morton,104,3.9,1,0.07692307692307693
+1181,Super Mario Bros.,1993,8.0,PG,Fantasy,Annabel Jankel|Rocky Morton,104,3.9,1,0.07692307692307693
+1182,Super Mario Bros.,1993,8.0,PG,Sci-Fi,Annabel Jankel|Rocky Morton,104,3.9,1,0.07692307692307693
+1183,Superman Returns,2006,10.0,PG-13,Action,Bryan Singer,154,6.2,1,0.06493506493506493
+1184,Superman Returns,2006,10.0,PG-13,Adventure,Bryan Singer,154,6.2,1,0.06493506493506493
+1185,Superman Returns,2006,10.0,PG-13,Fantasy,Bryan Singer,154,6.2,1,0.06493506493506493
+1186,Superman Returns,2006,10.0,PG-13,Sci-Fi,Bryan Singer,154,6.2,1,0.06493506493506493
+1187,Sweeney Todd: The Demon Barber of Fleet Street,2007,12.0,R,Drama,Tim Burton,116,7.5,1,0.10344827586206896
+1188,Sweeney Todd: The Demon Barber of Fleet Street,2007,12.0,R,Horror,Tim Burton,116,7.5,1,0.10344827586206896
+1189,Sweeney Todd: The Demon Barber of Fleet Street,2007,12.0,R,Musical,Tim Burton,116,7.5,1,0.10344827586206896
+1190,Sweeney Todd: The Demon Barber of Fleet Street,2007,12.0,R,Thriller,Tim Burton,116,7.5,1,0.10344827586206896
+1191,Sweepers,1998,74.0,R,Action,Keoni Waxman,96,3.4,1,0.7708333333333334
+1192,Sweepers,1998,74.0,R,Adventure,Keoni Waxman,96,3.4,1,0.7708333333333334
+1193,Sweepers,1998,74.0,R,Drama,Keoni Waxman,96,3.4,1,0.7708333333333334
+1194,Swordfish,2001,41.0,R,Action,Dominic Sena,99,6.4,1,0.41414141414141414
+1195,Swordfish,2001,41.0,R,Crime,Dominic Sena,99,6.4,1,0.41414141414141414
+1196,Swordfish,2001,41.0,R,Thriller,Dominic Sena,99,6.4,1,0.41414141414141414
+1197,Syriana,2005,11.0,R,Drama,Stephen Gaghan,128,7.0,1,0.0859375
+1198,Syriana,2005,11.0,R,Thriller,Stephen Gaghan,128,7.0,1,0.0859375
+1199,TMNT,2007,206.0,PG,Animation,Kevin Munroe,87,6.3,1,2.367816091954023
+1200,TMNT,2007,206.0,PG,Action,Kevin Munroe,87,6.3,1,2.367816091954023
+1201,TMNT,2007,206.0,PG,Adventure,Kevin Munroe,87,6.3,1,2.367816091954023
+1202,Tae Guk Gi: The Brotherhood of War,2004,590.0,R,Action,Je-kyu Kang,140,8.1,1,4.214285714285714
+1203,Tae Guk Gi: The Brotherhood of War,2004,590.0,R,Drama,Je-kyu Kang,140,8.1,1,4.214285714285714
+1204,Tae Guk Gi: The Brotherhood of War,2004,590.0,R,War,Je-kyu Kang,140,8.1,1,4.214285714285714
+1205,Take a Hard Ride,1975,65.0,PG,Western,Antonio Margheriti,103,5.8,1,0.6310679611650486
+1206,Taken,2008,35.0,PG-13,Action,Pierre Morel,93,7.9,1,0.3763440860215054
+1207,Taken,2008,35.0,PG-13,Crime,Pierre Morel,93,7.9,1,0.3763440860215054
+1208,Taken,2008,35.0,PG-13,Thriller,Pierre Morel,93,7.9,1,0.3763440860215054
+1209,Tango & Cash,1989,20.0,R,Action,Andrey Konchalovskiy|Albert Magnoli,104,6.2,1,0.19230769230769232
+1210,Tango & Cash,1989,20.0,R,Comedy,Andrey Konchalovskiy|Albert Magnoli,104,6.2,1,0.19230769230769232
+1211,Tango & Cash,1989,20.0,R,Crime,Andrey Konchalovskiy|Albert Magnoli,104,6.2,1,0.19230769230769232
+1212,Tango & Cash,1989,20.0,R,Thriller,Andrey Konchalovskiy|Albert Magnoli,104,6.2,1,0.19230769230769232
+1213,Taxi Driver,1976,4.0,R,Crime,Martin Scorsese,113,8.4,1,0.035398230088495575
+1214,Taxi Driver,1976,4.0,R,Drama,Martin Scorsese,113,8.4,1,0.035398230088495575
+1215,Team America: World Police,2004,79.0,R,Action,Trey Parker,98,7.2,1,0.8061224489795918
+1216,Team America: World Police,2004,79.0,R,Adventure,Trey Parker,98,7.2,1,0.8061224489795918
+1217,Team America: World Police,2004,79.0,R,Comedy,Trey Parker,98,7.2,1,0.8061224489795918
+1218,Team America: World Police,2004,79.0,R,Music,Trey Parker,98,7.2,1,0.8061224489795918
+1219,Tears of the Sun,2003,83.0,R,Action,Antoine Fuqua,121,6.5,1,0.6859504132231405
+1220,Tears of the Sun,2003,83.0,R,Drama,Antoine Fuqua,121,6.5,1,0.6859504132231405
+1221,Tears of the Sun,2003,83.0,R,Thriller,Antoine Fuqua,121,6.5,1,0.6859504132231405
+1222,Terminator,1984,34.0,R,Action,James Cameron,107,8.1,1,0.3177570093457944
+1223,Terminator,1984,34.0,R,Sci-Fi,James Cameron,107,8.1,1,0.3177570093457944
+1224,Terminator 2: Judgment Day,1991,23.0,R,Action,James Cameron,137,8.5,1,0.1678832116788321
+1225,Terminator 2: Judgment Day,1991,23.0,R,Sci-Fi,James Cameron,137,8.5,1,0.1678832116788321
+1226,Terminator 2: Judgment Day,1991,23.0,R,Thriller,James Cameron,137,8.5,1,0.1678832116788321
+1227,Terminator 3: Rise of the Machines,2003,14.0,R,Action,Jonathan Mostow,109,6.4,1,0.12844036697247707
+1228,Terminator 3: Rise of the Machines,2003,14.0,R,Sci-Fi,Jonathan Mostow,109,6.4,1,0.12844036697247707
+1229,Terminator 3: Rise of the Machines,2003,14.0,R,Thriller,Jonathan Mostow,109,6.4,1,0.12844036697247707
+1230,Texas Rangers,2001,84.0,PG-13,Action,Steve Miner,90,5.1,1,0.9333333333333333
+1231,Texas Rangers,2001,84.0,PG-13,Adventure,Steve Miner,90,5.1,1,0.9333333333333333
+1232,Texas Rangers,2001,84.0,PG-13,Drama,Steve Miner,90,5.1,1,0.9333333333333333
+1233,The 13th Warrior,1999,61.0,R,Action,John McTiernan,102,6.5,1,0.5980392156862745
+1234,The 13th Warrior,1999,61.0,R,Adventure,John McTiernan,102,6.5,1,0.5980392156862745
+1235,The 13th Warrior,1999,61.0,R,Fantasy,John McTiernan,102,6.5,1,0.5980392156862745
+1236,The Abominable Dr. Phibes,1971,10.0,GP,Fantasy,Robert Fuest,94,7.1,1,0.10638297872340426
+1237,The Abominable Dr. Phibes,1971,10.0,GP,Horror,Robert Fuest,94,7.1,1,0.10638297872340426
+1238,The Adventures of Ford Fairlane,1990,7.0,R,Action,Renny Harlin,104,6.0,1,0.0673076923076923
+1239,The Adventures of Ford Fairlane,1990,7.0,R,Adventure,Renny Harlin,104,6.0,1,0.0673076923076923
+1240,The Adventures of Ford Fairlane,1990,7.0,R,Comedy,Renny Harlin,104,6.0,1,0.0673076923076923
+1241,The Adventures of Ford Fairlane,1990,7.0,R,Music,Renny Harlin,104,6.0,1,0.0673076923076923
+1242,The Alamo,2004,249.0,PG-13,Drama,John Lee Hancock,137,5.9,1,1.8175182481751824
+1243,The Alamo,2004,249.0,PG-13,History,John Lee Hancock,137,5.9,1,1.8175182481751824
+1244,The Alamo,2004,249.0,PG-13,War,John Lee Hancock,137,5.9,1,1.8175182481751824
+1245,The Bank Job,2008,4.0,R,Crime,Roger Donaldson,111,7.3,1,0.036036036036036036
+1246,The Bank Job,2008,4.0,R,Drama,Roger Donaldson,111,7.3,1,0.036036036036036036
+1247,The Bank Job,2008,4.0,R,Thriller,Roger Donaldson,111,7.3,1,0.036036036036036036
+1248,The Big Hit,1998,38.0,R,Action,Kirk Wong,91,6.0,1,0.4175824175824176
+1249,The Big Hit,1998,38.0,R,Comedy,Kirk Wong,91,6.0,1,0.4175824175824176
+1250,The Big Hit,1998,38.0,R,Crime,Kirk Wong,91,6.0,1,0.4175824175824176
+1251,The Big Hit,1998,38.0,R,Thriller,Kirk Wong,91,6.0,1,0.4175824175824176
+1252,The Big Red One,1980,338.0,R,Action,Samuel Fuller,113,7.3,1,2.9911504424778763
+1253,The Big Red One,1980,338.0,R,Drama,Samuel Fuller,113,7.3,1,2.9911504424778763
+1254,The Big Red One,1980,338.0,R,War,Samuel Fuller,113,7.3,1,2.9911504424778763
+1255,The Black Dahlia,2006,13.0,R,Crime,Brian De Palma,121,5.6,1,0.10743801652892562
+1256,The Black Dahlia,2006,13.0,R,Drama,Brian De Palma,121,5.6,1,0.10743801652892562
+1257,The Black Dahlia,2006,13.0,R,Mystery,Brian De Palma,121,5.6,1,0.10743801652892562
+1258,The Black Dahlia,2006,13.0,R,Thriller,Brian De Palma,121,5.6,1,0.10743801652892562
+1259,The Boondock Saints,1999,33.0,R,Action,Troy Duffy,108,7.8,1,0.3055555555555556
+1260,The Boondock Saints,1999,33.0,R,Crime,Troy Duffy,108,7.8,1,0.3055555555555556
+1261,The Boondock Saints,1999,33.0,R,Thriller,Troy Duffy,108,7.8,1,0.3055555555555556
+1262,The Bourne Identity,2002,8.0,PG-13,Action,Doug Liman,119,7.9,1,0.06722689075630252
+1263,The Bourne Identity,2002,8.0,PG-13,Mystery,Doug Liman,119,7.9,1,0.06722689075630252
+1264,The Bourne Identity,2002,8.0,PG-13,Thriller,Doug Liman,119,7.9,1,0.06722689075630252
+1265,The Bourne Supremacy,2004,9.0,PG-13,Action,Paul Greengrass,108,7.7,1,0.08333333333333333
+1266,The Bourne Supremacy,2004,9.0,PG-13,Crime,Paul Greengrass,108,7.7,1,0.08333333333333333
+1267,The Bourne Supremacy,2004,9.0,PG-13,Thriller,Paul Greengrass,108,7.7,1,0.08333333333333333
+1268,The Bourne Ultimatum,2007,5.0,PG-13,Action,Paul Greengrass,115,8.1,1,0.043478260869565216
+1269,The Bourne Ultimatum,2007,5.0,PG-13,Crime,Paul Greengrass,115,8.1,1,0.043478260869565216
+1270,The Bourne Ultimatum,2007,5.0,PG-13,Thriller,Paul Greengrass,115,8.1,1,0.043478260869565216
+1271,The Chronicles of Narnia: Prince Caspian,2008,170.0,PG,Action,Andrew Adamson,150,6.6,1,1.1333333333333333
+1272,The Chronicles of Narnia: Prince Caspian,2008,170.0,PG,Adventure,Andrew Adamson,150,6.6,1,1.1333333333333333
+1273,The Chronicles of Narnia: Prince Caspian,2008,170.0,PG,Family,Andrew Adamson,150,6.6,1,1.1333333333333333
+1274,The Chronicles of Riddick,2004,187.0,Unrated,Action,David Twohy,119,6.6,1,1.5714285714285714
+1275,The Chronicles of Riddick,2004,187.0,Unrated,Adventure,David Twohy,119,6.6,1,1.5714285714285714
+1276,The Chronicles of Riddick,2004,187.0,Unrated,Sci-Fi,David Twohy,119,6.6,1,1.5714285714285714
+1277,The Chronicles of Riddick,2004,187.0,Unrated,Thriller,David Twohy,119,6.6,1,1.5714285714285714
+1278,The Constant Gardener,2005,18.0,R,Drama,Fernando Meirelles,129,7.5,1,0.13953488372093023
+1279,The Constant Gardener,2005,18.0,R,Mystery,Fernando Meirelles,129,7.5,1,0.13953488372093023
+1280,The Constant Gardener,2005,18.0,R,Thriller,Fernando Meirelles,129,7.5,1,0.13953488372093023
+1281,The Corruptor,1999,37.0,R,Action,James Foley,110,5.9,1,0.33636363636363636
+1282,The Corruptor,1999,37.0,R,Crime,James Foley,110,5.9,1,0.33636363636363636
+1283,The Corruptor,1999,37.0,R,Drama,James Foley,110,5.9,1,0.33636363636363636
+1284,The Corruptor,1999,37.0,R,Mystery,James Foley,110,5.9,1,0.33636363636363636
+1285,The Corruptor,1999,37.0,R,Thriller,James Foley,110,5.9,1,0.33636363636363636
+1286,The Count of Monte Cristo,2002,5.0,PG-13,Action,Kevin Reynolds,131,7.7,1,0.03816793893129771
+1287,The Count of Monte Cristo,2002,5.0,PG-13,Adventure,Kevin Reynolds,131,7.7,1,0.03816793893129771
+1288,The Count of Monte Cristo,2002,5.0,PG-13,Drama,Kevin Reynolds,131,7.7,1,0.03816793893129771
+1289,The Count of Monte Cristo,2002,5.0,PG-13,History,Kevin Reynolds,131,7.7,1,0.03816793893129771
+1290,The Count of Monte Cristo,2002,5.0,PG-13,Romance,Kevin Reynolds,131,7.7,1,0.03816793893129771
+1291,The Count of Monte Cristo,2002,5.0,PG-13,Thriller,Kevin Reynolds,131,7.7,1,0.03816793893129771
+1292,The Crow,1994,35.0,R,Action,Alex Proyas,102,7.6,1,0.3431372549019608
+1293,The Crow,1994,35.0,R,Fantasy,Alex Proyas,102,7.6,1,0.3431372549019608
+1294,The Crucible,1996,12.0,PG-13,Drama,Nicholas Hytner,124,6.8,1,0.0967741935483871
+1295,The Crucible,1996,12.0,PG-13,History,Nicholas Hytner,124,6.8,1,0.0967741935483871
+1296,The Dark Knight,2008,36.0,PG-13,Action,Christopher Nolan,152,9.0,1,0.23684210526315788
+1297,The Dark Knight,2008,36.0,PG-13,Crime,Christopher Nolan,152,9.0,1,0.23684210526315788
+1298,The Dark Knight,2008,36.0,PG-13,Drama,Christopher Nolan,152,9.0,1,0.23684210526315788
+1299,The Dark Knight,2008,36.0,PG-13,Thriller,Christopher Nolan,152,9.0,1,0.23684210526315788
+1300,The Day After Tomorrow,2004,130.0,PG-13,Action,Roland Emmerich,124,6.3,1,1.0483870967741935
+1301,The Day After Tomorrow,2004,130.0,PG-13,Adventure,Roland Emmerich,124,6.3,1,1.0483870967741935
+1302,The Day After Tomorrow,2004,130.0,PG-13,Sci-Fi,Roland Emmerich,124,6.3,1,1.0483870967741935
+1303,The Departed,2006,21.0,R,Crime,Martin Scorsese,151,8.5,1,0.1390728476821192
+1304,The Departed,2006,21.0,R,Drama,Martin Scorsese,151,8.5,1,0.1390728476821192
+1305,The Departed,2006,21.0,R,Thriller,Martin Scorsese,151,8.5,1,0.1390728476821192
+1306,The Devil's Rejects,2005,30.0,Unrated,Horror,Rob Zombie,107,6.8,1,0.2803738317757009
+1307,The Evil Dead III:,1993,107.0,R,Comedy,Sam Raimi,81,7.6,1,1.3209876543209877
+1308,The Evil Dead III:,1993,107.0,R,Fantasy,Sam Raimi,81,7.6,1,1.3209876543209877
+1309,The Evil Dead III:,1993,107.0,R,Horror,Sam Raimi,81,7.6,1,1.3209876543209877
+1310,The Evil Dead III: Army of Darkness,1993,107.0,R,Comedy,Sam Raimi,81,7.6,1,1.3209876543209877
+1311,The Evil Dead III: Army of Darkness,1993,107.0,R,Fantasy,Sam Raimi,81,7.6,1,1.3209876543209877
+1312,The Evil Dead III: Army of Darkness,1993,107.0,R,Horror,Sam Raimi,81,7.6,1,1.3209876543209877
+1313,The Expendables,2010,203.0,R,Action,Sylvester Stallone,103,6.5,1,1.970873786407767
+1314,The Expendables,2010,203.0,R,Adventure,Sylvester Stallone,103,6.5,1,1.970873786407767
+1315,The Expendables,2010,203.0,R,Thriller,Sylvester Stallone,103,6.5,1,1.970873786407767
+1316,The Fifth Element,1997,80.0,PG-13,Action,Luc Besson,126,7.6,1,0.6349206349206349
+1317,The Fifth Element,1997,80.0,PG-13,Adventure,Luc Besson,126,7.6,1,0.6349206349206349
+1318,The Fifth Element,1997,80.0,PG-13,Sci-Fi,Luc Besson,126,7.6,1,0.6349206349206349
+1319,The Fly 2,1989,8.0,R,Horror,Chris Walas,105,4.8,1,0.0761904761904762
+1320,The Fly 2,1989,8.0,R,Sci-Fi,Chris Walas,105,4.8,1,0.0761904761904762
+1321,The Fog,1980,6.0,R,Horror,John Carpenter,89,6.8,1,0.06741573033707865
+1322,The French Connection,1971,12.0,R,Action,William Friedkin,104,7.8,1,0.11538461538461539
+1323,The French Connection,1971,12.0,R,Crime,William Friedkin,104,7.8,1,0.11538461538461539
+1324,The French Connection,1971,12.0,R,Thriller,William Friedkin,104,7.8,1,0.11538461538461539
+1325,The Fugitive,1993,5.0,PG-13,Action,Andrew Davis,130,7.8,1,0.038461538461538464
+1326,The Fugitive,1993,5.0,PG-13,Adventure,Andrew Davis,130,7.8,1,0.038461538461538464
+1327,The Fugitive,1993,5.0,PG-13,Crime,Andrew Davis,130,7.8,1,0.038461538461538464
+1328,The Fugitive,1993,5.0,PG-13,Mystery,Andrew Davis,130,7.8,1,0.038461538461538464
+1329,The Fugitive,1993,5.0,PG-13,Thriller,Andrew Davis,130,7.8,1,0.038461538461538464
+1330,The Good Shepherd,2006,5.0,R,Drama,Robert De Niro,167,6.7,1,0.029940119760479042
+1331,The Good Shepherd,2006,5.0,R,History,Robert De Niro,167,6.7,1,0.029940119760479042
+1332,The Good Shepherd,2006,5.0,R,Thriller,Robert De Niro,167,6.7,1,0.029940119760479042
+1333,"The Good, the Bad and the Ugly",1966,126.0,Approved,Crime,Sergio Leone,161,9.0,1,0.782608695652174
+1334,"The Good, the Bad and the Ugly",1966,126.0,Approved,Drama,Sergio Leone,161,9.0,1,0.782608695652174
+1335,"The Good, the Bad and the Ugly",1966,126.0,Approved,Mystery,Sergio Leone,161,9.0,1,0.782608695652174
+1336,The Great Raid,2005,103.0,R,Action,John Dahl,132,6.7,1,0.7803030303030303
+1337,The Great Raid,2005,103.0,R,Drama,John Dahl,132,6.7,1,0.7803030303030303
+1338,The Great Raid,2005,103.0,R,War,John Dahl,132,6.7,1,0.7803030303030303
+1339,The Great Silence,1968,42.0,Unrated,Western,Sergio Corbucci,105,7.8,1,0.4
+1340,The Guardian,2006,11.0,PG-13,Action,Andrew Davis,139,6.7,1,0.07913669064748201
+1341,The Guardian,2006,11.0,PG-13,Adventure,Andrew Davis,139,6.7,1,0.07913669064748201
+1342,The Guardian,2006,11.0,PG-13,Drama,Andrew Davis,139,6.7,1,0.07913669064748201
+1343,The Hunt for Red October,1990,7.0,PG,Action,John McTiernan,134,7.6,1,0.05223880597014925
+1344,The Hunt for Red October,1990,7.0,PG,Adventure,John McTiernan,134,7.6,1,0.05223880597014925
+1345,The Hunt for Red October,1990,7.0,PG,Thriller,John McTiernan,134,7.6,1,0.05223880597014925
+1346,The Hunted,1995,83.0,R,Action,J.F. Lawton,111,5.8,1,0.7477477477477478
+1347,The Hunted,1995,83.0,R,Drama,J.F. Lawton,111,5.8,1,0.7477477477477478
+1348,The Hunted,1995,83.0,R,Thriller,J.F. Lawton,111,5.8,1,0.7477477477477478
+1349,The Hunted,2003,74.0,R,Action,William Friedkin,94,5.9,1,0.7872340425531915
+1350,The Hunted,2003,74.0,R,Crime,William Friedkin,94,5.9,1,0.7872340425531915
+1351,The Hunted,2003,74.0,R,Drama,William Friedkin,94,5.9,1,0.7872340425531915
+1352,The Incredible Hulk,2008,41.0,PG-13,Action,Louis Leterrier,112,6.9,1,0.36607142857142855
+1353,The Incredible Hulk,2008,41.0,PG-13,Sci-Fi,Louis Leterrier,112,6.9,1,0.36607142857142855
+1354,The Incredible Hulk,2008,41.0,PG-13,Thriller,Louis Leterrier,112,6.9,1,0.36607142857142855
+1355,The Incredibles,2004,16.0,PG,Animation,Brad Bird,115,8.0,1,0.1391304347826087
+1356,The Incredibles,2004,16.0,PG,Action,Brad Bird,115,8.0,1,0.1391304347826087
+1357,The Incredibles,2004,16.0,PG,Adventure,Brad Bird,115,8.0,1,0.1391304347826087
+1358,The Incredibles,2004,16.0,PG,Family,Brad Bird,115,8.0,1,0.1391304347826087
+1359,The International,2009,18.0,R,Action,Tom Tykwer,118,6.5,1,0.15254237288135594
+1360,The International,2009,18.0,R,Crime,Tom Tykwer,118,6.5,1,0.15254237288135594
+1361,The International,2009,18.0,R,Drama,Tom Tykwer,118,6.5,1,0.15254237288135594
+1362,The International,2009,18.0,R,Mystery,Tom Tykwer,118,6.5,1,0.15254237288135594
+1363,The International,2009,18.0,R,Thriller,Tom Tykwer,118,6.5,1,0.15254237288135594
+1364,The Island,2005,12.0,PG-13,Action,Michael Bay,136,6.8,1,0.08823529411764706
+1365,The Island,2005,12.0,PG-13,Adventure,Michael Bay,136,6.8,1,0.08823529411764706
+1366,The Island,2005,12.0,PG-13,Sci-Fi,Michael Bay,136,6.8,1,0.08823529411764706
+1367,The Island,2005,12.0,PG-13,Thriller,Michael Bay,136,6.8,1,0.08823529411764706
+1368,The Jackal,1997,11.0,R,Action,Michael Caton-Jones,124,6.2,1,0.08870967741935484
+1369,The Jackal,1997,11.0,R,Adventure,Michael Caton-Jones,124,6.2,1,0.08870967741935484
+1370,The Jackal,1997,11.0,R,Crime,Michael Caton-Jones,124,6.2,1,0.08870967741935484
+1371,The Jackal,1997,11.0,R,Thriller,Michael Caton-Jones,124,6.2,1,0.08870967741935484
+1372,The Killer,1989,149.0,R,Action,John Woo,111,7.9,1,1.3423423423423424
+1373,The Killer,1989,149.0,R,Crime,John Woo,111,7.9,1,1.3423423423423424
+1374,The Killer,1989,149.0,R,Thriller,John Woo,111,7.9,1,1.3423423423423424
+1375,The Ladykillers,2004,5.0,R,Comedy,Ethan Coen|Joel Coen,104,6.1,1,0.04807692307692308
+1376,The Ladykillers,2004,5.0,R,Crime,Ethan Coen|Joel Coen,104,6.1,1,0.04807692307692308
+1377,The Ladykillers,2004,5.0,R,Thriller,Ethan Coen|Joel Coen,104,6.1,1,0.04807692307692308
+1378,The Last Boy Scout,1991,26.0,R,Action,Tony Scott,105,6.9,1,0.24761904761904763
+1379,The Last Boy Scout,1991,26.0,R,Comedy,Tony Scott,105,6.9,1,0.24761904761904763
+1380,The Last Boy Scout,1991,26.0,R,Crime,Tony Scott,105,6.9,1,0.24761904761904763
+1381,The Last Boy Scout,1991,26.0,R,Mystery,Tony Scott,105,6.9,1,0.24761904761904763
+1382,The Last Boy Scout,1991,26.0,R,Thriller,Tony Scott,105,6.9,1,0.24761904761904763
+1383,The Last House on the Left,2009,6.0,R,Crime,Dennis Iliadis,110,6.6,1,0.05454545454545454
+1384,The Last House on the Left,2009,6.0,R,Drama,Dennis Iliadis,110,6.6,1,0.05454545454545454
+1385,The Last House on the Left,2009,6.0,R,Thriller,Dennis Iliadis,110,6.6,1,0.05454545454545454
+1386,The Last Samurai,2003,558.0,R,Action,Edward Zwick,154,7.7,1,3.6233766233766236
+1387,The Last Samurai,2003,558.0,R,Drama,Edward Zwick,154,7.7,1,3.6233766233766236
+1388,The Last Samurai,2003,558.0,R,History,Edward Zwick,154,7.7,1,3.6233766233766236
+1389,The Last Samurai,2003,558.0,R,War,Edward Zwick,154,7.7,1,3.6233766233766236
+1390,The Last of the Mohicans,1992,172.0,PG-13,Action,Michael Mann,112,7.8,1,1.5357142857142858
+1391,The Last of the Mohicans,1992,172.0,PG-13,Adventure,Michael Mann,112,7.8,1,1.5357142857142858
+1392,The Last of the Mohicans,1992,172.0,PG-13,Drama,Michael Mann,112,7.8,1,1.5357142857142858
+1393,The Last of the Mohicans,1992,172.0,PG-13,History,Michael Mann,112,7.8,1,1.5357142857142858
+1394,The Last of the Mohicans,1992,172.0,PG-13,Romance,Michael Mann,112,7.8,1,1.5357142857142858
+1395,The Last of the Mohicans,1992,172.0,PG-13,War,Michael Mann,112,7.8,1,1.5357142857142858
+1396,The Legend,1993,98.0,R,Action,Corey Yuen,100,7.2,1,0.98
+1397,The Legend,1993,98.0,R,Comedy,Corey Yuen,100,7.2,1,0.98
+1398,The Legend,1993,98.0,R,History,Corey Yuen,100,7.2,1,0.98
+1399,The Legend II,1993,97.0,R,Action,Corey Yuen,95,7.0,1,1.0210526315789474
+1400,The Legend II,1993,97.0,R,Adventure,Corey Yuen,95,7.0,1,1.0210526315789474
+1401,The Legend II,1993,97.0,R,Comedy,Corey Yuen,95,7.0,1,1.0210526315789474
+1402,The Legend of Zorro,2005,13.0,PG-13,Action,Martin Campbell,129,5.8,1,0.10077519379844961
+1403,The Legend of Zorro,2005,13.0,PG-13,Adventure,Martin Campbell,129,5.8,1,0.10077519379844961
+1404,The Legend of Zorro,2005,13.0,PG-13,Western,Martin Campbell,129,5.8,1,0.10077519379844961
+1405,The Long Kiss Goodnight,1996,68.0,R,Action,Renny Harlin,121,6.7,1,0.5619834710743802
+1406,The Long Kiss Goodnight,1996,68.0,R,Crime,Renny Harlin,121,6.7,1,0.5619834710743802
+1407,The Long Kiss Goodnight,1996,68.0,R,Drama,Renny Harlin,121,6.7,1,0.5619834710743802
+1408,The Long Kiss Goodnight,1996,68.0,R,Mystery,Renny Harlin,121,6.7,1,0.5619834710743802
+1409,The Long Kiss Goodnight,1996,68.0,R,Thriller,Renny Harlin,121,6.7,1,0.5619834710743802
+1410,The Lookout,2007,7.0,R,Crime,Scott Frank,99,7.1,1,0.0707070707070707
+1411,The Lookout,2007,7.0,R,Drama,Scott Frank,99,7.1,1,0.0707070707070707
+1412,The Lookout,2007,7.0,R,Thriller,Scott Frank,99,7.1,1,0.0707070707070707
+1413,The Lost City,2005,41.0,R,Drama,Andy Garcia,144,6.6,1,0.2847222222222222
+1414,The Machine Girl,2008,25.0,Unrated,Comedy,Noboru Iguchi,96,5.9,1,0.2604166666666667
+1415,The Machine Girl,2008,25.0,Unrated,Horror,Noboru Iguchi,96,5.9,1,0.2604166666666667
+1416,The Machine Girl,2008,25.0,Unrated,Thriller,Noboru Iguchi,96,5.9,1,0.2604166666666667
+1417,The Magnificent Seven,1960,55.0,Approved,Western,John Sturges,128,7.8,1,0.4296875
+1418,The Man with the Golden Gun,1974,6.0,PG,Action,Guy Hamilton,125,6.7,1,0.048
+1419,The Man with the Golden Gun,1974,6.0,PG,Adventure,Guy Hamilton,125,6.7,1,0.048
+1420,The Man with the Golden Gun,1974,6.0,PG,Crime,Guy Hamilton,125,6.7,1,0.048
+1421,The Man with the Golden Gun,1974,6.0,PG,Thriller,Guy Hamilton,125,6.7,1,0.048
+1422,The Mask of Zorro,1998,26.0,PG-13,Action,Martin Campbell,136,6.7,1,0.19117647058823528
+1423,The Mask of Zorro,1998,26.0,PG-13,Adventure,Martin Campbell,136,6.7,1,0.19117647058823528
+1424,The Mask of Zorro,1998,26.0,PG-13,Comedy,Martin Campbell,136,6.7,1,0.19117647058823528
+1425,The Mask of Zorro,1998,26.0,PG-13,Romance,Martin Campbell,136,6.7,1,0.19117647058823528
+1426,The Mask of Zorro,1998,26.0,PG-13,Thriller,Martin Campbell,136,6.7,1,0.19117647058823528
+1427,The Mask of Zorro,1998,26.0,PG-13,Western,Martin Campbell,136,6.7,1,0.19117647058823528
+1428,The Matrix,1999,39.0,R,Action,Andy Wachowski|Lana Wachowski,136,8.7,1,0.2867647058823529
+1429,The Matrix,1999,39.0,R,Adventure,Andy Wachowski|Lana Wachowski,136,8.7,1,0.2867647058823529
+1430,The Matrix,1999,39.0,R,Sci-Fi,Andy Wachowski|Lana Wachowski,136,8.7,1,0.2867647058823529
+1431,The Messenger: The Story of Joan of Arc,1999,223.0,R,Adventure,Luc Besson,148,6.3,1,1.5067567567567568
+1432,The Messenger: The Story of Joan of Arc,1999,223.0,R,Biography,Luc Besson,148,6.3,1,1.5067567567567568
+1433,The Messenger: The Story of Joan of Arc,1999,223.0,R,Drama,Luc Besson,148,6.3,1,1.5067567567567568
+1434,The Mist,2007,46.0,R,Horror,Frank Darabont,126,7.2,1,0.36507936507936506
+1435,The Mist,2007,46.0,R,Sci-Fi,Frank Darabont,126,7.2,1,0.36507936507936506
+1436,The Mist,2007,46.0,R,Thriller,Frank Darabont,126,7.2,1,0.36507936507936506
+1437,The Mummy,1999,155.0,PG-13,Action,Stephen Sommers,125,6.9,1,1.24
+1438,The Mummy,1999,155.0,PG-13,Adventure,Stephen Sommers,125,6.9,1,1.24
+1439,The Mummy,1999,155.0,PG-13,Fantasy,Stephen Sommers,125,6.9,1,1.24
+1440,The Mummy Returns,2001,137.0,PG-13,Action,Stephen Sommers,130,6.3,1,1.0538461538461539
+1441,The Mummy Returns,2001,137.0,PG-13,Adventure,Stephen Sommers,130,6.3,1,1.0538461538461539
+1442,The Mummy Returns,2001,137.0,PG-13,Fantasy,Stephen Sommers,130,6.3,1,1.0538461538461539
+1443,The Musketeer,2001,56.0,PG-13,Action,Peter Hyams,104,4.6,1,0.5384615384615384
+1444,The Musketeer,2001,56.0,PG-13,Drama,Peter Hyams,104,4.6,1,0.5384615384615384
+1445,The Musketeer,2001,56.0,PG-13,Adventure,Peter Hyams,104,4.6,1,0.5384615384615384
+1446,The Musketeer,2001,56.0,PG-13,Romance,Peter Hyams,104,4.6,1,0.5384615384615384
+1447,The New World,2005,28.0,PG-13,Biography,Terrence Malick,135,6.7,1,0.2074074074074074
+1448,The New World,2005,28.0,PG-13,Drama,Terrence Malick,135,6.7,1,0.2074074074074074
+1449,The New World,2005,28.0,PG-13,History,Terrence Malick,135,6.7,1,0.2074074074074074
+1450,The New World,2005,28.0,PG-13,Romance,Terrence Malick,135,6.7,1,0.2074074074074074
+1451,The Number 23,2007,10.0,R,Drama,Joel Schumacher,101,6.3,1,0.09900990099009901
+1452,The Number 23,2007,10.0,R,Mystery,Joel Schumacher,101,6.3,1,0.09900990099009901
+1453,The Number 23,2007,10.0,R,Thriller,Joel Schumacher,101,6.3,1,0.09900990099009901
+1454,The Omen,2006,8.0,R,Horror,John Moore,110,5.5,1,0.07272727272727272
+1455,The Omen,2006,8.0,R,Mystery,John Moore,110,5.5,1,0.07272727272727272
+1456,The Omen,2006,8.0,R,Thriller,John Moore,110,5.5,1,0.07272727272727272
+1457,The Outlaw Josey Wales,1976,120.0,PG,Western,Clint Eastwood,135,7.9,1,0.8888888888888888
+1458,The Patriot,1998,42.0,R,Action,Dean Semler,90,3.9,1,0.4666666666666667
+1459,The Patriot,1998,42.0,R,Thriller,Dean Semler,90,3.9,1,0.4666666666666667
+1460,The Patriot,2000,123.0,R,Action,Roland Emmerich,165,7.0,1,0.7454545454545455
+1461,The Patriot,2000,123.0,R,Drama,Roland Emmerich,165,7.0,1,0.7454545454545455
+1462,The Patriot,2000,123.0,R,War,Roland Emmerich,165,7.0,1,0.7454545454545455
+1463,The Phantom of the Opera,2004,3.0,PG-13,Drama,Joel Schumacher,143,7.3,1,0.02097902097902098
+1464,The Phantom of the Opera,2004,3.0,PG-13,Musical,Joel Schumacher,143,7.3,1,0.02097902097902098
+1465,The Phantom of the Opera,2004,3.0,PG-13,Romance,Joel Schumacher,143,7.3,1,0.02097902097902098
+1466,The Pianist,2002,70.0,R,Biography,Roman Polanski,150,8.5,1,0.4666666666666667
+1467,The Pianist,2002,70.0,R,Drama,Roman Polanski,150,8.5,1,0.4666666666666667
+1468,The Pianist,2002,70.0,R,History,Roman Polanski,150,8.5,1,0.4666666666666667
+1469,The Prestige,2006,7.0,PG-13,Drama,Christopher Nolan,130,8.5,1,0.05384615384615385
+1470,The Prestige,2006,7.0,PG-13,Mystery,Christopher Nolan,130,8.5,1,0.05384615384615385
+1471,The Prestige,2006,7.0,PG-13,Thriller,Christopher Nolan,130,8.5,1,0.05384615384615385
+1472,The Punisher,1989,96.0,R,Action,Mark Goldblatt,89,5.5,1,1.0786516853932584
+1473,The Punisher,1989,96.0,R,Crime,Mark Goldblatt,89,5.5,1,1.0786516853932584
+1474,The Punisher,1989,96.0,R,Drama,Mark Goldblatt,89,5.5,1,1.0786516853932584
+1475,The Punisher,2004,66.0,R,Action,Jonathan Hensleigh,124,6.4,1,0.532258064516129
+1476,The Punisher,2004,66.0,R,Crime,Jonathan Hensleigh,124,6.4,1,0.532258064516129
+1477,The Punisher,2004,66.0,R,Drama,Jonathan Hensleigh,124,6.4,1,0.532258064516129
+1478,The Replacement Killers,1998,38.0,R,Action,Antoine Fuqua,87,6.0,1,0.4367816091954023
+1479,The Replacement Killers,1998,38.0,R,Crime,Antoine Fuqua,87,6.0,1,0.4367816091954023
+1480,The Replacement Killers,1998,38.0,R,Drama,Antoine Fuqua,87,6.0,1,0.4367816091954023
+1481,The Replacement Killers,1998,38.0,R,Thriller,Antoine Fuqua,87,6.0,1,0.4367816091954023
+1482,The Rock,1996,24.0,R,Action,Michael Bay,136,7.4,1,0.17647058823529413
+1483,The Rock,1996,24.0,R,Adventure,Michael Bay,136,7.4,1,0.17647058823529413
+1484,The Rock,1996,24.0,R,Thriller,Michael Bay,136,7.4,1,0.17647058823529413
+1485,The Rundown,2003,46.0,PG-13,Action,Peter Berg,104,6.6,1,0.4423076923076923
+1486,The Rundown,2003,46.0,PG-13,Adventure,Peter Berg,104,6.6,1,0.4423076923076923
+1487,The Rundown,2003,46.0,PG-13,Comedy,Peter Berg,104,6.6,1,0.4423076923076923
+1488,The Rundown,2003,46.0,PG-13,Thriller,Peter Berg,104,6.6,1,0.4423076923076923
+1489,The Running Man,1987,41.0,R,Action,Paul Michael Glaser,101,6.6,1,0.40594059405940597
+1490,The Running Man,1987,41.0,R,Sci-Fi,Paul Michael Glaser,101,6.6,1,0.40594059405940597
+1491,The Running Man,1987,41.0,R,Thriller,Paul Michael Glaser,101,6.6,1,0.40594059405940597
+1492,The Scorpion King,2002,105.0,PG-13,Action,Chuck Russell,92,5.4,1,1.141304347826087
+1493,The Scorpion King,2002,105.0,PG-13,Adventure,Chuck Russell,92,5.4,1,1.141304347826087
+1494,The Scorpion King,2002,105.0,PG-13,Fantasy,Chuck Russell,92,5.4,1,1.141304347826087
+1495,The Scorpion King,2002,105.0,PG-13,Thriller,Chuck Russell,92,5.4,1,1.141304347826087
+1496,The Shawshank Redemption,1994,4.0,R,Crime,Frank Darabont,142,9.3,1,0.028169014084507043
+1497,The Shawshank Redemption,1994,4.0,R,Drama,Frank Darabont,142,9.3,1,0.028169014084507043
+1498,The Signal,2007,78.0,R,Horror,David Bruckner|Jacob Gentry|Dan Bush,103,6.1,1,0.7572815533980582
+1499,The Signal,2007,78.0,R,Sci-Fi,David Bruckner|Jacob Gentry|Dan Bush,103,6.1,1,0.7572815533980582
+1500,The Signal,2007,78.0,R,Thriller,David Bruckner|Jacob Gentry|Dan Bush,103,6.1,1,0.7572815533980582
+1501,The Silence of the Lambs,1991,8.0,R,Crime,Jonathan Demme,118,8.6,1,0.06779661016949153
+1502,The Silence of the Lambs,1991,8.0,R,Drama,Jonathan Demme,118,8.6,1,0.06779661016949153
+1503,The Silence of the Lambs,1991,8.0,R,Thriller,Jonathan Demme,118,8.6,1,0.06779661016949153
+1504,The Spy Who Loved Me,1977,73.0,PG,Action,Lewis Gilbert,125,7.0,1,0.584
+1505,The Spy Who Loved Me,1977,73.0,PG,Adventure,Lewis Gilbert,125,7.0,1,0.584
+1506,The Spy Who Loved Me,1977,73.0,PG,Crime,Lewis Gilbert,125,7.0,1,0.584
+1507,The Spy Who Loved Me,1977,73.0,PG,Thriller,Lewis Gilbert,125,7.0,1,0.584
+1508,The Sword of Doom,1966,119.0,Unrated,Action,Kihachi Okamoto,119,8.0,1,1.0
+1509,The Sword of Doom,1966,119.0,Unrated,Drama,Kihachi Okamoto,119,8.0,1,1.0
+1510,The Thin Red Line,1998,167.0,R,Drama,Terrence Malick,170,7.6,1,0.9823529411764705
+1511,The Thin Red Line,1998,167.0,R,War,Terrence Malick,170,7.6,1,0.9823529411764705
+1512,The Thing,1982,21.0,R,Horror,John Carpenter,109,8.2,1,0.1926605504587156
+1513,The Thing,1982,21.0,R,Mystery,John Carpenter,109,8.2,1,0.1926605504587156
+1514,The Thing,1982,21.0,R,Sci-Fi,John Carpenter,109,8.2,1,0.1926605504587156
+1515,The Thing,1982,21.0,R,Thriller,John Carpenter,109,8.2,1,0.1926605504587156
+1516,The Third Man,1949,4.0,Approved,Film-Noir,Carol Reed,104,8.4,1,0.038461538461538464
+1517,The Third Man,1949,4.0,Approved,Mystery,Carol Reed,104,8.4,1,0.038461538461538464
+1518,The Third Man,1949,4.0,Approved,Thriller,Carol Reed,104,8.4,1,0.038461538461538464
+1519,The Transporter,2002,8.0,PG-13,Action,Corey Yuen,92,6.8,1,0.08695652173913043
+1520,The Transporter,2002,8.0,PG-13,Crime,Corey Yuen,92,6.8,1,0.08695652173913043
+1521,The Transporter,2002,8.0,PG-13,Thriller,Corey Yuen,92,6.8,1,0.08695652173913043
+1522,The Tripper,2006,56.0,R,Horror,David Arquette,93,5.1,1,0.6021505376344086
+1523,The Usual Suspects,1995,39.0,R,Crime,Bryan Singer,106,8.7,1,0.36792452830188677
+1524,The Usual Suspects,1995,39.0,R,Mystery,Bryan Singer,106,8.7,1,0.36792452830188677
+1525,The Usual Suspects,1995,39.0,R,Thriller,Bryan Singer,106,8.7,1,0.36792452830188677
+1526,The Way of the Gun,2000,18.0,R,Action,Christopher McQuarrie,119,6.7,1,0.15126050420168066
+1527,The Way of the Gun,2000,18.0,R,Crime,Christopher McQuarrie,119,6.7,1,0.15126050420168066
+1528,The Way of the Gun,2000,18.0,R,Drama,Christopher McQuarrie,119,6.7,1,0.15126050420168066
+1529,The Way of the Gun,2000,18.0,R,Thriller,Christopher McQuarrie,119,6.7,1,0.15126050420168066
+1530,The Wild Bunch,1969,145.0,R,Western,Sam Peckinpah,145,8.0,1,1.0
+1531,The Yakuza,1974,31.0,R,Action,Sydney Pollack,123,7.3,1,0.25203252032520324
+1532,The Yakuza,1974,31.0,R,Crime,Sydney Pollack,123,7.3,1,0.25203252032520324
+1533,The Yakuza,1974,31.0,R,Drama,Sydney Pollack,123,7.3,1,0.25203252032520324
+1534,The Yakuza,1974,31.0,R,Thriller,Sydney Pollack,123,7.3,1,0.25203252032520324
+1535,The Yards,2000,2.0,R,Crime,James Gray,115,6.4,1,0.017391304347826087
+1536,The Yards,2000,2.0,R,Drama,James Gray,115,6.4,1,0.017391304347826087
+1537,The Yards,2000,2.0,R,Romance,James Gray,115,6.4,1,0.017391304347826087
+1538,The Yards,2000,2.0,R,Thriller,James Gray,115,6.4,1,0.017391304347826087
+1539,There Will Be Blood,2007,4.0,R,Drama,Paul Thomas Anderson,158,8.1,1,0.02531645569620253
+1540,Things to Do in Denver When You're Dead,1995,15.0,R,Crime,Gary Fleder,115,6.8,1,0.13043478260869565
+1541,Things to Do in Denver When You're Dead,1995,15.0,R,Drama,Gary Fleder,115,6.8,1,0.13043478260869565
+1542,Three the Hard Way,1974,128.0,R,Action,Gordon Parks Jr.,89,6.4,1,1.4382022471910112
+1543,Three the Hard Way,1974,128.0,R,Thriller,Gordon Parks Jr.,89,6.4,1,1.4382022471910112
+1544,Thunderball,1965,47.0,Approved,Action,Terence Young,130,7.0,1,0.36153846153846153
+1545,Thunderball,1965,47.0,Approved,Adventure,Terence Young,130,7.0,1,0.36153846153846153
+1546,Thunderball,1965,47.0,Approved,Crime,Terence Young,130,7.0,1,0.36153846153846153
+1547,Thunderball,1965,47.0,Approved,Thriller,Terence Young,130,7.0,1,0.36153846153846153
+1548,Timeline,2003,65.0,PG-13,Action,Richard Donner,116,5.5,1,0.5603448275862069
+1549,Timeline,2003,65.0,PG-13,Adventure,Richard Donner,116,5.5,1,0.5603448275862069
+1550,Timeline,2003,65.0,PG-13,Sci-Fi,Richard Donner,116,5.5,1,0.5603448275862069
+1551,Titanic,1997,307.0,PG-13,Drama,James Cameron,194,7.6,1,1.5824742268041236
+1552,Titanic,1997,307.0,PG-13,Romance,James Cameron,194,7.6,1,1.5824742268041236
+1553,To Die For,1995,2.0,R,Comedy,Gus Van Sant,106,6.7,1,0.018867924528301886
+1554,To Die For,1995,2.0,R,Crime,Gus Van Sant,106,6.7,1,0.018867924528301886
+1555,To Die For,1995,2.0,R,Drama,Gus Van Sant,106,6.7,1,0.018867924528301886
+1556,Tombstone,1993,55.0,R,Action,George P. Cosmatos|Kevin Jarre,130,7.8,1,0.4230769230769231
+1557,Tombstone,1993,55.0,R,Drama,George P. Cosmatos|Kevin Jarre,130,7.8,1,0.4230769230769231
+1558,Tombstone,1993,55.0,R,History,George P. Cosmatos|Kevin Jarre,130,7.8,1,0.4230769230769231
+1559,Tombstone,1993,55.0,R,Romance,George P. Cosmatos|Kevin Jarre,130,7.8,1,0.4230769230769231
+1560,Tombstone,1993,55.0,R,Western,George P. Cosmatos|Kevin Jarre,130,7.8,1,0.4230769230769231
+1561,Tomorrow Never Dies,1997,55.0,PG-13,Action,Roger Spottiswoode,119,6.4,1,0.46218487394957986
+1562,Tomorrow Never Dies,1997,55.0,PG-13,Adventure,Roger Spottiswoode,119,6.4,1,0.46218487394957986
+1563,Tomorrow Never Dies,1997,55.0,PG-13,Crime,Roger Spottiswoode,119,6.4,1,0.46218487394957986
+1564,Total Recall,1990,77.0,R,Action,Paul Verhoeven,113,7.5,1,0.6814159292035398
+1565,Total Recall,1990,77.0,R,Adventure,Paul Verhoeven,113,7.5,1,0.6814159292035398
+1566,Total Recall,1990,77.0,R,Sci-Fi,Paul Verhoeven,113,7.5,1,0.6814159292035398
+1567,Transformers,2007,103.0,PG-13,Action,Michael Bay,144,7.1,1,0.7152777777777778
+1568,Transformers,2007,103.0,PG-13,Adventure,Michael Bay,144,7.1,1,0.7152777777777778
+1569,Transformers,2007,103.0,PG-13,Sci-Fi,Michael Bay,144,7.1,1,0.7152777777777778
+1570,Transformers: The Movie,1986,47.0,PG,Animation,Nelson Shin,84,7.2,1,0.5595238095238095
+1571,Transformers: The Movie,1986,47.0,PG,Action,Nelson Shin,84,7.2,1,0.5595238095238095
+1572,Transformers: The Movie,1986,47.0,PG,Adventure,Nelson Shin,84,7.2,1,0.5595238095238095
+1573,Transformers: The Movie,1986,47.0,PG,Family,Nelson Shin,84,7.2,1,0.5595238095238095
+1574,Transformers: The Movie,1986,47.0,PG,Sci-Fi,Nelson Shin,84,7.2,1,0.5595238095238095
+1575,Transporter 2,2005,11.0,PG-13,Action,Louis Leterrier,87,6.2,1,0.12643678160919541
+1576,Transporter 2,2005,11.0,PG-13,Crime,Louis Leterrier,87,6.2,1,0.12643678160919541
+1577,Transporter 2,2005,11.0,PG-13,Thriller,Louis Leterrier,87,6.2,1,0.12643678160919541
+1578,Troy,2004,572.0,R,Adventure,Wolfgang Petersen,163,7.1,1,3.5092024539877302
+1579,Troy,2004,572.0,R,Drama,Wolfgang Petersen,163,7.1,1,3.5092024539877302
+1580,True Lies,1994,71.0,R,Action,James Cameron,141,7.2,1,0.5035460992907801
+1581,True Lies,1994,71.0,R,Thriller,James Cameron,141,7.2,1,0.5035460992907801
+1582,True Romance,1993,21.0,R,Crime,Tony Scott,120,7.9,1,0.175
+1583,True Romance,1993,21.0,R,Thriller,Tony Scott,120,7.9,1,0.175
+1584,Two Mules for Sister Sara,1970,107.0,M,Adventure,Don Siegel,116,7.0,1,0.9224137931034483
+1585,Two Mules for Sister Sara,1970,107.0,M,Comedy,Don Siegel,116,7.0,1,0.9224137931034483
+1586,Two Mules for Sister Sara,1970,107.0,M,War,Don Siegel,116,7.0,1,0.9224137931034483
+1587,UHF,1989,36.0,PG-13,Comedy,Jay Levey,97,6.9,1,0.3711340206185567
+1588,Unbreakable,2000,4.0,PG-13,Drama,M. Night Shyamalan,106,7.2,1,0.03773584905660377
+1589,Unbreakable,2000,4.0,PG-13,Mystery,M. Night Shyamalan,106,7.2,1,0.03773584905660377
+1590,Unbreakable,2000,4.0,PG-13,Sci-Fi,M. Night Shyamalan,106,7.2,1,0.03773584905660377
+1591,Unbreakable,2000,4.0,PG-13,Thriller,M. Night Shyamalan,106,7.2,1,0.03773584905660377
+1592,Under Siege,1992,65.0,R,Action,Andrew Davis,103,6.4,1,0.6310679611650486
+1593,Under Siege,1992,65.0,R,Thriller,Andrew Davis,103,6.4,1,0.6310679611650486
+1594,Under Siege 2,1995,47.0,R,Action,Geoff Murphy,100,5.3,1,0.47
+1595,Under Siege 2,1995,47.0,R,Thriller,Geoff Murphy,100,5.3,1,0.47
+1596,Underworld,2003,58.0,R,Action,Len Wiseman,121,6.9,1,0.4793388429752066
+1597,Underworld,2003,58.0,R,Fantasy,Len Wiseman,121,6.9,1,0.4793388429752066
+1598,Underworld,2003,58.0,R,Thriller,Len Wiseman,121,6.9,1,0.4793388429752066
+1599,Underworld: Evolution,2006,75.0,R,Action,Len Wiseman,106,6.7,1,0.7075471698113207
+1600,Underworld: Evolution,2006,75.0,R,Fantasy,Len Wiseman,106,6.7,1,0.7075471698113207
+1601,Underworld: Evolution,2006,75.0,R,Sci-Fi,Len Wiseman,106,6.7,1,0.7075471698113207
+1602,Underworld: Evolution,2006,75.0,R,Thriller,Len Wiseman,106,6.7,1,0.7075471698113207
+1603,Universal Soldier,1992,47.0,R,Action,Roland Emmerich,102,5.9,1,0.46078431372549017
+1604,Universal Soldier,1992,47.0,R,Drama,Roland Emmerich,102,5.9,1,0.46078431372549017
+1605,Universal Soldier,1992,47.0,R,Sci-Fi,Roland Emmerich,102,5.9,1,0.46078431372549017
+1606,Van Helsing,2004,65.0,PG-13,Action,Stephen Sommers,131,5.8,1,0.4961832061068702
+1607,Van Helsing,2004,65.0,PG-13,Adventure,Stephen Sommers,131,5.8,1,0.4961832061068702
+1608,Van Helsing,2004,65.0,PG-13,Fantasy,Stephen Sommers,131,5.8,1,0.4961832061068702
+1609,Waist Deep,2006,6.0,R,Action,Vondie Curtis-Hall,97,5.8,1,0.061855670103092786
+1610,Waist Deep,2006,6.0,R,Crime,Vondie Curtis-Hall,97,5.8,1,0.061855670103092786
+1611,Waist Deep,2006,6.0,R,Drama,Vondie Curtis-Hall,97,5.8,1,0.061855670103092786
+1612,Waist Deep,2006,6.0,R,Thriller,Vondie Curtis-Hall,97,5.8,1,0.061855670103092786
+1613,Walk Hard: The Dewey Cox Story,2007,5.0,R,Comedy,Jake Kasdan,96,6.7,1,0.052083333333333336
+1614,Walk Hard: The Dewey Cox Story,2007,5.0,R,Drama,Jake Kasdan,96,6.7,1,0.052083333333333336
+1615,Walk Hard: The Dewey Cox Story,2007,5.0,R,Music,Jake Kasdan,96,6.7,1,0.052083333333333336
+1616,Walking Tall,2004,6.0,PG-13,Action,Kevin Bray,86,6.1,1,0.06976744186046512
+1617,Walking Tall,2004,6.0,PG-13,Crime,Kevin Bray,86,6.1,1,0.06976744186046512
+1618,Wanted,2008,57.0,R,Action,Timur Bekmambetov,110,6.7,1,0.5181818181818182
+1619,Wanted,2008,57.0,R,Crime,Timur Bekmambetov,110,6.7,1,0.5181818181818182
+1620,Wanted,2008,57.0,R,Thriller,Timur Bekmambetov,110,6.7,1,0.5181818181818182
+1621,War,2007,97.0,R,Action,Philip G. Atwell,103,6.2,1,0.941747572815534
+1622,War,2007,97.0,R,Crime,Philip G. Atwell,103,6.2,1,0.941747572815534
+1623,War,2007,97.0,R,Thriller,Philip G. Atwell,103,6.2,1,0.941747572815534
+1624,War of the Worlds,2005,52.0,PG-13,Documentary,Steven Spielberg,116,6.5,1,0.4482758620689655
+1625,War of the Worlds,2005,52.0,PG-13,History,Steven Spielberg,116,6.5,1,0.4482758620689655
+1626,"War, Inc.",2008,73.0,R,Action,Joshua Seftel,107,5.6,1,0.6822429906542056
+1627,"War, Inc.",2008,73.0,R,Comedy,Joshua Seftel,107,5.6,1,0.6822429906542056
+1628,"War, Inc.",2008,73.0,R,Thriller,Joshua Seftel,107,5.6,1,0.6822429906542056
+1629,Warriors of the Wasteland ,1983,89.0,R,Action,Enzo G. Castellari,91,4.4,1,0.978021978021978
+1630,Warriors of the Wasteland ,1983,89.0,R,Sci-Fi,Enzo G. Castellari,91,4.4,1,0.978021978021978
+1631,Warriors of the Wasteland ,1983,89.0,R,Thriller,Enzo G. Castellari,91,4.4,1,0.978021978021978
+1632,Wasabi,2001,22.0,R,Action,Gerard Krawczyk,94,6.5,1,0.23404255319148937
+1633,Wasabi,2001,22.0,R,Drama,Gerard Krawczyk,94,6.5,1,0.23404255319148937
+1634,Wasabi,2001,22.0,R,Comedy,Gerard Krawczyk,94,6.5,1,0.23404255319148937
+1635,Wasabi,2001,22.0,R,Crime,Gerard Krawczyk,94,6.5,1,0.23404255319148937
+1636,Wasabi,2001,22.0,R,Thriller,Gerard Krawczyk,94,6.5,1,0.23404255319148937
+1637,Watchmen,2009,77.0,R,Action,Zack Snyder,162,7.6,1,0.47530864197530864
+1638,Watchmen,2009,77.0,R,Drama,Zack Snyder,162,7.6,1,0.47530864197530864
+1639,Watchmen,2009,77.0,R,Mystery,Zack Snyder,162,7.6,1,0.47530864197530864
+1640,Waterloo,1970,210.0,G,Action,Sergey Bondarchuk,123,7.2,1,1.7073170731707317
+1641,Waterloo,1970,210.0,G,Drama,Sergey Bondarchuk,123,7.2,1,1.7073170731707317
+1642,Waterloo,1970,210.0,G,History,Sergey Bondarchuk,123,7.2,1,1.7073170731707317
+1643,Waterworld,1995,67.0,PG-13,Action,Kevin Reynolds,135,6.0,1,0.4962962962962963
+1644,Waterworld,1995,67.0,PG-13,Adventure,Kevin Reynolds,135,6.0,1,0.4962962962962963
+1645,Waterworld,1995,67.0,PG-13,Sci-Fi,Kevin Reynolds,135,6.0,1,0.4962962962962963
+1646,We Were Soldiers,2002,305.0,R,Action,Randall Wallace,138,7.0,1,2.210144927536232
+1647,We Were Soldiers,2002,305.0,R,Drama,Randall Wallace,138,7.0,1,2.210144927536232
+1648,We Were Soldiers,2002,305.0,R,History,Randall Wallace,138,7.0,1,2.210144927536232
+1649,We Were Soldiers,2002,305.0,R,War,Randall Wallace,138,7.0,1,2.210144927536232
+1650,Where Eagles Dare,1968,100.0,M,Action,Brian G. Hutton,158,7.6,1,0.6329113924050633
+1651,Where Eagles Dare,1968,100.0,M,Adventure,Brian G. Hutton,158,7.6,1,0.6329113924050633
+1652,Where Eagles Dare,1968,100.0,M,War,Brian G. Hutton,158,7.6,1,0.6329113924050633
+1653,Wild Wild West,1999,95.0,PG-13,Action,Barry Sonnenfield,106,4.7,1,0.8962264150943396
+1654,Wild Wild West,1999,95.0,PG-13,Western,Barry Sonnenfield,106,4.7,1,0.8962264150943396
+1655,Wild Wild West,1999,95.0,PG-13,Comedy,Barry Sonnenfield,106,4.7,1,0.8962264150943396
+1656,Windtalkers,2002,389.0,R,Action,John Woo,134,5.9,1,2.9029850746268657
+1657,Windtalkers,2002,389.0,R,Drama,John Woo,134,5.9,1,2.9029850746268657
+1658,Windtalkers,2002,389.0,R,War,John Woo,134,5.9,1,2.9029850746268657
+1659,Yojimbo,1961,61.0,Unrated,Action,Akira Kurosawa,110,8.4,1,0.5545454545454546
+1660,Yojimbo,1961,61.0,Unrated,Adventure,Akira Kurosawa,110,8.4,1,0.5545454545454546
+1661,You Kill Me,2007,10.0,R,Comedy,John Dahl,93,6.5,1,0.10752688172043011
+1662,You Kill Me,2007,10.0,R,Crime,John Dahl,93,6.5,1,0.10752688172043011
+1663,You Kill Me,2007,10.0,R,Romance,John Dahl,93,6.5,1,0.10752688172043011
+1664,You Kill Me,2007,10.0,R,Thriller,John Dahl,93,6.5,1,0.10752688172043011
+1665,You Only Live Twice,1967,91.0,Approved,Action,Lewis Gilbert,117,6.9,1,0.7777777777777778
+1666,You Only Live Twice,1967,91.0,Approved,Adventure,Lewis Gilbert,117,6.9,1,0.7777777777777778
+1667,You Only Live Twice,1967,91.0,Approved,Crime,Lewis Gilbert,117,6.9,1,0.7777777777777778
+1668,You Only Live Twice,1967,91.0,Approved,Thriller,Lewis Gilbert,117,6.9,1,0.7777777777777778
+1669,Zatoichi,2003,81.0,R,Action,Takeshi Kitano,116,7.6,1,0.6982758620689655
+1670,Zatoichi,2003,81.0,R,Comedy,Takeshi Kitano,116,7.6,1,0.6982758620689655
+1671,Zatoichi,2003,81.0,R,Crime,Takeshi Kitano,116,7.6,1,0.6982758620689655
+1672,Zodiac,2007,3.0,R,Crime,David Fincher,157,7.7,1,0.01910828025477707
+1673,Zodiac,2007,3.0,R,Drama,David Fincher,157,7.7,1,0.01910828025477707
+1674,Zodiac,2007,3.0,R,Mystery,David Fincher,157,7.7,1,0.01910828025477707
+1675,Zodiac,2007,3.0,R,Thriller,David Fincher,157,7.7,1,0.01910828025477707
+1676,Zombieland,2009,109.0,R,Comedy,Ruben Fleischer,88,7.7,1,1.2386363636363635
+1677,Zombieland,2009,109.0,R,Horror,Ruben Fleischer,88,7.7,1,1.2386363636363635
+1678,Zoolander,2001,4.0,PG-13,Comedy,Ben Stiller,89,6.5,1,0.0449438202247191
+1679,Zulu,1964,140.0,Unrated,Drama,Cy Endfield,138,7.8,1,1.0144927536231885
+1680,Zulu,1964,140.0,Unrated,History,Cy Endfield,138,7.8,1,1.0144927536231885
+1681,Zulu,1964,140.0,Unrated,War,Cy Endfield,138,7.8,1,1.0144927536231885

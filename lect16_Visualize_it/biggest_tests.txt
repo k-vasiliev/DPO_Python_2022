@@ -1,0 +1,75 @@
+,Date (GMT),Test Site,Yield (megatons),Deployment,Country,Name or Number
+0,"October 30, 1961",Novaya Zemlya,50,parachute air drop,Soviet Union,"Tsar Bomba, Test #130"
+1,"December 24, 1962",Novaya Zemlya,24.2,missile warhead,Soviet Union,Test #219
+2,"August 5, 1962",Novaya Zemlya,21.1,air drop,Soviet Union,Test #147
+3,"September 27, 1962",Novaya Zemlya,20.0,air drop,Soviet Union,Test #174
+4,"September 25, 1962",Novaya Zemlya,19.1,air drop,Soviet Union,Test #173
+5,"March 1, 1954",Bikini Atoll,15,ground,USA,Castle Bravo
+6,"May 5, 1954",Bikini Atoll,13.5,barge,USA,Castle Yankee
+7,"October 23, 1961",Novaya Zemlya,12.5,air drop,Soviet Union,Test #123
+8,"March 26, 1954",Bikini Atoll,11.0,barge,USA,Castle Romeo
+9,"October 31, 1952",Enewetak Atoll,10.4,ground,USA,Ivy Mike
+10,"August 25, 1962",Novaya Zemlya,10.0,air drop,Soviet Union,Test #158
+11,"September 19, 1962",Novaya Zemlya,10.0,air drop,Soviet Union,Test #168
+12,"July 11, 1958",Bikini Atoll,9.3,barge,USA,Poplar
+13,"June 28, 1958",Enewetak Atoll,8.9,barge,USA,Oak
+14,"October 30, 1962",Johnston Atoll,8.3,air drop,USA,Housatonic
+15,"October 22, 1962",Novaya Zemlya,8.2,air drop,Soviet Union,Test #183
+16,"June 27, 1962",Kiritimati,7.7,air drop,USA,Bighorn
+17,"April 25, 1954",Bikini Atoll,6.9,barge,USA,Castle Union
+18,"July 20, 1956",Bikini Atoll,5.0,barge,USA,Tewa
+19,"October 31, 1961",Novaya Zemlya,5.0,air drop,Soviet Union,Test #131
+20,"November 6, 1971",Amchitka,4.8,underground shaft,USA,Cannikin
+21,"July 10, 1956",Bikini Atoll,4.5,barge,USA,Navajo
+22,"August 27, 1962",Novaya Zemlya,4.2,air drop,Soviet Union,Test #160
+23,"October 6, 1961",Novaya Zemlya,4.0,air drop,Soviet Union,Test #114
+24,"October 27, 1973",Novaya Zemlya,4.0,underground shaft,Soviet Union,Test #392
+25,"November 17, 1976",Lop Nur,4.0,air drop,China,Test (21)
+26,"July 11, 1962",Kiritimati,3.9,parachuted,USA,Pamlico
+27,"May 20, 1956",Bikini Atoll,3.8,free air drop,USA,Cherokee
+28,"August 1, 1958",Johnston Atoll,3.8,high alt rocket,USA,Teak
+29,"August 12, 1958",Johnston Atoll,3.8,high alt rocket,USA,Orange
+30,"September 12, 1973",Novaya Zemlya,3.8,tunnel,Soviet Union,Test #385 - 1
+31,"May 27, 1956",Bikini Atoll,3.5,dry surface,USA,Zuni
+32,"October 14, 1970",Lop Nur,3.4,air drop,China,CHIC-11
+33,"September 16, 1962",Novaya Zemlya,3.3,air drop,Soviet Union,Test #166
+34,"June 17, 1967",Lop Nur,3.3,parachuted,China,CHIC-6
+35,"September 15, 1962",Novaya Zemlya,3.1,air drop,Soviet Union,Test #165
+36,"December 25, 1962",Novaya Zemlya,3.1,air drop,Soviet Union,Test #220
+37,"April 28, 1958",Kiritimati,3.0,air drop,UK,Grapple Y
+38,"October 4, 1961",Novaya Zemlya,3.0,air drop,Soviet Union,Test #113
+39,"June 10, 1962",Kiritimati,3.0,free air drop,USA,Yeso
+40,"December 27, 1968",Lop Nur,3.0,air drop,China,CHIC-8
+41,"September 29, 1969",Lop Nur,3.0,air drop,China,CHIC-10
+42,"June 27, 1973",Lop Nur,3.0,air drop,China,Test (15)
+43,"October 6, 1957",Novaya Zemlya,2.9,air drop,Soviet Union,Test #47
+44,"October 18, 1958",Novaya Zemlya,2.9,air drop,Soviet Union,Test #73
+45,"October 22, 1958",Novaya Zemlya,2.8,air drop,Soviet Union,Test #78
+46,"August 20, 1962",Novaya Zemlya,2.8,air drop,Soviet Union,Test #152
+47,"September 10, 1961",Novaya Zemlya,2.7,air drop,Soviet Union,90 Vozduj
+48,"August 24, 1968",Fangataufa,2.6,balloon,France,Canopus
+49,"September 27, 1971",Novaya Zemlya,2.5,tunnel,Soviet Union,Test #345 - 1
+50,"September 21, 1962",Novaya Zemlya,2.4,air drop,Soviet Union,Test #169
+51,"November 2, 1974",Novaya Zemlya,2.3,underground shaft,Soviet Union,Test #411
+52,"October 14, 1970",Novaya Zemlya,2.2,tunnel,Soviet Union,Test #327 - 1
+53,"July 26, 1958",Enewetak Atoll,2.0,barge,USA,Pine
+54,"July 8, 1956",Enewetak Atoll,1.9,barge,USA,Apache
+55,"September 8, 1962",Novaya Zemlya,1.9,high alt rocket,Soviet Union,164 Tyulpan
+56,"March 26, 1970",Nevada,1.9,underground shaft,USA,Handley
+57,"November 8, 1957",Kiritimati,1.8,air drop,UK,Grapple X
+58,"May 13, 1954",Enewetak Atoll,1.7,barge,USA,Nectar
+59,"November 22, 1955",Semipalatinsk,1.6,air drop,Soviet Union,24 Binarnaya
+60,"September 24, 1957",Novaya Zemlya,1.6,air drop,Soviet Union,Test #45
+61,"August 22, 1962",Novaya Zemlya,1.6,air drop,Soviet Union,Test #154
+62,"October 18, 1962",Johnston Atoll,1.6,parachuted,USA,Chama
+63,"February 27, 1958",Novaya Zemlya,1.5,air drop,Soviet Union,Test #54
+64,"June 14, 1958",Enewetak Atoll,1.5,barge,USA,Walnut
+65,"October 12, 1958",Novaya Zemlya,1.5,air drop,Soviet Union,Test #71
+66,"October 15, 1958",Novaya Zemlya,1.5,air drop,Soviet Union,Test #72
+67,"September 20, 1961",Novaya Zemlya,1.5,high alt rocket,Soviet Union,106 Volga1
+68,"October 20, 1961",Novaya Zemlya,1.5,high alt rocket,Soviet Union,121 Raduga
+69,"November 4, 1961",Novaya Zemlya,1.5,air drop,Soviet Union,Test #140
+70,"May 11, 1958",Bikini Atoll,1.4,barge,USA,Fir
+71,"May 12, 1958",Enewetak Atoll,1.4,dry surface,USA,Koa
+72,"July 9, 1962",Johnston Atoll,1.4,space rocket,USA,Starfish Prime
+73,"September 18, 1962",Novaya Zemlya,1.4,air drop,Soviet Union,Test #167
